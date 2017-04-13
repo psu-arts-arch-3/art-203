@@ -12,10 +12,11 @@
     * [Self Portrait Site](unit-1/lesson-1/self-portrait-site.md)
     * [Summary](unit-1/lesson-1/summary.md)
   * [Lesson 2](lesson-2.md)
-    * Overview
-    * Intro to HTML
-    * File Transfer Protocols
-    * The Class Blog
+    * [Overview](lesson-2/overview.md)
+    * [Intro to HTML](lesson-2/intro-to-html.md)
+    * [File Transfer Protocols](lesson-2/file-transfer-protocols.md)
+    * Hosting with Github
+    * [The Class Blog](lesson-2/the-class-blog.md)
     * Summary
 
 
