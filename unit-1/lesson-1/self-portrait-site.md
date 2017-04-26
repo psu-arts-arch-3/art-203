@@ -1,8 +1,12 @@
-Create a website using GitHub pages that acts as a virtual "self portrait" and introduces yourself to the class. Write a short few sentences about where you are are, what you do, and what brings you to this class. Be sure to mention any past experience you have with web development, graphic design,  media production, or other geeky pursuits. 
+Your assignment for this week to to make a Self Portrait website that introduces you to the class. You don't have to include a photo of yourself, but it would be nice to see who we're working with. Add some text and images that provide a glimpse into what makes you the person you are. You might include:
 
-Add some images that you think represent yourself or your interests.
+* Where you live
+* Your job
+* Why you're taking this class
+* Past work in web, art, or media
+* Hobbies, pets, fandoms
 
-Choose colors and fonts that contribute to the overall feel of the website and help make it a reflection of your personality. Don't think about it too much, just make something that satisfies you.
 
-GitHub Pages has limited options, so just do what you can. 
+
+
 

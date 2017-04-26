@@ -8,8 +8,8 @@
 * [Unit 1](unit-1.md)
   * [Lesson 1](unit-1/lesson-1.md)
     * [Overview](unit-1/lesson-1/overview.md)
-    * Visual Editors
-    * [GitHub](unit-1/lesson-1/github.md)
+    * [Visual Editors](unit-1/lesson-1/visual-editors.md)
+
     * [Self Portrait Site](unit-1/lesson-1/self-portrait-site.md)
     * [Summary](unit-1/lesson-1/summary.md)
   * [Lesson 2](lesson-2.md)
