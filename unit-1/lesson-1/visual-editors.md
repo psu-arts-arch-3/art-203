@@ -8,7 +8,7 @@ Some visual editors for making quick websites include: Weebly, Wix, Google Sites
 
 There are also blogging platforms like Wordpress and Tumblr that can function relatively well as standalone sites.
 
-Most of these platforms will let you host a site using a subdomain of the service \(such as: "http://site-name.weebly.com"\), and may have various premium options for unique URL's or other options. The other big player in this field is Squarespace, which only offers paid plans, but is also built around a visual editor for building sites. 
+Most of these platforms will let you host a site using a subdomain of the service \(such as: "[http://site-name.weebly.com"](http://site-name.weebly.com"\)\), and many have premium options for unique URL's and other options. The other big player in this field is Squarespace, which only offers paid plans, but is also built around a visual editor for building sites.
 
-The risk with these visual editors is that by simplifying the design process, they risk making it _too_ simple and taking away  functionality or customization. So, is the tradeoff worth it? Let's give it a try, by using one of the newer visual editors: GitHub Pages.
+The risk with these visual editors is that by simplifying the design process, they risk making it _too_ simple and taking away  functionality or customization. So, is the tradeoff worth it to be able to create a website in just a few minutes? Let's give it a try.
 
