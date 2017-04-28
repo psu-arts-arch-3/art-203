@@ -1,8 +1,6 @@
+Given that every website you visit begins with "http," you can probably guess that Hyper Text is an essential building block of the Internet. In fact, building blocks are a great analogy for thinking about HTML. Hyper Text Markup Language \(HTML\) isn't really programing, in the same way that languages like Java or C are, because HTML doesn't deal with logic and interaction in any complex sense. But like those programming languages, it's important to remember that HTML is text—_only text._ Which means that every webpage you visit \(including this one\) is a pretty visual display that is created by programmatic text.
 
-
-Given that every website you visit begins with "http," you can probably guess that Hyper Text is an essential building block of the Internet. In fact, building blocks are a great analogy for thinking about HTML. Hyper Text Markup Language \(HTML\) isn't really programing, in the same way that languages like Java or C are, because HTML doesn't deal with logic and interaction in any complex sense. But like those programming languages, it's important to remember that HTML is text—_only text._ Which means that every webpage you visit \(including this one\) is a pretty visual display that is created by programmatic text. 
-
-You can see the raw HTML of any web page by right clicking on the page and selecting "View Page Source." Give it a try, I'll wait. 
+You can see the raw HTML of any web page by right clicking on the page and selecting "View Page Source." Give it a try, I'll wait.
 
 ...
 
@@ -20,7 +18,7 @@ HTML consists largely of elements \(sometimes called "tags"\) that are defined w
 <element> CONTENT </element>
 ```
 
-In between the two &lt;element&gt; tags is the content of this example. The content is what actually displays in the web browser, and the opening and closing tags are there to identify the type of content. 
+In between the two &lt;element&gt; tags is the content of this example. The content is what actually displays in the web browser, and the opening and closing tags are there to identify the type of content.
 
 This text is inside of a paragraph element, so in raw HTML it looks like this:
 
@@ -32,11 +30,11 @@ Text, images, links, and even videos can be displayed in HTML elements, but ther
 
 EMBED CODEPEN
 
-https://codepen.io/BenFictional/pen/EmWVxd
+[https://codepen.io/BenFictional/pen/EmWVxd](https://codepen.io/BenFictional/pen/EmWVxd)
 
-Don't worry about the color yet, but just note that the &lt;div&gt; acts like a container for the two paragraph elements. There's some other behavior you can observe too in this generic example: the paragraphs are on separate lines, and the div stretches to fill the entire width of the window. 
+Don't worry about the color yet, but just note that the &lt;div&gt; acts like a container for the two paragraph elements. There's some other behavior you can observe too in this generic example: the paragraphs are on separate lines, and the div stretches to fill the entire width of the window.
 
-In order for web browsers to render HTML correctly, it's expected to wrap the entire content of the page within an &lt;html&gt; element.   The other major standard is that each page includes a &lt;head&gt; and &lt;body&gt; section. The head is meant to contain invisible metadata like the page title and links to assets used later in the page. The body contains the actual content of the page. It's also good to include an additional declaration that the web browser should render this text as HTML just to make sure everything works properly: 
+In order for web browsers to render HTML correctly, it's expected to wrap the entire content of the page within an &lt;html&gt; element.   The other major standard is that each page includes a &lt;head&gt; and &lt;body&gt; section. The head is meant to contain invisible metadata like the page title and links to assets used later in the page. The body contains the actual content of the page. It's also good to include an additional declaration that the web browser should render this text as HTML just to make sure everything works properly:
 
 ```
 <!DOCTYPE html>
@@ -50,7 +48,7 @@ In order for web browsers to render HTML correctly, it's expected to wrap the en
 </html>
 ```
 
-The &lt;title&gt; element defines what appears in the web browser's tab, search engine results, and other important locations. 
+The &lt;title&gt; element defines what appears in the web browser's tab, search engine results, and other important locations.
 
 ### Common HTML Elements
 
@@ -64,25 +62,27 @@ You can search online for lists of complete HTML elements—here's a nice [cheat
 
 &lt;h2&gt;, &lt;h3&gt;, &lt;h4&gt;, &lt;h5&gt;, &lt;h6&gt; Successively smaller header fonts.
 
-&lt;b&gt; Bold text; can be used in conjunction with any of the above. 
+&lt;b&gt; Bold text; can be used in conjunction with any of the above.
 
-&lt;em&gt; Italic text; can be used in conjunction with any of the above. 
+&lt;em&gt; Italic text; can be used in conjunction with any of the above.
 
 &lt;ul&gt; Unordered list \(bullet points\)
 
 &lt;ol&gt; Ordered List \(numbers\)
 
-&lt;li&gt; Each element in an ordered or unordered list. 
+&lt;li&gt; Each element in an ordered or unordered list.
 
-&lt;a&gt; Hyperlink to another web page. The format is &lt;a href="http://google.com"&gt;Some text&lt;/a&gt;
+&lt;a&gt; Hyperlink to another web page. The format is &lt;a href="[http://google.com"&gt;Some](http://google.com">Some) text&lt;/a&gt;
 
 #### Media
 
-&lt;img&gt;
+&lt;img&gt; Images; note that there is no closing tag for this. All the information is enclosed with a single &lt;img&gt; tag
 
-&lt;video&gt;
+```
+<img src="path-to-the-image" alt="Alt text" title="Image title">
+```
 
-&lt;audio&gt;
+
 
 #### Layout
 
@@ -94,25 +94,21 @@ You can search online for lists of complete HTML elements—here's a nice [cheat
 
 #### HTML5
 
-The fifth worldwide update to HTML \(2014\) introduced a number of new elements designed to help organize page content. These all function the same as a &lt;div&gt; but they have more unique names so anyone reading your code can more easily figure out what you're up to. 
+The fifth worldwide update to HTML \(2014\) introduced a number of new elements designed to help organize page content. These all function the same as a &lt;div&gt; but they have more unique names so anyone reading your code can more easily figure out what you're up to.
 
-&lt;header&gt; The top section of a webpage. 
+&lt;header&gt; The top section of a webpage.
 
 &lt;nav&gt; The navigation section, typically includes menu links.
 
 &lt;main&gt; The main content area of a page.
 
-&lt;section&gt; Any discrete section of a page. 
+&lt;section&gt; Any discrete section of a page.
 
-&lt;article&gt; An article; one would assume with a title and author and such. 
+&lt;article&gt; An article; one would assume with a title and author and such.
 
 &lt;footer&gt; The footer section, usually containing site-wide info at the bottom of a page.
 
-You could technically use these tags however you like \(for example putting a &lt;footer&gt; at the top of your page\), but search engines use these tags to analyze what content is important on a web page. It's also important to keep your code "human-readable" so that it makes sense to collaborators and yourself. 
-
-
-
-
+You could technically use these tags however you like \(for example putting a &lt;footer&gt; at the top of your page\), but search engines use these tags to analyze what content is important on a web page. It's also important to keep your code "human-readable" so that it makes sense to collaborators and yourself.
 
 
 
