@@ -13,12 +13,9 @@
     * [Summary](unit-1/lesson-1/summary.md)
   * [Lesson 2](lesson-2.md)
     * [Overview](lesson-2/overview.md)
-    * How the Internet Works
+    * [How the Internet Works](lesson-2/how-the-internet-works.md)
     * [Intro to HTML](lesson-2/intro-to-html.md)
-
     * [Hosting with Github](lesson-2/hosting-with-github.md)
     * [The Class Blog](lesson-2/the-class-blog.md)
     * [Summary](lesson-2/summary.md)
-
-
 
