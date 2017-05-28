@@ -8,8 +8,7 @@
 * [Unit 1](unit-1.md)
   * [Lesson 1](unit-1/lesson-1.md)
     * [Visual Editors](unit-1/lesson-1/visual-editors.md)
-
-    * Introducing Wordpress
+    * [Introducing Wordpress](unit-1/lesson-1/introducing-wordpress.md)
     * Exercise 1: Self-Portrait Site
     * Exercise 2: Create a Blog
     * Assignment: Blog Post
@@ -48,6 +47,4 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
-
-
 
