@@ -9,7 +9,7 @@
   * [Lesson 1](unit-1/lesson-1.md)
     * [Visual Editors](unit-1/lesson-1/visual-editors.md)
     * [Introducing Wordpress](unit-1/lesson-1/introducing-wordpress.md)
-    * Exercise 1: Self-Portrait Site
+    * [Exercise 1: Self-Portrait Site](unit-1/lesson-1/exercise-1-self-portrait-site.md)
     * Exercise 2: Create a Blog
     * Assignment: Blog Post
   * [Lesson 2](lesson-2.md)
