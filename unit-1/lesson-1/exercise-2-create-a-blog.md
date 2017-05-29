@@ -10,22 +10,26 @@ Students will use their research blogs throughout the course, but for this exerc
 
 ### Creating a Site
 
-![](/assets/create-site.png)
+![](/assets/wordpress/create-site.png)
 
 * Go to sites.psu.edu and click the big "Create a site" button on the homepage. 
 * Login with your PSU credentials.  
 * Fill out the following fields:
-  * Site Address refers to the URL for your site; whatever you enter will result in a URL like "\[[http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\](http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29\)\). Only lowercase letters and numbers are allowed. 
+  * Site Address refers to the URL for your site; whatever you enter will result in a URL like "\[\[[http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\)\](http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29%29\)\). Only lowercase letters and numbers are allowed. 
   * Site Title is the general name for your site; you probably want to enter the same thing you used for the Site Address, but you can call it whatever you want \(and you can change it later\). 
   * Privacy will determine if your site is promoted to search engine and public web listings \(this can also be changed later\). Choose whatever you like. 
 
 ### The Interface
 
-You should have received a confirmation screen with links to the site itself and the administration backend. If not, you can always just type your URL into your web browser \(e.g. "\[[http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\](http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29\)\).
+You should have received a confirmation screen with links to the site itself and the administration backend. If not, you can always just type your URL into your web browser \(e.g. "\[\[[http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\)\](http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29%29\)\).
 
-![](/assets/dashboard.png)While logged in, you should see a navigation menu at the top of the screen with a dropdown called "My Sites" — you can even have multiple sites. Select your site and click "Dashboard" to access the backend of your  site.
+![](/assets/wordpress/dashboard.png)
 
-![](/assets/admin-screen.png)The Dashboard provides and overview of recent activity on your site, but it's really just one of several sections in the Wordpress backend, and we're more interested in all those other sections listed in the lefthand sidebar.
+While logged in, you should see a navigation menu at the top of the screen with a dropdown called "My Sites" — you can even have multiple sites. Select your site and click "Dashboard" to access the backend of your  site.
+
+![](/assets/wordpress/admin-screen.png)
+
+The Dashboard provides and overview of recent activity on your site, but it's really just one of several sections in the Wordpress backend, and we're more interested in all those other sections listed in the lefthand sidebar.
 
 \_**PRO TIP: **\_Applications like Wordpress, Photoshop, or Microsoft Office use a lot of the same design terms \(e.g. "sidebars"\) and visual conventions of websites. Always pay attention to how information is presented to you and file that knowledge away for your own projects.
 
@@ -46,7 +50,7 @@ Select "Appearance" from the sidebar and then choose "Themes."
 
 There are several hundred themes available to choose from, and each one will change the visual appearance of your site without altering the content \(e.g. posts, pages, text, images, etc.\) — and you can change your theme whenever you want.
 
-![](/assets/themes.png)
+![](/assets/wordpress/themes.png)
 
 The active theme \(Twenty Sixteen by default\) should be highlighted, and to activate a different theme just hover over it and click "Activate." You can also see a "Live Preview" of a theme, but since we're only sharing these blogs with the class there's not a big risk in changing themes at will. For a professional website, you would want to do lots of testing before launching a new theme.
 
@@ -54,7 +58,7 @@ Each theme will have slightly different options for what you can customize. For 
 
 Further customizations is available under Appearance &gt;&gt;&gt; Customize.
 
-![](/assets/customize.png)
+![](/assets/wordpress/customize.png)
 
 The Customize screen offers a new sidebar with settings related to the visual appearance of your site. This is a quick way to choose unique colors for text, set any background images, and other site-wide styles. To exit this screen click the X in the top-left corner. Also note the buttons at the bottom of the sidebar that allow you to preview the site on different screen sizes \(e.g. mobile, tablet, desktop\). We'll talk a lot more about working with different screen sizes throughout the course.
 
@@ -64,7 +68,7 @@ Once you've chosen a theme, you should add some quick content just to get a feel
 
 In the Wordpress backend, select  "Pages" from the sidebar and "Add New" to create a new page.
 
-![](/assets/add-page.png)
+![](/assets/wordpress/add-page.png)
 
 Name the page "About" and write 1-2 paragraphs about yourself. You can re-use any text from your self-portrait site, or write something new.  This is just to remind people who you are when we're reading each other's blogs in the future.
 
@@ -72,7 +76,9 @@ The main section of the "Add New Page" screen is the Editing Area, which provide
 
 Publish the page with the big blue button on the right; note that you can also "Save Draft" to save your content without publishing it, or "Preview" how it will look on the website.
 
-![](/assets/wp-layout.png)Wordpress is designed around modular sections, some of which can reoccur on every part of the website, this allows you to add content \(e.g. a Post\) without having to include things like the header and menu every time. Not pictured above is the Footer, which is at the bottom of every page by default.
+![](/assets/wordpress/wp-layout.png)
+
+Wordpress is designed around modular sections, some of which can reoccur on every part of the website, this allows you to add content \(e.g. a Post\) without having to include things like the header and menu every time. Not pictured above is the Footer, which is at the bottom of every page by default.
 
 ### Menus
 
@@ -109,5 +115,7 @@ Publish your Post. If you just edited the default Post, make sure you change the
 
 By default Posts are displayed on the homepage of your site. It's possible set up a different page to display blog posts, and have a static homepage. If you want, you can make those changes under Settings &gt;&gt;&gt; Reading
 
-![](/assets/reading.png)By default the homepage displays "Your latest posts" but you can change it to a "static page" if you want. You can choose from any of your published pages—and then you'll have to set a different page to display your Posts \(e.g. a page called "Blog"\).
+![](/assets/wordpress/reading.png)
+
+By default the homepage displays "Your latest posts" but you can change it to a "static page" if you want. You can choose from any of your published pages—and then you'll have to set a different page to display your Posts \(e.g. a page called "Blog"\).
 
