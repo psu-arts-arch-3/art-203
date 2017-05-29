@@ -6,7 +6,7 @@ Students will create these blogs with Wordpress, another platform that is often 
 
 ### There are two Wordpresses
 
-**Wordpress.com **is a free blogging platform that is where a lot of people cut their teeth in the world of blogging and web design. When you create a site with Wordpress.com you end up with a site like "[http://my-awesome-site.wordpress.com](http://my-awesome-site.wordpress.com)" and like other visual editors, there is a paid upgrade to get your own domain name \(e.g. "[http://my-awesome-site.com"\](http://my-awesome-site.com"\)\) and let the Wordpress team handle the behind the scenes stuff.
+**Wordpress.com **is a free blogging platform that is where a lot of people cut their teeth in the world of blogging and web design. When you create a site with Wordpress.com you end up with a site like "[http://my-awesome-site.wordpress.com](http://my-awesome-site.wordpress.com)" and like other visual editors, there is a paid upgrade to get your own domain name \(e.g. "\[[http://my-awesome-site.com"\]\(http://my-awesome-site.com"\)\](http://my-awesome-site.com"]%28http://my-awesome-site.com"%29\)\) and let the Wordpress team handle the behind the scenes stuff.
 
 Like most visual editors and blogging platforms, Wordpress.com offers a **backend** that authors can use to log-in and post new content. The backend isn't visible to the public and is essentially an application that runs in your web browser. The actual website that people see online is called the **frontend.**
 
@@ -26,11 +26,13 @@ Creating a site here is very similar to creating a free blog with Wordpress.comâ
 * **Raw Files: **You will not have access to the raw files that are used to run Wordpress. This means even if you know PHP, you won't be able to do crazy advanced customization of these sites. 
 * **Domain Names:** Since your sites are hosted by Penn State, they will have URL's like "[http://sites.psu.edu/YourName](http://sites.psu.edu/YourName)" 
 
-Further instructions on creating your blog are located in Exercise 2 of this Lesson. 
+Further instructions on creating your blog are located in Exercise 2 of this Lesson.
 
-### Wordpress Tutorials
+### Optional Tutorials
 
-TBD Lynda Videos
+Specific instructions will be provided for upcoming exercises and assignments, but if you want more general guidance on using Wordpress, you can check out the following Lynda videos:
+
+**Video Playlist:** [**Wordpress Basics**](https://www.lynda.com/SharedPlaylist/0a8ab9e9e973469f98b26efd5ed6da8b?org=psu.edu)
 
 
 
