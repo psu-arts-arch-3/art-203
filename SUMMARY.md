@@ -14,7 +14,8 @@
     * [Assignment: Blog Post](unit-1/lesson-1/assignment-blog-post.md)
   * [Lesson 2](lesson-2.md)
     * [How the Internet Works](lesson-2/how-the-internet-works.md)
-    * [HTML and CSS](lesson-2/intro-to-html.md)
+    * [HTML](lesson-2/intro-to-html.md) Crash Course
+    * CSS Crash Course
     * [PASS Hosting](lesson-2/pass-hosting.md)
     * [Typography](lesson-2/typography.md)
     * Exercise 1:Break the Internet
@@ -47,4 +48,6 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
+
+
 
