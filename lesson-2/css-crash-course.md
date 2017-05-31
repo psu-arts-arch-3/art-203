@@ -4,13 +4,7 @@ EMBED CODE PEN: [https://codepen.io/BenFictional/pen/Wjqoye](https://codepen.io/
 
 By default text will be ver rendered in a black **serif font,** and the different headers will appear at a particular size.
 
-For the record there are three families of fonts:
-
-![](/assets/font-demo.png)
-
-Serifs are the "feet" on the ends of characters; they're designed to guide the reader's eye along each line of text. We'll talk more about typography soon...
-
-In order to make the fun design decisions like which fonts to use, adding colors, spacing, and other decorative elements, HTML files need declared styles.
+In order to make fun design decisions like which fonts to use, adding colors, spacing, and other decorative elements, HTML files need declared styles.
 
 Styles can override the default way that browsers render HTML, and can contribute a really staggering amount to a website. The advantage of keeping visual styles separate from the core HTML is that they appearance of a website can be easily updated without interfering with the content. Styles are defined in a separate markup language called Cascading Style Sheets \(CSS\) that has it's own syntax and rules.
 
@@ -20,7 +14,15 @@ You can define these styles within a`<style>` element in the `<head>` of an HTML
 
 EMBED CODE PEN: [https://codepen.io/BenFictional/pen/aWgpbq](https://codepen.io/BenFictional/pen/aWgpbq)
 
-This is a very simple example, but it demonstrates the formatting for CSS. The font-size can be measured in a few different units, but I used pixels here as the most basic option. color and background-color can accept colors represented in Hex codes \(e.g. \#FF43D2\) or one of the web-safe [HTML color names](https://www.w3schools.com/colors/colors_names.asp).
+This is a very simple example, but it demonstrates the formatting for CSS:
+
+1. Set a target selector
+2. Add curly brackets `{ }`
+3. Within the brackets, specify a property, followed by a colon `:` , a value, and a semi-colon `;`
+
+**Never forget the semi-colon.**
+
+The font-size can be measured in a few different units, but I used pixels here as the most basic option. color and background-color can accept colors represented in Hex codes \(e.g. \#FF43D2\) or one of the web-safe [HTML color names](https://www.w3schools.com/colors/colors_names.asp).
 
 You can target all instances of an HTML element like &lt;p&gt; or &lt;h1&gt;, or you can target specific instances by naming the HTML elements with an **ID** or **Class.**
 
@@ -28,93 +30,107 @@ EMBED CODE PEN: [https://codepen.io/BenFictional/pen/RVzKNd](https://codepen.io/
 
 I added some new properties in this example. Note that you can make text bold in CSS instead of using a `<b>` element in HTML.
 
-ID's target one specific instance within the HTML, and classes can target multiple instances—for example, you might want to include several pieces of big header text throughout a page, and you could give them all `class="big-awesome"`
+```
+ID's target one specific instance within the HTML, and classes can target multiple instances—for example, you might want to include several pieces of big header text throughout a page, and you could give them all class="big-awesome"
+```
 
 While you can name elements whatever you want, it's important to spell everything correctly. Use a standard naming convention and syntax to stay organized.
 
-There are _a lot_ of CSS properties, and they function in complex and inter-connected ways, so we'll just go over some basic ones to get you started with the upcoming assignments. For reference, here is a [longer list of CSS properties](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg) to play with, but the properties below should get you going without getting into anything too complex. 
+There are _a lot_ of CSS properties, and they function in complex and inter-connected ways, so we'll just go over some basic ones to get you started with the upcoming assignments. For reference, here is a [longer list of CSS properties](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg) to play with, but the properties below should get you going without getting into anything too complex.
 
-**Text**
+An invaluable resource for working with CSS is the [W3 Schools website](https://www.w3schools.com/)—if you google any of the following properties, the first result will probably be the relevant W3 page listing all possible values with examples.
 
-font-family: 
+### **Text**
 
-font-size:
+These properties can be applied to a `<p>` or any header element, or if you declare them with reference to a container, like a `<div>`, the styles will be applied to any text elements within the container.
 
-font-weight:
+`font-family:` can take the value of any of the [standard web fonts.](https://www.w3schools.com/cssref/css_websafe_fonts.asp) In order to use other fonts, you'll have to include them as dedicated font files or use fonts hosted on a public library like [Google fonts](https://designshack.net/articles/css/a-beginners-guide-to-using-google-web-fonts/).
 
-color: 
+`font-size:` takes a number value with any of the standard HTML units.
 
-text-decoration:
+`font-weight:` set to normal or bold
 
-line-height
+`color:` takes any of the [standard HTML color names](https://www.w3schools.com/colors/colors_names.asp) or color values inputed via Hex code. We'll get into more advanced color details later.
 
+`text-decoration:`set to "none" or "underline"
 
+`line-height:` the space between lines \(a.k.a. **leading**\)—set to "auto" by default, but you can also set with a number and unit.
 
-**Box**
+### **Box**
 
-width
+These properties are mostly used with `<div>` elements or other containers, but can be applied to images and other elements too.
 
-height
+`width:` "auto" by default. Set with a number and unit—note that some a `<div>` will not have any width or height unless it has content within it, or you set the dimensions via CSS.
 
-margin
+`height:` Works similar to width; height can not be set to 100%.
 
-margin-left
+`margin:`set with a number/unit; adds space around an element.
 
-padding
+`margin-left:` adds a margin to only one side; you can sub in "right", "top", or "bottom".
 
-padding-left
+`padding:`set with a number/unit. adds space inside an element, surrounding the content.
 
-position
+`padding-left:` padding for just one side; use with all four directions.
 
-top
+`position:` "static" by default. Set to "fixed" to take the element out of the normal document flow and lock it in a position relative to the browser window. Frequently sed to create fixed headers. There are other values, but let's keep it simple for now.
 
-bottom
+`top:` set the position of an element with `position: fixed;` A value of "0" would put the element at the top of the screen. Can be used in conjunction with "bottom", "left", and "right".
 
-left
+`float:`takes "left" or "right" will force an element to the left/right until it hits another element. Images and text will normally be placed on a new row below the previous element, but this will force things to sit next to each other if there's room.
 
-right
+text-align: Sets paragraph alignment for text within a container. Takes "left", "right", or "center."
 
-float
+opacity: takes a number between "1.0" \(full opacity\) and "0.0" \(invisible\).
 
-text-align
+### **Border**
 
-opacity
+Apply to container elements or images.
 
+border-style: "solid", "dashed", or "dotted"
 
+border-color: takes color value.
 
-**Border**
+border-width: takes number/unit.
 
-border-size
+border: set all of the above properties with one line: `border: 1px solid red;`
 
-border-color
+border-bottom: set border for only one side \(can also use "top", "left", or "right"\).
 
-border-width
+### **Background**
 
-border
+`background-color:` takes a color value.
 
-border-bottom
+`background-image:` set an image as the background: `background-image: url("path-to-image/awesome-image.jpg");`
 
+`background-repeat:` if a background image is set, set whether or not it tiles or displays only once. Set to "repeat", "repeat-x", "repeat-y", or "no-repeat".
 
+`background-size:`default is "auto" but you can specify a number/unit or, more commonly, set this to "cover" to display the image as large as possible to fill the element.
 
-**Background**
+`background:` set either a background color or image, can be overridden if you declare competing rules.
 
-background
+### Colors
 
-background-color
+We'll talk more about how to use color effectively, but for now, just know that the most common way to specify  colors in a digital environment is via a hex code. There are some more advanced syntaxes too, but this one is pretty foolproof.
 
-background-image
+There are many color pickers online that provide a graphical interface for choosing colors, and you can copy and paste the resulting hex code \(e.g. "\#5D32F0"\) into your CSS.
 
-background-repeat
+I recommend using [Adobe Color](https://color.adobe.com/), or for a simpler interface you can just Google "color picker" and access a nice one from Google.
 
-background-size
+### Units
 
+Many of the properties above take number values, and while a number without a unit will default to pixels, there are a bunch of other units that are very useful.
 
+**Pixels **\(e.g. "700px"\) Sets dimensions with a **static** value measure in your screen's pixels.
 
+**Percent **\(e.g. "50%\) Sets dimensions in with a **relative** value, as a percent of the parent element. This means that as the size of the browser window \(or device\) changes, the size of the element will change.
 
+**Viewport** \(e.g. "20vw" or "20vh"\) Sets dimensions as a percent of the browser window width \(vw\) or height \(vh\). This is different from percent, because percent measures from the parent element, not necessarily the browser window \(an element of `width: 50%;` within an element of `width: 400px;` will be always be 200px.
 
+**Font Size** \(e.g. "2em"\) sets dimensions based on the size of a text character \(1em\). This is a little more advanced, but is frequently used by designers as a slightly more dynamic value than pixels.
 
+Here's a demo to help visualize these different units: 
 
-
+EMBED CODE PEN: [https://codepen.io/BenFictional/pen/GmVBZz](https://codepen.io/BenFictional/pen/GmVBZz)
 
 
 
