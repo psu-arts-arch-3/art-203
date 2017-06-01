@@ -20,7 +20,13 @@ There are three main families of fonts, each with traditional uses and associati
 
 ### Standards
 
-A great resource for learning the "rules" of typography is Butterick's Practical Typography.
+A great resource for learning the "rules" of typography is Butterick's Practical Typography. An opinionated review of common practices for designing with text. These rules are not hard, fixed standards, but they do align with what most people think "looks good." As you create projects in this course, be sure to experiment and break rules occasionally. 
 
-Read [Typography in Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html) and [Websites](http://practicaltypography.com/websites.html)
+**Required Reading:** [Typography in Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html) and [Websites](http://practicaltypography.com/websites.html) from Butterick's Pratical Typography.
+
+The first link provides an overview of some of these standards, and the second link discusses typography specifically with reference to web design—and the second reading will also factor into this Lesson's blog post.
+
+
+
+
 

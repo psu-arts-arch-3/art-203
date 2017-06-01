@@ -21,7 +21,7 @@
     * Exercise 1:Break the Internet
     * Exercise 2: Hello World
     * Assignment: Dueling Stylesheets
-    * Blog Entry
+    * [Blog Entry](lesson-2/blog-entry.md)
 * Unit 2
   * Lesson 3
     * Responsive Concepts
