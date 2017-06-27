@@ -48,5 +48,5 @@ We'll get into the details of how to upload files to and from a remote server so
 
 It's entirely possible to create HTML files on your local computer and view them in a web browser.
 
-In fact, that's what we're going to do on the next page.
+In fact, that's what we're going to do in this lesson.
 
