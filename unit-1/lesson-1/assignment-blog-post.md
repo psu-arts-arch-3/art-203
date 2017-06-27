@@ -2,13 +2,9 @@ Everyone should have created a Wordpress site in Exercise 2. We'll be using thes
 
 After the due date for each blog post, students will be required to comment on each other's posts.
 
-
-
 TBD SUBMISSION DETAILS
 
-
-
-### Lesson One Blog Prompt
+### Lesson 1 Blog Prompt
 
 Read the following excerpt from Don Norman's _The Design of Everyday Things _\(1988, revised 2013\).
 

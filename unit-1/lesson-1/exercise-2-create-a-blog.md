@@ -15,13 +15,13 @@ Students will use their research blogs throughout the course, but for this exerc
 * Go to sites.psu.edu and click the big "Create a site" button on the homepage. 
 * Login with your PSU credentials.  
 * Fill out the following fields:
-  * Site Address refers to the URL for your site; whatever you enter will result in a URL like "\[\[[http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\)\](http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29%29\)\). Only lowercase letters and numbers are allowed. 
+  * Site Address refers to the URL for your site; whatever you enter will result in a URL like "\[\[\[[http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\)\)\](http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29%29%29\)\). Only lowercase letters and numbers are allowed. 
   * Site Title is the general name for your site; you probably want to enter the same thing you used for the Site Address, but you can call it whatever you want \(and you can change it later\). 
   * Privacy will determine if your site is promoted to search engine and public web listings \(this can also be changed later\). Choose whatever you like. 
 
 ### The Interface
 
-You should have received a confirmation screen with links to the site itself and the administration backend. If not, you can always just type your URL into your web browser \(e.g. "\[\[[http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\)\](http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29%29\)\).
+You should have received a confirmation screen with links to the site itself and the administration backend. If not, you can always just type your URL into your web browser \(e.g. "\[\[\[[http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\)\)\](http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29%29%29\)\).
 
 ![](/assets/wordpress/dashboard.png)
 
@@ -109,7 +109,7 @@ Edit or delete the "Hello World!" Post that is generated automatically, and crea
 * What do you think about blogging? 
 * Is it still essential to online culture? 
 * What's the difference between blogging and other forms of online publishing? 
-* Have you blogged before this class?
+* Have you done any blogging prior to this class?
 
 Publish your Post. If you just edited the default Post, make sure you change the title.
 
