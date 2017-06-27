@@ -5,11 +5,10 @@
   * [Welcome](course-orientation/welcome.md)
   * [Online Ecosystem](course-orientation/online-ecosystem.md)
   * [Lynda ](course-orientation/lynda.md)
-  * Open Studio 
+  * [Open Studio ](course-orientation/open-studio.md)
   * [Tips for Success](course-orientation/tips-for-success.md)
 * [Unit 1](unit-1.md)
   * [Lesson 1](unit-1/lesson-1.md)
-    * [Visual Editors](unit-1/lesson-1/visual-editors.md)
     * [Introducing Wordpress](unit-1/lesson-1/introducing-wordpress.md)
     * [Exercise 1: Self-Portrait Site](unit-1/lesson-1/exercise-1-self-portrait-site.md)
     * [Exercise 2: Create a Blog](unit-1/lesson-1/exercise-2-create-a-blog.md)
@@ -50,4 +49,6 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
+
+
 
