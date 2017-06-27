@@ -19,7 +19,7 @@
     * [CSS Crash Course](lesson-2/css-crash-course.md)
     * [PASS Hosting](lesson-2/pass-hosting.md)
     * [Typography](lesson-2/typography.md)
-    * Exercise 1:Break the Internet
+    * [Exercise 1:Break the Internet](lesson-2/exercise-1break-the-internet.md)
     * Exercise 2: Hello World
     * Assignment: Dueling Stylesheets
     * [Blog Entry](lesson-2/blog-entry.md)
@@ -49,6 +49,4 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
-
-
 
