@@ -22,7 +22,7 @@ This is a very simple example, but it demonstrates the formatting for CSS:
 
 **Never forget the semi-colon.**
 
-The font-size can be measured in a few different units, but I used pixels here as the most basic option. color and background-color can accept colors represented in Hex codes \(e.g. \#FF43D2\) or one of the web-safe [HTML color names](https://www.w3schools.com/colors/colors_names.asp).
+The font-size can be measured in a few different units, but I used pixels here as the simplest option. color and background-color can accept colors represented in Hex codes \(e.g. \#FF43D2\) or one of the web-safe [HTML color names](https://www.w3schools.com/colors/colors_names.asp).
 
 You can target all instances of an HTML element like &lt;p&gt; or &lt;h1&gt;, or you can target specific instances by naming the HTML elements with an **ID** or **Class.**
 
@@ -36,9 +36,11 @@ ID's target one specific instance within the HTML, and classes can target multip
 
 While you can name elements whatever you want, it's important to spell everything correctly. Use a standard naming convention and syntax to stay organized.
 
-There are _a lot_ of CSS properties, and they function in complex and inter-connected ways, so we'll just go over some basic ones to get you started with the upcoming assignments. For reference, here is a [longer list of CSS properties](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg) to play with, but the properties below should get you going without getting into anything too complex.
+There are _a lot_ of CSS properties, and they function in complex and inter-connected ways, so we'll just go over some basic ones to get you started with the upcoming assignments. For reference, here is a [longer list of CSS properties](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg) to play with, but the properties below should get you going without getting into anything too complex. 
 
 An invaluable resource for working with CSS is the [W3 Schools website](https://www.w3schools.com/)—if you google any of the following properties, the first result will probably be the relevant W3 page listing all possible values with examples.
+
+_**Don't panic! You can skim this page and come back to it when you start working on upcoming assignments. **_
 
 ### **Text**
 
@@ -78,23 +80,23 @@ These properties are mostly used with `<div>` elements or other containers, but 
 
 `float:`takes "left" or "right" will force an element to the left/right until it hits another element. Images and text will normally be placed on a new row below the previous element, but this will force things to sit next to each other if there's room.
 
-text-align: Sets paragraph alignment for text within a container. Takes "left", "right", or "center."
+`text-align: `Sets paragraph alignment for text within a container. Takes "left", "right", or "center."
 
-opacity: takes a number between "1.0" \(full opacity\) and "0.0" \(invisible\).
+`opacity:` takes a number between "1.0" \(full opacity\) and "0.0" \(invisible\).
 
 ### **Border**
 
 Apply to container elements or images.
 
-border-style: "solid", "dashed", or "dotted"
+`border-style:` "solid", "dashed", or "dotted"
 
-border-color: takes color value.
+`border-color:` takes color value.
 
-border-width: takes number/unit.
+`border-width:` takes number/unit.
 
-border: set all of the above properties with one line: `border: 1px solid red;`
+`border:` set all of the above properties with one line: `border: 1px solid red;`
 
-border-bottom: set border for only one side \(can also use "top", "left", or "right"\).
+`border-bottom:` set border for only one side \(can also use "top", "left", or "right"\).
 
 ### **Background**
 
@@ -114,7 +116,7 @@ We'll talk more about how to use color effectively, but for now, just know that 
 
 There are many color pickers online that provide a graphical interface for choosing colors, and you can copy and paste the resulting hex code \(e.g. "\#5D32F0"\) into your CSS.
 
-I recommend using [Adobe Color](https://color.adobe.com/), or for a simpler interface you can just Google "color picker" and access a nice one from Google.
+I recommend using [Adobe Color](https://color.adobe.com/), or for a simpler interface you can just search Google for "color picker" and access a nice one.
 
 ### Units
 
@@ -128,7 +130,7 @@ Many of the properties above take number values, and while a number without a un
 
 **Font Size** \(e.g. "2em"\) sets dimensions based on the size of a text character \(1em\). This is a little more advanced, but is frequently used by designers as a slightly more dynamic value than pixels.
 
-Here's a demo to help visualize these different units: 
+Here's a demo to help visualize these different units:
 
 EMBED CODE PEN: [https://codepen.io/BenFictional/pen/GmVBZz](https://codepen.io/BenFictional/pen/GmVBZz)
 
