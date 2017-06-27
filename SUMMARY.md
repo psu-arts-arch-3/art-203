@@ -4,7 +4,7 @@
 * [Course Orientation](course-orientation.md)
   * [Welcome](course-orientation/welcome.md)
   * [Online Ecosystem](course-orientation/online-ecosystem.md)
-  * Lynda 
+  * [Lynda ](course-orientation/lynda.md)
   * Open Studio 
   * [Tips for Success](course-orientation/tips-for-success.md)
 * [Unit 1](unit-1.md)
@@ -50,6 +50,4 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
-
-
 

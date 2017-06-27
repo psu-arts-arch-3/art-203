@@ -8,7 +8,7 @@ Since this course is meant to explore the use of websites and online tools, it's
 
 **Lynda: **Some of the videos posted on the Course Website will be from Lynda, which is a terrific service that provides _very_ extensive tutorial videos for all sorts of media production software. You normally have to pay for access to the videos and example files, but you can access this content with your PSU login credentials.
 
-**PSU Sites: **Penn State offers free hosting for multiple Wordpress sites . Wordpress is a popular tool for making websites, but the URLs for your sites will be something like "[http://sites.psu.edu/YourSiteName](http://sites.psu.edu/YourSiteName)"
+**PSU Sites: **Penn State offers free hosting for multiple Wordpress sites. Wordpress is a popular tool for making websites, but the URLs for your sites will be something like "[http://sites.psu.edu/YourSiteName](http://sites.psu.edu/YourSiteName)" — we'll use this for making individual research blogs.
 
 ### Third Party Resources
 
@@ -16,11 +16,11 @@ These aren't affiliated with PSU, so you'll have to create your own login accoun
 
 **Slack:** This third-party messaging app can used through a web browser, desktop app, or mobile app. You can communicate with the whole class or specific people, and I’ll use this to chime in on whatever questions arise during the week.
 
-**Adobe Creative Cloud: **The industry standard for media production—we'll use some of the Adobe programs throughout the course. So you'll have to purchase a monthly subscription, though you can wait until we get an assignment that requires it. Make sure you use the [student discount](http://www.adobe.com/creativecloud/buy/students.html).
+**Adobe Creative Cloud: **The industry standard for media production. We'll use some of the Adobe programs throughout the course, so you'll have to purchase a monthly subscription, though you can wait until we get an assignment that requires it. Make sure you use the [student discount](http://www.adobe.com/creativecloud/buy/students.html).
 
 ### And of course...
 
-**Email:** Always a reliable way to get in contact with the instructor.
+**Email:** Always a reliable way to get in contact with the instructor. You can also use the Inbox messenger in Canvas.
 
 ### Web Browsers
 
@@ -33,6 +33,4 @@ A major part of designing for the web is making sure your projects are compatibl
 While this course focus on interaction theory and visual design, we will be doing some coding with HTML and CSS. You can use any Rich Text Editor but to simplify things I'd like to have everyone use the same one: Brackets, a great open-source editor.
 
 [Download Brackets here.](http://brackets.io/)
-
-
 
