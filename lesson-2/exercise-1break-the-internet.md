@@ -39,17 +39,17 @@ For example: `<h1>Hello world!</h1>`
 
 It's good practice to indent each line of text \(press tab\) to show levels of hierarchy—as seen below—but if you don't, the website will still work.
 
-![](/assets/brackets-code.png)
+![](/assets/lesson-2/brackets-code.png)
 
 File &gt;&gt;&gt; Save
 
 Save this new file as "index.html"
 
-![](/assets/brackets-save.png)
+![](/assets/lesson-2/brackets-save.png)
 
 Now find your index.html file in your file browser, and double click on it to open it in a web browser. Nice job!
 
-![](/assets/browser-hello.png)
+![](/assets/lesson-2/browser-hello.png)
 
 ## Setup FTP
 
@@ -68,7 +68,7 @@ After a few seconds you should see some folders appear on the right side of the 
 
 The Filezilla interface is divided into two sections: your local directory \(left\) and your remote directory \(right\). You can drag files back and forth to upload or download.
 
-![](/assets/filezilla-diagram.png)
+![](/assets/lesson-2/filezilla-diagram.png)
 
 You will have to navigate to your local directory on the left side until you can se the index.html file you created. Drag it into the "www" folder on the server to replace the existing "index.html" file.
 
