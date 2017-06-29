@@ -8,7 +8,7 @@ TBD SUBMISSION DETAILS
 
 Read the following excerpt from Don Norman's _The Design of Everyday Things _\(1988, revised 2013\).
 
-[Don Norman, The Design of Everyday Things \(excerpt\)](/assets/Norman_Design-of-Everyday-Things.pdf)
+[Don Norman, The Design of Everyday Things \(excerpt\)](/assets/readings/Norman_Design-of-Everyday-Things.pdf)
 
 Don Norman is an influential designer and academic whose writing has been foundational to modern ideas of human-centered design \(HCD\). While not explicitly about web design, this reading introduces some useful terms for thinking about user interaction and visual design that will help frame the work we do in this course.
 
