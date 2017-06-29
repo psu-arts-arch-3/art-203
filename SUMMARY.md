@@ -15,7 +15,7 @@
     * [Exercise 2: Create a Blog](unit-1/lesson-1/exercise-2-create-a-blog.md)
     * [Assignment: Blog Post](unit-1/lesson-1/assignment-blog-post.md)
   * [Lesson 2](lesson-2.md)
-    * Summary
+    * [Summary](lesson-2/summary.md)
     * [How the Internet Works](lesson-2/how-the-internet-works.md)
     * [HTML Crash Course](lesson-2/intro-to-html.md)
     * [CSS Crash Course](lesson-2/css-crash-course.md)
@@ -53,6 +53,4 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
-
-
 
