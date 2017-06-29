@@ -22,6 +22,8 @@ Exercise 1 will go over how to upload a new file to this location.
 
 **The public URL for your web space is:** "[http://personal.psu.edu/user123](http://personal.psu.edu/user123)" — but replace "user123" with your PSU username.
 
+If you type that into your web browser, you'll be looking at the "index.html" file as rendered by your web browser. 
+
 ### FTP Software
 
 You can also use a standalone application to manage your web hosting. This is usually easier than using the interface provided in your web browser. There are many different File-Transfer-Protocol apps; some of the more popular ones are:
@@ -32,7 +34,7 @@ You can also use a standalone application to manage your web hosting. This is us
 
 [Transmit](https://panic.com/transmit/)\(Mac, paid\)
 
-We'll use Filezilla for the demo in Exercise 1 since it's open-source and easy to get started with. 
+We'll use Filezilla for the demo in Exercise 1 since it's open-source and easy to get started with.
 
 ### 
 
