@@ -9,7 +9,7 @@
   * [Tips for Success](course-orientation/tips-for-success.md)
 * [Unit 1](unit-1.md)
   * [Lesson 1](unit-1/lesson-1.md)
-    * Summary
+    * [Summary](unit-1/lesson-1/summary.md)
     * [Introducing Wordpress](unit-1/lesson-1/introducing-wordpress.md)
     * [Exercise 1: Self-Portrait Site](unit-1/lesson-1/exercise-1-self-portrait-site.md)
     * [Exercise 2: Create a Blog](unit-1/lesson-1/exercise-2-create-a-blog.md)

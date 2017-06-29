@@ -1,4 +1,10 @@
-**What's due this week:**
+## This lesson includes:
 
-Self portrait site due on Sunday.
+**Reading:** Don Norman's _The Design of Everyday Things_
+
+**Exercise 1:** Self-portrait Site
+
+**Exercise 2: **Create a Blog
+
+**Assignment:** First blog post
 
