@@ -6,5 +6,5 @@
 
 **Exercise 2: **Create a Blog
 
-**Assignment:** First blog post
+**Assignment:** Blog post
 
