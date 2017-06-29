@@ -69,17 +69,15 @@ You will have to navigate to your local directory on the left side until you can
 
 Now see check that it uploaded successfully by going to: "[http://personal.psu.edu/user123](http://personal.psu.edu/user123)" — but replace "user123" with your PSU username.
 
-While we're here, let's create a folder for storing our upcoming projects. 
+While we're here, let's create a folder for storing our upcoming projects.
 
 ### Create a new Directory
 
-In Filezilla, right-click in the lefthand window and choose "Create directory" — you could also just create the folder in your regular file browser. 
+In Filezilla, right-click in the lefthand window and choose "Create directory" — you could also just create the folder in your regular file browser.
 
 Call the new folder "art203" \(without quotes\).
 
-Upload the empty folder to your remote directory. 
-
-
+Upload the empty folder to your remote directory.
 
 **Submit your URL to the following assignment: **
 
