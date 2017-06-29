@@ -8,7 +8,7 @@ As we start to work with HTML and the study the traditions of web design, it wil
 
 There are three main families of fonts, each with traditional uses and associations:
 
-![](/assets/font-families.png)
+![](/assets/lesson-2/font-families.png)
 
 **Serif **fonts** **include small "feet" along the tops and bottoms of characters, designed to guide the reader's eye along each line of text. Serif fonts are generally used for body text \(i.e. extended paragraphs such as a news article or blog post\), and are usually considered old-fashioned or classical.
 
@@ -16,7 +16,9 @@ There are three main families of fonts, each with traditional uses and associati
 
 **Monospace **fonts use the same width for every character \(i.e. letter\), and are most commonly used in coding \(such as writing HTML in Brackets\). You can use these fonts for actual content too, if you're looking for a old-school computer or typewriter aesthetic.
 
-![](/assets/line-vocab.png)These terms refer to overall lines of text, and are important to understand when designing passages of body text. **font-size** and **line-height** are both CSS properties, whereas **leading **\(pronounced _led-ding\)_ is used more typically in print design—it refers to the earliest days of printing presses, when typesetters would literally put a lead bar between rows of character stamps. The **baseline** is a helpful visual reference when arranging text with other elements.
+![](/assets/lesson-2/line-vocab.png)
+
+These terms refer to overall lines of text, and are important to understand when designing passages of body text. **font-size** and **line-height** are both CSS properties, whereas **leading **\(pronounced _led-ding\)_ is used more typically in print design—it refers to the earliest days of printing presses, when typesetters would literally put a lead bar between rows of character stamps. The **baseline** is a helpful visual reference when arranging text with other elements.
 
 ## **Required Reading:**
 
