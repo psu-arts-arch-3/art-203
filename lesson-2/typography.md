@@ -18,15 +18,13 @@ There are three main families of fonts, each with traditional uses and associati
 
 ![](/assets/line-vocab.png)These terms refer to overall lines of text, and are important to understand when designing passages of body text. **font-size** and **line-height** are both CSS properties, whereas **leading **\(pronounced _led-ding\)_ is used more typically in print design—it refers to the earliest days of printing presses, when typesetters would literally put a lead bar between rows of character stamps. The **baseline** is a helpful visual reference when arranging text with other elements.
 
-### Standards
+## **Required Reading:** 
 
-A great resource for learning the "rules" of typography is Butterick's Practical Typography. An opinionated review of common practices for designing with text. These rules are not hard, fixed standards, but they do align with what most people think "looks good." As you create projects in this course, be sure to experiment and break rules occasionally. 
+[Typography in Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html) and [Websites](http://practicaltypography.com/websites.html) from Butterick's Pratical Typography.
 
-**Required Reading:** [Typography in Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html) and [Websites](http://practicaltypography.com/websites.html) from Butterick's Pratical Typography.
+This is a great resource for learning the "rules" of typography; it's an opinionated review of common practices for designing with text. These rules are not hard, fixed standards, but they do align with what most people think "looks good." As you create projects in this course, be sure to experiment and break rules occasionally.
+
+
 
 The first link provides an overview of some of these standards, and the second link discusses typography specifically with reference to web design—and the second reading will also factor into this Lesson's blog post.
-
-
-
-
 
