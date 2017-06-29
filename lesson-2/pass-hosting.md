@@ -12,7 +12,7 @@ Student space will remain active during periods of continuous enrollment and for
 
 Once you receive an email saying that your PASS space is active, you can access an online file manager here: [https://explorer.pass.psu.edu/](https://explorer.pass.psu.edu/)
 
-![](/assets/pass-1.png)
+![](/assets/lesson-2/pass-1.png)
 
 You will see a few different folders listed in the white content box. The \[www\] is the public location where you'll want to upload files.
 
