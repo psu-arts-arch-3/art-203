@@ -28,13 +28,13 @@ Web browsers can read other types of files too, for example, you can open a JPEG
 
 You should try this too. If you need an image file, you can download this image of the first web browser with a graphical interface \(called _Mosaic_, from 1993\).
 
-![](/assets/Mosaic.png)
+![](/assets/lesson-2/Mosaic.png)
 
 Once you've opened a JPEG or other image file in your web browser, take a look at the URL bar at the top of the screen.
 
 Instead of the traditional "[http://www](http://www)..." you should see something like the following:
 
-![](/assets/local-file.png)
+![](/assets/lesson-2/local-file.png)
 
 This is the **path** for whatever file you opened. The slashes denoted folders, meaning that my file "Mosaic.png" is located in Documents folder, within my user folder, within a folder called "Users", which is within the root level folder of my computer.
 
@@ -42,7 +42,7 @@ Now if you haven't done any sort of coding before, this might blow your mind, bu
 
 Unlike the image you opened earlier, webpages are not saved on your local computer; they're saved on a computer somewhere else on the planet. These computers are called **servers,** and they're built specifically to host files and make them accessible over the Internet. Here's a comically boring server center featured in the show _Silicon Valley_:
 
-![](/assets/silicon valley.png)
+![](/assets/lesson-2/silicon valley.png)
 
 We'll get into the details of how to upload files to and from a remote server soon, but for now just appreciate the fact that every page you visit online is a portal into a computer somewhere else in the world.
 
