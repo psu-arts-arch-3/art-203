@@ -1,4 +1,4 @@
-Before completing this exercise, make sure you have read through the previous pages on HTML, CSS, and the infrastructure of the Internet.
+Before completing this exercise, make sure you have read through the previous pages from this lesson on HTML, CSS, and the infrastructure of the Internet.
 
 ### Objectives:
 

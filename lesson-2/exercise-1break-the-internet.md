@@ -1,3 +1,8 @@
+### Objectives
+
+* Manually create an HTML.
+* Establish an FTP connection between your computer and a PSU server.
+
 ### Requiremnets
 
 Download and install[ Filezilla](https://filezilla-project.org/) \(FTP app\) and [Brackets](http://brackets.io/) \(rich text editor\).

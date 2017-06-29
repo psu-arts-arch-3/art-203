@@ -22,7 +22,7 @@ Exercise 1 will go over how to upload a new file to this location.
 
 **The public URL for your web space is:** "[http://personal.psu.edu/user123](http://personal.psu.edu/user123)" — but replace "user123" with your PSU username.
 
-If you type that into your web browser, you'll be looking at the "index.html" file as rendered by your web browser. 
+If you type that into your web browser, you'll be looking at the "index.html" file as rendered by your web browser.
 
 ### FTP Software
 
