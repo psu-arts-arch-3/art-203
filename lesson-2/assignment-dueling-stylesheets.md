@@ -25,19 +25,25 @@ The "index.html" file contains a link to "style-90s.css" in the `<head>` section
 
 Open the HTML file in a web browser and take a look at the structure of the website and how it is defined in the code.
 
+* There are extensive comments to help you find your way around \(comments will appear grey in Brackets\)
+* "index-alt.html" is reserved for the end of the assignment, so ignore it at first. 
+* The layout uses modern HTML5 declarations like `<header>` and a responsive two-column [Flexbox](https://internetingishard.com/html-and-css/flexbox/) layout in an effort to teach current standards.
+
 ## Assignments: Duelling Stylesheets
 
 ### **Part 1**
 
-** **Edit "styles-90s.css" to create a stylesheet \(i.e. list of CSS properties\) that makes the sample webpage look like finsihed website from the 1990's. Based on your research for this week's blog post, consider the colors, fonts, and design styles used by designers of that era.
+Edit "styles-90s.css" to create a stylesheet \(i.e. list of CSS properties\) that makes the sample webpage look like finished website from the 1990's. Based on your research for this week's blog post, consider the colors, fonts, and design styles used by designers of that era.
 
 Ignore the file called "index-alt.html" for now.
 
 The "index.html" file is set to use the "styles-90s.css" by default, so add your properties there. The design doesn't have to be a masterpiece, in fact, you should feel free to make your design ugly or simplistic if that's how you choose to interpret the aesthetics of the 90's. But try to make your design look _complete_—like you've spent some time on it.
 
-You can leave the HTML alone, but you are encouraged to add new text and images to make the site look more complete—for example, add some images of some Tamagotchis, and write a few sentences to make the site appear to be a a [Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi) advice column, or Pepsi recipe collection, or sneaker collection blog, etc. **Creativity will be rewarded! **
+You don't have to edit the HTML much, but you should at least replace the titles with something descriptive. 
 
-To add new images, place JPEG or PNG files in the folder called "img" and change the links in the HTML to match the filename of your images.
+You are encouraged to add new text and images to make the site look more complete—for example, add some images of some Tamagotchis, and write a few sentences to make the site appear to be a a [Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi) advice column, or Pepsi recipe collection, or sneaker collection blog, etc. **Creativity will be rewarded! **
+
+To add new images, place JPEG or PNG files in the folder called "img" and change the links in the HTML or CSS to match the filenames of your images.
 
 Just stick to the [web-safe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp) for historical accuracy.
 
