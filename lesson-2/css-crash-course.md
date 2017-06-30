@@ -6,6 +6,8 @@ By default text will be ver rendered in a black **serif font,** and the differen
 
 In order to make fun design decisions like which fonts to use, adding colors, spacing, and other decorative elements, HTML files need declared styles.
 
+## Cascading Style Sheets
+
 Styles can override the default way that browsers render HTML, and can contribute a really staggering amount to a website. The advantage of keeping visual styles separate from the core HTML is that they appearance of a website can be easily updated without interfering with the content. Styles are defined in a separate markup language called Cascading Style Sheets \(CSS\) that has it's own syntax and rules.
 
 The simplest way to think about CSS is that it defines various attributes to HTML elements. For example you could set certain attributes for all a paragraph elements: font-size, text color, background color, and so on.
@@ -36,9 +38,9 @@ ID's target one specific instance within the HTML, and classes can target multip
 
 While you can name elements whatever you want, it's important to spell everything correctly. Use a standard naming convention and syntax to stay organized.
 
-There are _a lot_ of CSS properties, and they function in complex and inter-connected ways, so we'll just go over some basic ones to get you started with the upcoming assignments. For reference, here is a [longer list of CSS properties](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg) to play with, but the properties below should get you going without getting into anything too complex. 
+There are _a lot_ of CSS properties, and they function in complex and inter-connected ways, so we'll just go over some basic ones to get you started with the upcoming assignments. For reference, here is a [longer list of CSS properties](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg) to play with, but the properties below should get you going without getting into anything too complex.
 
-An invaluable resource for working with CSS is the [W3 Schools website](https://www.w3schools.com/)—if you google any of the following properties, the first result will probably be the relevant W3 page listing all possible values with examples.
+An invaluable resource for working with CSS is the [W3 Schools website](https://www.w3schools.com/)—if you google any of the following properties, the first result will probably be the relevant W3 page listing all possible values with examples. And for more thorough tutorials, I still recommend [Interneting is Hard. ](https://internetingishard.com/html-and-css/)
 
 _**Don't panic! You can skim this page and come back to it when you start working on upcoming assignments. **_
 
@@ -80,7 +82,7 @@ These properties are mostly used with `<div>` elements or other containers, but 
 
 `float:`takes "left" or "right" will force an element to the left/right until it hits another element. Images and text will normally be placed on a new row below the previous element, but this will force things to sit next to each other if there's room.
 
-`text-align: `Sets paragraph alignment for text within a container. Takes "left", "right", or "center."
+`text-align:`Sets paragraph alignment for text within a container. Takes "left", "right", or "center."
 
 `opacity:` takes a number between "1.0" \(full opacity\) and "0.0" \(invisible\).
 
@@ -133,6 +135,4 @@ Many of the properties above take number values, and while a number without a un
 Here's a demo to help visualize these different units:
 
 EMBED CODE PEN: [https://codepen.io/BenFictional/pen/GmVBZz](https://codepen.io/BenFictional/pen/GmVBZz)
-
-
 
