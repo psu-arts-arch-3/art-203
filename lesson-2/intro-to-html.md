@@ -1,6 +1,6 @@
 Hyper Text Markup Language \(HTML\) isn't really programing—in the same way that languages like Java or C are—because HTML doesn't deal with logic and interaction in any complex sense. But like those programming languages, it's important to remember that HTML is text—_only text._ Which means that every webpage you visit \(including this one\) is a pretty visual display created by text.
 
-For some upcoming exercises, we'll be writing some HTML, and even applications like Wordpress allow you to edit some of the raw HTML, so it's very useful to learn the basics. Even if you've worked with HTML before, it's always good to brush up on the specifics.
+For some upcoming exercises, we'll be writing some HTML, and even applications like Wordpress allow you to edit some of the raw HTML, so it's very useful to learn the basics. Even if you've worked with HTML before, it's always good to brush up on the specifics. If you're totally new to HTML and CSS, I recommend the fabulous [Interneting is Hard](https://internetingishard.com/html-and-css/) for further learning. 
 
 ### Syntax
 
@@ -26,9 +26,9 @@ EMBED CODE PEN: [https://codepen.io/BenFictional/pen/EmWVxd](https://codepen.io/
 
 Don't worry about the color yet, but just note that the &lt;div&gt; acts like a container for the two paragraph elements. There's some other behavior you can observe too in this generic example: the paragraphs are on separate lines, and the div stretches to fill the entire width of the window.
 
-In order for web browsers to render HTML correctly, it's expected to wrap the entire content of the page within an &lt;html&gt; element.   The other major standard is that each page includes a &lt;head&gt; and &lt;body&gt; section. The head is meant to contain invisible metadata like the page title and links to assets used later in the page. 
+In order for web browsers to render HTML correctly, it's expected to wrap the entire content of the page within an &lt;html&gt; element.   The other major standard is that each page includes a &lt;head&gt; and &lt;body&gt; section. The head is meant to contain invisible metadata like the page title and links to assets used later in the page.
 
-The body contains the actual content of the page. 
+The body contains the actual content of the page.
 
 Here's a very basic template for an HTML file, including a couple standard declarations just to make sure everything runs smoothly:
 
@@ -83,7 +83,7 @@ Alt text and Image titles are not necessary, but can be included to provide addi
 
 #### Layout
 
-`<hr> `Horizontal rule, a line that divides sections of content. 
+`<hr>`Horizontal rule, a line that divides sections of content.
 
 `<br>` An empty line break.
 
@@ -107,5 +107,5 @@ The fifth worldwide update to HTML \(launched in 2014\) introduced a number of n
 
 You could technically use these tags however you like \(for example putting a `<footer>` at the top of your page\), but search engines use these tags to analyze web pages, and it's nice to keep your code "human-readable" so that it makes sense to collaborators and yourself.
 
-There are more HTML elements, but these should be enough to get started. 
+There are more HTML elements, but these should be enough to get started.
 
