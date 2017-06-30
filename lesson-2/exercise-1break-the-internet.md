@@ -7,6 +7,8 @@
 
 Download and install[ Filezilla](https://filezilla-project.org/) \(FTP app\) and [Brackets](http://brackets.io/) \(rich text editor\).
 
+![](/assets/brackets.png)A quick overview of the Brackets interface \(we'll use the Live Preview button in the Assignment, but you can ignore it for now\).
+
 ### Create a local directory
 
 Create a local directory on your computer; we'll create new files and edit them here before uploading them to the Web. Create a folder in your Documents folder or User folder called "local-directory" or "sites" \(without the quotes\) or whatever you want to call it \(remember—no spaces!\).
