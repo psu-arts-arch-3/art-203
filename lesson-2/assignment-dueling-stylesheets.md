@@ -59,15 +59,11 @@ You should use Brackets to edit the template files; just select Filer &gt;&gt;&g
 
 Brackets has several features that will make your job easier. It automatically color-codes different properties to help you understand the code, and it offers prompts as you begin typing. For example, if I type `<div>` in an HTML file, it will automatically generate the closing `</div>` tag. Or if I type the letter "b" in a CSS file, it will suggest a variety of properties starting with that letter.
 
-
-
-You should also try out the Live Preview mode by pressing the Lighting Bolt icon in the upper-right of the Brackets window. This opens a special web browser that shows a live preview of your files; it even changes dynamically as you edit the HTML or CSS. If you click on an HTML tag or a CSS selector the targeted area will be highlighted in the Live Preview browser, similar to how the web inspector works in Chrome.
-
-
+You should also try out the **Live Preview** mode by pressing the Lighting Bolt icon in the upper-right of the Brackets window. This opens a special web browser that shows a live preview of your files; it even changes dynamically as you edit the HTML or CSS. If you click on an HTML tag or a CSS selector the targeted area will be highlighted in the Live Preview browser, similar to how the web inspector works in Chrome.
 
 ### Finishing Up
 
-Once you've created your two stylesheets, we're going to set up a second HTML page, so that a user can see both stylesheets without having to edit the code. 
+Once you've created your two stylesheets, we're going to set up a second HTML page, so that a user can see both stylesheets without having to edit the code.
 
 1. Set the stylesheet link in "index.html" back to "styles-90s.css"
 2. Save
@@ -75,17 +71,13 @@ Once you've created your two stylesheets, we're going to set up a second HTML pa
 4. Paste that text in between the `<body>` tags in "index-alt.html" beneath the comment that says "Paste content here"
 5. Save
 
-"index-alt.html" is set to apply the CSS from "styles-modern.css" — so you should have two different HTML pages, each with identical HTML, but linking to different stylesheets. I would have done this for you at the beginning, but this way if you edited the HTML content at all, it will be the same in both pages. 
+"index-alt.html" is set to apply the CSS from "styles-modern.css" — so you should have two different HTML pages, each with identical HTML, but linking to different stylesheets. I would have done this for you at the beginning, but this way if you edited the HTML content at all, it will be the same in both pages.
 
 The `<a>` links in the `<nav>` menu are set to the two different HTML files, so that when you click on the links, you should be able to switch back and forth between your two stylesheets. You can't dynamically apply new stylesheets to a single HTML file without programming some Javascript, so we just set up two identical HTML pages.
 
-Upload your entire "lesson-2" folder to your PSU server using Filezilla like we did in Exercise 1. Make sure you upload the folder itself into the "art203" folder online, and include the image and CSS folders. 
+Upload your entire "lesson-2" folder to your PSU server using Filezilla like we did in Exercise 1. Make sure you upload the folder itself into the "art203" folder online, and include the image and CSS folders.
 
 The resulting filepath should be `http://pass.psu.edu/user123/art203/lesson-2/index.html`
 
 \[INSERT SUBMISSION LINK\]
-
-
-
-
 
