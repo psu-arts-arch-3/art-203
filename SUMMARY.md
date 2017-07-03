@@ -28,7 +28,7 @@
 * [Unit 2](unit-2.md)
   * [Lesson 3](unit-2/lesson-3.md)
     * Summary
-    * Responsive Concepts
+    * [Responsive Concepts](unit-2/lesson-3/responsive-concepts.md)
     * Introducing Illustrator
     * Working with Color
     * Exercise 1: Narrative Research
