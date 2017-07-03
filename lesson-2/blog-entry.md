@@ -7,7 +7,7 @@ The second link goes into some detail about the history of web design, particula
 
 ### Blog Prompt
 
-Fo this lesson, students will research the history of web design, specifically focusing on the aesthetics of websites prior to the year 2000. 
+Fo this lesson, students will research the history of web design, specifically focusing on the aesthetics of websites prior to the year 2000.
 
 **Your blog post should include:**
 
@@ -15,11 +15,11 @@ Fo this lesson, students will research the history of web design, specifically f
 * For each one, write at least 200 words describing:
   * A visual description of the website \(colors, style, shapes, fonts, layout\).
   * Analysis of the overall effect of those visual elements, i.e. how would you feel using the site or simply looking at it?
-  * The usability of the site compared to websites today
+  * The usability of the site compared to websites today. Consider the terms from Don Norman \(signifiers, affordances, etc.\)
   * Any historical connections to technology, society, or art. 
   * Compared to contemporary websites, is there anything about the page that you like? 
 
-Think of this writing assignment like a short piece of art criticism. Use descriptive language \(lots of adjectives\), and share your own unique perspective on your chosen specimens. 
+Think of this writing assignment like a short piece of art criticism. Use descriptive language \(lots of adjectives\), and share your own unique perspective on your chosen specimens.
 
 **Research Resources: **
 
