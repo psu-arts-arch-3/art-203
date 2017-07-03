@@ -25,8 +25,8 @@
     * [Exercise 2: Break the Internet:](lesson-2/exercise-2-hello-world.md)
     * [Assignment: Dueling Stylesheets](lesson-2/assignment-dueling-stylesheets.md)
     * [Blog Entry](lesson-2/blog-entry.md)
-* Unit 2
-  * Lesson 3
+* [Unit 2](unit-2.md)
+  * [Lesson 3](unit-2/lesson-3.md)
     * Summary
     * Responsive Concepts
     * Introducing Illustrator
