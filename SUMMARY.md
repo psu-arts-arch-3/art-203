@@ -31,8 +31,8 @@
     * [Responsive Concepts](unit-2/lesson-3/responsive-concepts.md)
     * Introducing Illustrator
     * Working with Color
-    * Exercise 1: Narrative Research
-    * Exercise 2: Breakpoint Madness
+    * Exercise 1: Breakpoint Madness
+    * [Exercise 2: Narrative Research](unit-2/lesson-3/exercise-2-breakpoint-madness.md)
     * Assignment: Narrative Mockup 
     * Blog
   * Lesson4
@@ -53,4 +53,6 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
+
+
 
