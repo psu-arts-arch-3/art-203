@@ -3,8 +3,8 @@ After reading the page on "Responsive Concepts," let's put those skills to use a
 ### Objectives
 
 * Practice the syntax and workflow of mobile-first media queries.
-* Find ways to dramatically change the appearance of a web page.
-* Create dynamic, engaging web art.
+* Dramatically change the appearance of a single web page.
+* Create novel, engaging visual elements to strengthen interface design abilities.
 
 ### Create an HTML page
 
@@ -45,6 +45,10 @@ Whatever you choose, try to make it visually engaging. If you have a purposeful 
 ### Add at least 10 breakpoints
 
 This is more breakpoints than you would probably use in a real project, but the goal here is to experiment and create a web page that's fun to resize back and forth.
+
+\[INSERT SUBMISSION LINK\]
+
+
 
 ### Some CSS to play with
 
