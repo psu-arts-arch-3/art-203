@@ -30,8 +30,7 @@
     * Summary
     * [Responsive Concepts](unit-2/lesson-3/responsive-concepts.md)
     * [Introducing Illustrator](unit-2/lesson-3/introducing-illustrator.md)
-    * Mood Boards
-
+    * [Mood Boards](unit-2/lesson-3/mood-boards.md)
     * [Working with Color](unit-2/lesson-3/working-with-color.md)
     * [Exercise 1: Breakpoint Madness](unit-2/lesson-3/exercise-1-breakpoint-madness.md)
     * [Exercise 2: Narrative Research](unit-2/lesson-3/exercise-2-breakpoint-madness.md)
@@ -55,6 +54,4 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
-
-
 
