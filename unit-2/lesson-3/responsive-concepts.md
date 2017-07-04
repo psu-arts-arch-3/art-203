@@ -48,17 +48,17 @@ In addition to screen size, the popularity of smartphones means that websites ne
 
 In order to deliver content as fast as possible, most websites aim to deliver optimized content specifically for mobile users... and then if a user is on a larger screen \(usually signifying that they're on a computer and a proper WIFI connection, then the website will serve up larger images and extra content. This approach is called **mobile-first**, and also implies that the design for the website** begins with mobile-users in mind,** and then expands—as opposed to beginning a design with desktop site, and then removing elements to make it fit on a smartphone.
 
-#### The mobile-first approach forces the designer to identify the simplest, most essential aspects of the content. 
+#### The mobile-first approach forces the designer to identify the simplest, most essential aspects of the content.
 
 Keep that in mind with our upcoming projects.
 
 One of the main ways that designers restrict content depending on screen size is by using **media-queries**—which we'll get to in a second—but a website might also present different content depending on a user's browser, location, or installed applications.
 
-**Check out **[**clickclickclick.click**](https://clickclickclick.click/#0ceb8962712a9ca28de290b4264c72da)** **for a weird and wonderful look at the type of information transmitted by your web browser. 
+**Check out **[**clickclickclick.click**](https://clickclickclick.click/#0ceb8962712a9ca28de290b4264c72da)** **for a weird and wonderful look at the type of information transmitted by your web browser.
 
 ## Media Queries
 
-Media queries are a CSS element that lets you target specific screen sizes, just as you might target specific classes or id's. Pretty much all platforms for web development use media queries, so whether you're coding a site from scratch, or using Wordpress, Squarespace, or Muse, it's important to understand the concept. 
+Media queries are a CSS element that lets you target specific screen sizes, just as you might target specific classes or id's. Pretty much all platforms for web development use media queries, so whether you're coding a site from scratch, or using Wordpress, Squarespace, or Muse, it's important to understand the concept.
 
 Here's the syntax:
 
@@ -68,13 +68,13 @@ Here's the syntax:
 }
 ```
 
-EMBED CODEPEN: https://codepen.io/BenFictional/pen/jwxGXv
+EMBED CODEPEN: [https://codepen.io/BenFictional/pen/jwxGXv](https://codepen.io/BenFictional/pen/jwxGXv)
 
 Resize the window to see the new CSS properties kick in and change the color and size of the square.
 
 The @media object has a variety of options that you can declare. It will still work if you omit  `only screen and`, but it's standard practice to include those because:
 
-* `screen `prevents extra styles from applying to printed pages and other media types.
+* `screen`prevents extra styles from applying to printed pages and [other media types](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp).
 * `only` prevents older browsers from loading the media query and getting confused. 
 
 You can write a media query to kick in at a min-width \(when the browser is at least 480px wide\) or a max-width \(when the browser is smaller than 480px\). Since we want to create websites mobile-first, the best way to include media queries is:
@@ -91,13 +91,7 @@ You can write a media query to kick in at a min-width \(when the browser is at l
 }
 ```
 
-The widths that trigger new media queries are called **Breakpoints **and you can have as many of them as your design requires \(though limiting it to 3 makes your life easier\). A good approach is to start with your mobile design, and then gradually increase the browser width until it starts to look weird.  
+The widths that trigger new media queries are called **Breakpoints **and you can have as many of them as your design requires \(though limiting it to 3 makes your life easier\). A good approach is to start with your mobile design, and then gradually increase the browser width until it starts to look weird.
 
-**Check out the online tool **[**Ish 2.0**](http://bradfrost.com/demo/ish/) — enter any URL at the top of the screen and hit the "DISCO" button to start stretching the website in all sorts of sizes; it's a good way to find bugs in your design or just see how real-world sites deal with media queries. 
-
-
-
-
-
-
+**Check out the online tool **[**Ish 2.0**](http://bradfrost.com/demo/ish/) — enter any URL at the top of the screen and hit the "DISCO" button to start stretching the website in all sorts of sizes; it's a good way to find bugs in your design or just see how real-world sites deal with media queries.
 
