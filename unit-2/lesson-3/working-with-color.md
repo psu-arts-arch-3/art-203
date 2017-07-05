@@ -2,9 +2,11 @@ Color is one of the most familiar elements of design, and while most people are 
 
 Humans perceive only a small section of of the light emitted by the sun, but if you've ever used a prism, you've observed how that light can be split into a rainbow of colors. Our eyes contain specialized cells—called cones—that are sensitive to specific wavelengths of light, which we perceive as different colors.
 
-![](/assets/light-spectrum.png)Our eyes detect light primarily in terms of red, green, and blue \(a different type of cell is responsible for detecting light-dark values\) which our brains combine those colors to create millions of unique colors, and this is the same principle used by computer screens and televisions to emit light. In those cases, the process works backwards, starting with red, green, and blue \(RGB\) signals and using them to construct a final picture through emitted light. Here's an highly magnified image of a computer screen \(and [a fun video](https://www.youtube.com/watch?v=CEZApLSp3Ng)\), revealing individual pixels:
+![](/unit-2/lesson-3/light-spectrum.png)
 
-![](/assets/pixels.jpg)
+Our eyes detect light primarily in terms of red, green, and blue \(a different type of cell is responsible for detecting light-dark values\) which our brains combine those colors to create millions of unique colors, and this is the same principle used by computer screens and televisions to emit light. In those cases, the process works backwards, starting with red, green, and blue \(RGB\) signals and using them to construct a final picture through emitted light. Here's an highly magnified image of a computer screen \(and [a fun video](https://www.youtube.com/watch?v=CEZApLSp3Ng)\), revealing individual pixels:
+
+![](/unit-2/lesson-3/pixels.jpg)
 
 Each pixel is actually made of three lights \(red, green, and blue\), and in this image you can see how other colors can be created by color mixing. Red and blue make magenta... blue and green make cyan... and red and green make _YELLOW!?_
 
@@ -13,7 +15,7 @@ Light does not follow the rules of color mixing you learned in painting class. I
 * **Additive \(RGB\):** Red, green, and blue combine to produce the full light spectrum; used in screen and digital cameras.
 * **Subtractive \(CMYK\): **Cyan, magenta, yellow, and black combine to subtract \(i.e. absorb\) from the full light spectrum; used in inkjet printing, film photography, and printmaking.
 
-![](/assets/RGBvCMYK.jpg)
+![](/unit-2/lesson-3/RGBvCMYK.jpg)
 
 If that's how our devices understand color, then how do we instruct them to produce the colors we want? Mostly, by providing a number value for each of those RGB pixels.
 
@@ -23,7 +25,7 @@ Early web browsers like Mosaic and Netscape Navigator only supported 140 colors,
 
 As screens and browsers grew more powerful, it became common for colors to be represented as six-digit hex-codes like \#D4E7AB. This syntax is still used by many developers and applications. The six characters represent values for red, green, and blue, with each color accepting a value of 00 to FF \(see below\). This works out to 256 possible values per color for a total of 16.7 million colors.
 
-![](/assets/hex.png)
+![](/unit-2/lesson-3/hex.png)
 
 ### RGB/RGBA
 
@@ -35,7 +37,7 @@ Like opacity, you do this with a value from 0–1. So the syntax is `rgba (255, 
 
 The problem with the previous methods of color naming is that they are difficult to remember, \(unlike "BlanchedAlmond"\) and don't directly relate to the way humans think about color. A newer way of naming colors in CSS and other design contexts is Hue, Saturation, Lightness \(sometimes labeled Brightness\) or HSL \(or HSB\). The CSS is similar to RGBA in that each value receives a number, but these terms are much more familiar and useful for designers. HSL allows designers to look at a design and say: "That blue needs to be more saturated!"—which is difficult to do with hexcodes. This is _**big deal**_ for designers, and helps achieve more natural easily adjusted colors.
 
-![](/assets/hsl.png)
+![](/unit-2/lesson-3/hsl.png)
 
 The syntax is `hsl(360, 100, 100);` with hue accepting 0–360, and saturation and brightness accepting 0–100.
 
@@ -45,7 +47,7 @@ You can also add alpha to control transparency: `hsla(360, 100, 100, 1.0);`
 
 One of the easiest ways to start improving your use of color, is to remember that every color has value. **Value **describes the brightness or light-dark relationships of the color. If you convert a photo to grayscale, you'll see which colors are brighter or darker. To make sure that your content is legible, keep value in mind when choosing your colors.
 
-![](/assets/color-value-3.png)
+![](/unit-2/lesson-3/color-value-3.png)
 
 In this example, both passages of text are blue, but even though blue seems like a very different color from the red used in the background, the bottom passage is a very similar value—so it's nearly impossible to read. Look at the top passage of text... is it a lighter or darker value than the background?
 
@@ -57,7 +59,7 @@ So, that's how to define and use specific colors, but the real art of web design
 
 Most sites use a color palette—or limited set of colors—throughout the site. This is common practice among graphic designers and software developers too. The specific colors work with typography and graphics to create the brand of website or company. The red, green, yellow, and blue used in the Google logo are used throughout their app ecosystem and are instantly recognizable.
 
-![](/assets/google-loader.gif)
+![](/unit-2/lesson-3/google-loader.gif)
 
 There are a variety of tools for developing color palettes, for this class we'll focus on Adobe Color, becasue it integrates with the Adobe Creative Suite. Watch some of the videos from Lynda's course on Adobe Color or just go [play with the website.](https://color.adobe.com/)
 
