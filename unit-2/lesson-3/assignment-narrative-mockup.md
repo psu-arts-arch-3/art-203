@@ -1,12 +1,10 @@
-For this assignment, students will create a graphic mockup of a single-page website that we will develop in Lesson 4.
+For this assignment, students will create a graphic mockup of a one-page website that we will develop in Lesson 4.
 
 ### Objectives
 
 * Use professional imaging software to compose a detailed rendering of a web layout.
 * Plan the arrangement and functionality of various content elements. 
 * Consider flexible layout in mobile and desktop contexts.
-
-
 
 ### Mockups
 
@@ -25,13 +23,13 @@ The height of each layout will be determined by the content of your particular p
 
 ### Instructions
 
-You can use the Lynda course [Illustrator for Web Design](https://www.lynda.com/Illustrator-tutorials/Welcome/108130/109803-4.html?srchtrk=index%3a1
+Use the Lynda course [Illustrator for Web Design](https://www.lynda.com/Illustrator-tutorials/Welcome/108130/109803-4.html?srchtrk=index%3a1
 linktypeid%3a2
 q%3aillustrator+web+design
 page%3a1
 s%3arelevance
 sa%3atrue
-producttypeid%3a2) to guide you through the process.
+producttypeid%3a2) to guide you through this process.
 
 #### **Step 1: Create a document**
 
@@ -67,9 +65,9 @@ producttypeid%3a2)\(another Lynda video\) to easily reuse them in your project.
 
 You should _absolutely_ look beyond the standard [web-safe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp) for this assignment. Your narrative website should look professional and original, and that means using custom fonts. There are a few different ways to implement custom fonts, but since we're going to be developing our narrative websites in Adobe Muse, it will be easiest to choose custom fonts from the  Adobe Typekit library.
 
-Adobe Typekit can be access through individual adobe apps \(usually in the text character window\), or through the Creative Cloud app, or through a web browser. [Here are instructions for all three methods](https://helpx.adobe.com/creative-cloud/help/add-fonts-typekit.html).
+Adobe Typekit can be accessed through individual Adobe apps \(usually in the text character window\), or through the Adobe Creative Cloud app, or through a web browser. [Here are instructions for all three methods](https://helpx.adobe.com/creative-cloud/help/add-fonts-typekit.html).
 
-Essentially this allows you to choose form thousands of custom fonts, including many from [Google Fonts](https://fonts.google.com/).
+Essentially, this allows you to choose from thousands of custom fonts, including many from [Google Fonts](https://fonts.google.com/).
 
 One approach is to create some placeholder text outside of your document's artboards to get a feel for how your fonts look, and you can adjust the relative size of headers and body text. That way you can quickly use the Eyedropper tool \(I\) to apply those styles to new text in your project.
 
@@ -81,20 +79,20 @@ There are also a bevy of contemporary spins on Lorem Ipsum, such as [Hipster Ips
 
 #### Step 5. Create the mobile layout
 
-Start with general sections and big colored rectangles to divid up the content, and expand your artboard as needed. 
+Start with general sections and big colored rectangles to divid up the content, and expand your artboard as needed.
 
 Add some images and icons! Illustrator is great for drawing simple icons and decorations. If you haven't used Illustrator before, check out Lynda's [Illustrator CC 2017 Essential Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2017-Essential-Training/578066-2.html) — especially section five: "Drawing Basic Shapes."
 
-Review the project description at the top of the page.
+Review the project description earlier in this lesson. 
 
 #### Step 6. Create the desktop layout
 
-Duplicate the mobile layout so you don't have to create everything again. 
+Duplicate the mobile layout so you don't have to create everything again.
 
 1. Zoom out and select the entire mobile layout with the Selection tool \(V\). 
 2. Hold Option/Alt and drag the content over to your second artboard. Alternatively use Edit &gt;&gt;&gt; Copy, Edit &gt;&gt;&gt; Paste
 
-Now you just have to resize your content sections and move things around until it looks good! You may want to add additional content to this larger view, but you don't have too. 
+Now you just have to resize your content sections and move things around until it looks good! You may want to add additional content to this larger view, but you don't have too.
 
 #### Step 7. Export
 
@@ -102,9 +100,5 @@ Once you're finished with both layouts, choose File &gt;&gt;&gt; Export &gt;&gt;
 
 ![](/unit-2/lesson-3/illustrator-export.png)
 
-Make sure you have both artboards selected on the left of this window, then choose a location for the "Export to" field. Set the format to PNG and the Scale to 1x. 
-
-
-
-
+Make sure you have both artboards selected on the left of this window, then choose a location for the "Export to" field. Set the format to PNG and the Scale to 1x.
 
