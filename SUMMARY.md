@@ -34,7 +34,7 @@
     * [Working with Color](unit-2/lesson-3/working-with-color.md)
     * [Exercise 1: Breakpoint Madness](unit-2/lesson-3/exercise-1-breakpoint-madness.md)
     * [Exercise 2: Narrative Research](unit-2/lesson-3/exercise-2-breakpoint-madness.md)
-    * Assignment: Narrative Mockup 
+    * [Assignment: Narrative Mockup ](unit-2/lesson-3/assignment-narrative-mockup.md)
     * Blog
   * Lesson4
     * Summary

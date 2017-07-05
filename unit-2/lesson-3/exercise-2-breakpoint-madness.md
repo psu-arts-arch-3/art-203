@@ -1,5 +1,11 @@
 In preparation for this lesson's assignment, students will create a mood board and color palette for their narrative website.
 
+### Objectives:
+
+* Conduct research into styles and layouts of real-world design.
+* Synthesize varied elements into a new composition.
+* Compose a flexible color palette that contributes to a chosen mood or style.
+
 ## Color Palette
 
 Use one of the following tools to create a color palette for your website. **The palette should include five colors.** Try to choose colors that can be combined in various ways and still look good together.
@@ -14,9 +20,9 @@ Take a screenshot of your finished color palette. Or else use the color codes to
 
 ## Mood Board
 
-Collect a series of images that conveys the mood and style of your narrative website idea. Include a variety of images, such as textures, typography, menus, layouts, photographs, etc. 
+Collect a series of images that conveys the mood and style of your narrative website idea. Include a variety of images, such as textures, typography, menus, layouts, photographs, etc.
 
-Use any of the following tools: 
+Use any of the following tools:
 
 * Screenshots— Especially with websites, you may just end up taking screenshots of sites that you like. Just be sure to organize  you images in a single folder. You can also use screenshot in some of the tools below. 
 * [Pinterest ](https://www.pinterest.com/)— A great resource for design inspiration, create an account and save images into specific boards for each project. Try searching for colors, shapes, textures, etc.
@@ -29,9 +35,9 @@ Take a screenshot of your finished mood board.
 
 ## Submission
 
-Submit images of your color palette and mood board to Open Studio. 
+Submit images of your color palette and mood board to Open Studio.
 
-You could also use Illustrator \(or Photoshop\) to combine the two screenshots, or use the program to arrange your saved images and color swatches as an original document. If you create a document in Illustrator, export it as a PNG or JPEG. 
+You could also use Illustrator \(or Photoshop\) to combine the two screenshots, or use the program to arrange your saved images and color swatches as an original document. If you create a document in Illustrator, export it as a PNG or JPEG.
 
 \[INSERT SUBMISSION LINK\]
 
