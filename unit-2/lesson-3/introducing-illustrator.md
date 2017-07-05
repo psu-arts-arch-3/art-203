@@ -6,7 +6,7 @@ We'll be using Adobe Muse later in the course to make functional websites, but r
 
 **Adobe Illustrator** is also used for creating graphics and 2D designs, but unlike Photoshop it works with **vector images**. Vector images are defined by points and paths and do rely on pixels \(though vector images can be converted to raster filetypes\). The advantage of vector images is that they can be viewed or printed at any scale without any loss in quality; they also take up \_much less \_file space, which is important for web design where loading speed is a major concern. Vector filetypes include SVG, EPS, and PDF.
 
-![](/assets/raster-vector.png)
+![](/unit-2/lesson-3/raster-vector.png)
 
 I recommend using Illustrator for web design for a couple reasons:
 
