@@ -4,7 +4,7 @@ After reading the page on "Responsive Concepts," let's put those skills to use a
 
 * Practice the syntax and workflow of mobile-first media queries.
 * Dramatically change the appearance of a single web page.
-* Create novel, engaging visual elements to strengthen interface design abilities.
+* Create novel, engaging visual elements to strengthen interface design vocabulary.
 
 ### Create an HTML page
 
@@ -27,13 +27,13 @@ Here's the HTML starter template again:
 </html>
 ```
 
-### Add some content
+### Step 1. Add some content
 
 Add whatever content you like. It could be a couple divs that you arrange in an interesting way, some images, text in various sizes, or anything you can think of.
 
 The goal is to create_** a lot of breakpoints**_, and to create a single web page that changes dramatically as the user resizes the window. Imagine a strobe light, or a squirming creature wriggling around the page. This exercise doesn't need to useable or informative—it can be totally abstract. Or, if you prefer, you can include a quote or informative passage of text to provide some content to your design.
 
-Some possible examples:
+Some possible ideas:
 
 * Include text about the science of light and cycle through the colors of the rainbow.
 * Create a div with a weird shape and have it resize and move around the screen.
@@ -42,7 +42,7 @@ Some possible examples:
 
 Whatever you choose, try to make it visually engaging. If you have a purposeful idea or concept behind your webpage, all the better!
 
-### Add at least 10 breakpoints
+### Step 2. Add at least 10 breakpoints
 
 This is more breakpoints than you would probably use in a real project, but the goal here is to experiment and create a web page that's fun to resize back and forth.
 
