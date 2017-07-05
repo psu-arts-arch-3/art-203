@@ -14,7 +14,7 @@ As the browser width shrinks, the content is clipped—preventing a reader from 
 
 Compare that to this example of a weather site:
 
-![](/assets/responsive-demo.gif)
+![](/unit-2/lesson-3/responsive-demo.gif)
 
 This example showcases several of the terms mentioned at the beginning:
 
