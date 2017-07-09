@@ -10,17 +10,22 @@ Since this course is meant to explore the use of websites and online tools, it's
 
 **PSU Sites: **Penn State offers free hosting for multiple Wordpress sites. Wordpress is a popular tool for making websites, but the URLs for your sites will be something like "[http://sites.psu.edu/YourSiteName](http://sites.psu.edu/YourSiteName)" — we'll use this for making individual research blogs.
 
-### Third Party Resources
+### Submitting Work
 
-These aren't affiliated with PSU, so you'll have to create your own login accounts.
+Due to the variety of projects and filetypes involved in web design, we will submit work in a few different ways:
 
-**Slack:** This third-party messaging app can used through a web browser, desktop app, or mobile app. You can communicate with the whole class or specific people, and I’ll use this to chime in on whatever questions arise during the week.
+**Open Studio: **class-wide galleries of images for each assignment. Students will leave comments here during peer reviews for exercises, assignments, and blog posts. 
 
-**Adobe Creative Cloud: **The industry standard for media production. We'll use some of the Adobe programs throughout the course, so you'll have to purchase a monthly subscription, though you can wait until we get an assignment that requires it. Make sure you use the [student discount](http://www.adobe.com/creativecloud/buy/students.html).
+**Canvas:** submissions to the instructor will receive private feedback and grades. 
 
-### And of course...
 
-**Email:** Always a reliable way to get in contact with the instructor. You can also use the Inbox messenger in Canvas.
+
+| Submission Type | The Internet | Open Studio | Canvas |
+| :--- | :--- | :--- | :--- |
+| Exercise | Upload files according to instructions | N/A | Submit files according to instructions |
+| Assignments | Upload files according to instructions | Submit raster image files \(JPEG or PNG\) | Submit files according to instructions |
+| Blog posts | Post to individual research blog. | Post URL and screenshot of post | Post URL and screenshot of post |
+| Peer Comments | N/A | Post comments  | Take screenshots of comments in Open Studio and submit in Canvas assignments |
 
 
 
