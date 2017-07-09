@@ -22,8 +22,8 @@
     * [PASS Hosting](lesson-2/pass-hosting.md)
     * [Introducing Illustrator](unit-2/lesson-3/introducing-illustrator.md)
     * [The Grid](lesson-2/the-grid.md)
-    * [Exercise 1 Personal Typography](lesson-2/exercise-1break-the-internet.md)
-    * [Exercise 2: Custom Fonts](lesson-2/exercise-2-hello-world.md)
+    * [Exercise 1 Illustrator Mockup](lesson-2/exercise-1break-the-internet.md)
+    * [Exercise 2: Custom Fonts](lesson-2/exercise-2-hello-world.md) 
     * [Assignment: Dueling Stylesheets](lesson-2/assignment-dueling-stylesheets.md)
     * [Blog Entry](lesson-2/blog-entry.md)
 * [Unit 2](unit-2.md)
@@ -56,4 +56,6 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
+
+
 
