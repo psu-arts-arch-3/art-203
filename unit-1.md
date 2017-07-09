@@ -19,9 +19,9 @@ Beyond this course, the media authoring skills acquired can be applied/transferr
   * Exercise 2: Wordpress
   * Assignment: First blog post
 * Lesson 2
-  * Exercise 1: Hello HTML
-  * Exercise 2: Break the Internet \(CSS experiment\)
-  * Assignment: Dueling Stylesheets
+  * Exercise 1: Personal Typography
+  * Exercise 2: Custom Fonts
+  * Assignment: Landing Page
   * Blog post
 
 
