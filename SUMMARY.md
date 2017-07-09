@@ -20,7 +20,11 @@
     * [HTML Crash Course](lesson-2/intro-to-html.md)
     * [CSS Crash Course](lesson-2/css-crash-course.md)
     * [PASS Hosting](lesson-2/pass-hosting.md)
-    * [Typography](lesson-2/typography.md)
+
+    * [Introducing Illustrator](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
+
+    * The Grid
+
     * [Exercise 1 Personal Typography](lesson-2/exercise-1break-the-internet.md)
     * [Exercise 2: Custom Fonts](lesson-2/exercise-2-hello-world.md)
     * [Assignment: Dueling Stylesheets](lesson-2/assignment-dueling-stylesheets.md)
@@ -29,7 +33,8 @@
   * [Lesson 3](unit-2/lesson-3.md)
     * Summary
     * [Responsive Concepts](unit-2/lesson-3/responsive-concepts.md)
-    * [Introducing Illustrator](unit-2/lesson-3/introducing-illustrator.md)
+    * [Typography](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
+
     * [Mood Boards](unit-2/lesson-3/mood-boards.md)
     * [Working with Color](unit-2/lesson-3/working-with-color.md)
     * [Narrative Website](unit-2/lesson-3/narrative-website.md)
@@ -55,4 +60,6 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
+
+
 
