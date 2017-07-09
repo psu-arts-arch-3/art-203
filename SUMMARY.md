@@ -30,6 +30,7 @@
     * [Exercise 1 Personal Typography](lesson-2/exercise-1break-the-internet.md)
 
     * [Exercise 2: Custom Fonts](lesson-2/exercise-2-hello-world.md)
+
     * [Assignment: Dueling Stylesheets](lesson-2/assignment-dueling-stylesheets.md)
     * [Blog Entry](lesson-2/blog-entry.md)
 
@@ -44,6 +45,7 @@
     * [Mood Boards](unit-2/lesson-3/mood-boards.md)
 
     * [Working with Color](unit-2/lesson-3/working-with-color.md)
+
     * [Narrative Website](unit-2/lesson-3/narrative-website.md)
     * [Exercise 1: Narrative Research](unit-2/lesson-3/exercise-2-breakpoint-madness.md)
     * [Exercise 2: Wireframe in Illustrator](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
@@ -51,6 +53,7 @@
     * Blog
 
   * Lesson4
+
     * Summary
     * Introducing Muse
     * Exercise 1: Muse Landing Page
@@ -59,6 +62,7 @@
     * Blog
 
 * Unit 3
+
   * Lesson 5
     * Further Training
     * The Design Process
