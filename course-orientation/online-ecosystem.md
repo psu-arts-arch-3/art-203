@@ -22,15 +22,7 @@ These aren't affiliated with PSU, so you'll have to create your own login accoun
 
 **Email:** Always a reliable way to get in contact with the instructor. You can also use the Inbox messenger in Canvas.
 
-### Web Browsers
 
-A major part of designing for the web is making sure your projects are compatible with a variety or devices and screen sizes. As you prepare to release a project to the public, it's important to test it on all the major browsers, but for the sake of simplicity, please use Google Chrome for development work. You can use a different browser for reading content or submitting files, but for rendering websites, it will help keep us on the same page if everyone is using Chrome. Google is very good about supporting the latest browser functionalities, and I like it's developer features better than the competition.
 
-[Download Chrome here. ](https://www.google.com/chrome/browser/desktop/)
 
-### Text Editor
-
-While this course focus on interaction theory and visual design, we will be doing some coding with HTML and CSS. You can use any Rich Text Editor but to simplify things I'd like to have everyone use the same one: Brackets, a great open-source editor.
-
-[Download Brackets here.](http://brackets.io/)
 
