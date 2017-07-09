@@ -2,11 +2,11 @@
 
 * [Introduction](README.md)
 * [Course Orientation](course-orientation.md)
-  * [Welcome](course-orientation/welcome.md)
+  * [Course Overview](course-orientation/welcome.md)
   * [Online Ecosystem](course-orientation/online-ecosystem.md)
   * [Lynda ](course-orientation/lynda.md)
   * [Open Studio ](course-orientation/open-studio.md)
-  * Lesson Format
+
   * [Tips for Success](course-orientation/tips-for-success.md)
 * [Unit 1](unit-1.md)
   * [Lesson 1](unit-1/lesson-1.md)
@@ -34,12 +34,9 @@
     * [Mood Boards](unit-2/lesson-3/mood-boards.md)
     * [Working with Color](unit-2/lesson-3/working-with-color.md)
     * [Narrative Website](unit-2/lesson-3/narrative-website.md)
-
     * [Exercise 1: Narrative Research](unit-2/lesson-3/exercise-2-breakpoint-madness.md)
     * [Exercise 2: Wireframe in Illustrator](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
-
     * [Assignment: Narrative Mockup ](unit-2/lesson-3/assignment-narrative-mockup.md)
-
     * Blog
   * Lesson4
     * Summary
