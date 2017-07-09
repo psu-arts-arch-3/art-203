@@ -28,3 +28,5 @@ This is a great resource for learning the "rules" of typography, and also provid
 
 The first link provides an overview of some of these standards, and the second link discusses typography specifically with reference to web design—and the second reading will also factor into this Lesson's blog post.
 
+
+
