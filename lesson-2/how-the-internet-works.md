@@ -26,21 +26,21 @@ The actual content that is transferred via HTTP over the Internet are typically 
 
 Web browsers can read other types of files too, for example, you can open a JPEG in your web browser—either right-click the file and choose "Open with" or drag it onto the icon in the doc if you're on a Mac.
 
-You should try this too. If you need an image file, you can download this image of the first web browser with a graphical interface \(called _Mosaic_, from 1993\).
+You should try this too. If you need an image file, you can download this image of the first web browser with a graphical interface \(called _Mosaic_, from 1993\). Also—does _Mosaic _ look similar or different from your current web browser? What are some of the design details that have stuck around for 20+ years?
 
 ![](/assets/lesson-2/Mosaic.png)
 
-Once you've opened a JPEG or other image file in your web browser, take a look at the URL bar at the top of the screen.
+Once you've opened a JPEG or PNG in your web browser, take a look at the URL bar at the top of the screen.
 
 Instead of the traditional "[http://www](http://www)..." you should see something like the following:
 
 ![](/assets/lesson-2/local-file.png)
 
-This is the **path** for whatever file you opened. The slashes denoted folders, meaning that my file "Mosaic.png" is located in Documents folder, within my user folder, within a folder called "Users", which is within the root level folder of my computer.
+This is the **path** for whatever file you opened. The slashes denoted folders, meaning that my file "Mosaic.png" is located in my Documents folder, within my user folder, within a folder called "Users", which is within the root level folder of my computer.
 
-Now if you haven't done any sort of coding before, this might blow your mind, but any URL you type into your web browser is the same sort of file path—except the files you're opening are usually HTML files \(e.g. "something.html"\) and not JPEG's. So when you go to [http://www.worldcampus.psu.edu/about-us/mission](http://www.worldcampus.psu.edu/about-us/mission) you're accessing a file called "mission" within a folder called "about-us." Sometimes the file extension will be hidden by the browser, but oftentimes you will see URL's ending in ".html"
+Now if you haven't done any sort of coding before, this might blow your mind, but any URL you type into your web browser is the same sort of file path—except the files you're opening are usually HTML files \(e.g. "http://website.com/something.html"\) and not JPEG's. So when you go to [http://www.worldcampus.psu.edu/about-us/mission](http://www.worldcampus.psu.edu/about-us/mission) you're accessing a file called "mission" within a folder called "about-us." Sometimes the file extension will be hidden by the browser, but oftentimes you will see URL's ending in ".html"
 
-Unlike the image you opened earlier, webpages are not saved on your local computer; they're saved on a computer somewhere else on the planet. These computers are called **servers,** and they're built specifically to host files and make them accessible over the Internet. Here's a comically boring server center featured in the show _Silicon Valley_:
+Unlike the image you opened earlier, webpages are not saved on your local computer; they're saved on a computer somewhere else on the planet. These computers are called **servers,** and they're built specifically to host files and make them accessible over the Internet. Here's a comically boring server center from the show _Silicon Valley_:
 
 ![](/assets/lesson-2/silicon valley.png)
 
