@@ -23,7 +23,7 @@
     * [CSS Crash Course](lesson-2/css-crash-course.md)
     * [PASS Hosting](lesson-2/pass-hosting.md)
 
-    * [Introducing Illustrator](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
+    * Introducing Illustrator
 
     * The Grid
 
@@ -32,6 +32,7 @@
     * [Exercise 2: Custom Fonts](lesson-2/exercise-2-hello-world.md)
 
     * [Assignment: Dueling Stylesheets](lesson-2/assignment-dueling-stylesheets.md)
+
     * [Blog Entry](lesson-2/blog-entry.md)
 
 * [Unit 2](unit-2.md)
@@ -47,6 +48,7 @@
     * [Working with Color](unit-2/lesson-3/working-with-color.md)
 
     * [Narrative Website](unit-2/lesson-3/narrative-website.md)
+
     * [Exercise 1: Narrative Research](unit-2/lesson-3/exercise-2-breakpoint-madness.md)
     * [Exercise 2: Wireframe in Illustrator](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
     * [Assignment: Narrative Mockup ](unit-2/lesson-3/assignment-narrative-mockup.md)
