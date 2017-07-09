@@ -6,6 +6,7 @@
   * [Online Ecosystem](course-orientation/online-ecosystem.md)
   * [Lynda ](course-orientation/lynda.md)
   * [Open Studio ](course-orientation/open-studio.md)
+  * Lesson Format
   * [Tips for Success](course-orientation/tips-for-success.md)
 * [Unit 1](unit-1.md)
   * [Lesson 1](unit-1/lesson-1.md)
@@ -21,8 +22,8 @@
     * [CSS Crash Course](lesson-2/css-crash-course.md)
     * [PASS Hosting](lesson-2/pass-hosting.md)
     * [Typography](lesson-2/typography.md)
-    * [Exercise 1: Hello HTML  ](lesson-2/exercise-1break-the-internet.md)
-    * [Exercise 2: Break the Internet:](lesson-2/exercise-2-hello-world.md)
+    * [Exercise 1 Personal Typography](lesson-2/exercise-1break-the-internet.md)
+    * [Exercise 2: Custom Fonts](lesson-2/exercise-2-hello-world.md)
     * [Assignment: Dueling Stylesheets](lesson-2/assignment-dueling-stylesheets.md)
     * [Blog Entry](lesson-2/blog-entry.md)
 * [Unit 2](unit-2.md)
@@ -33,26 +34,31 @@
     * [Mood Boards](unit-2/lesson-3/mood-boards.md)
     * [Working with Color](unit-2/lesson-3/working-with-color.md)
     * [Narrative Website](unit-2/lesson-3/narrative-website.md)
-    * [Exercise 1: Breakpoint Madness](unit-2/lesson-3/exercise-1-breakpoint-madness.md)
-    * [Exercise 2: Narrative Research](unit-2/lesson-3/exercise-2-breakpoint-madness.md)
+
+    * [Exercise 1: Narrative Research](unit-2/lesson-3/exercise-2-breakpoint-madness.md)
+    * [Exercise 2: Wireframe in Illustrator](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
+
     * [Assignment: Narrative Mockup ](unit-2/lesson-3/assignment-narrative-mockup.md)
+
     * Blog
   * Lesson4
     * Summary
     * Introducing Muse
-    * Exercise 1: TBD
-    * Exercise 2: Muse Landing Page
+    * Exercise 1: Muse Landing Page
+    * Exercise 2: Vector Artwork
     * Assignment: Narrative Website
     * Blog
 * Unit 3
   * Lesson 5
     * Further Training
     * The Design Process
-    * Exercise 1: Wireframe your House
-    * Exercise 2: Final Outline
-    * Assignment: Final Mockup
+    * Exercise 1: Final Proposal
+    * Exercise 2: Five Sketches
+    * Assignment: Interactive Prototype
   * Lesson 6
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
+
+
 
