@@ -29,35 +29,9 @@ Open the HTML file in a web browser and take a look at the structure of the webs
 * "index-alt.html" is reserved for the end of the assignment, so ignore it at first. 
 * The layout uses modern HTML5 declarations like `<header>` and a responsive two-column [Flexbox](https://internetingishard.com/html-and-css/flexbox/) layout in an effort to teach current standards.
 
-## Assignments: Duelling Stylesheets
 
-### **Part 1**
 
-Edit "styles-90s.css" to create a stylesheet \(i.e. list of CSS properties\) that makes the sample webpage look like finished website from the 1990's. Based on your research for this week's blog post, consider the colors, fonts, and design styles used by designers of that era.
 
-Ignore the file called "index-alt.html" for now.
-
-The "index.html" file is set to use the "styles-90s.css" by default, so add your properties there. The design doesn't have to be a masterpiece, in fact, you should feel free to make your design ugly or simplistic if that's how you choose to interpret the aesthetics of the 90's. But try to make your design look _complete_—like you've spent some time on it.
-
-You don't have to edit the HTML much, but you should at least replace the titles with something descriptive. 
-
-You are encouraged to add new text and images to make the site look more complete—for example, add some images of some Tamagotchis, and write a few sentences to make the site appear to be a a [Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi) advice column, or Pepsi recipe collection, or sneaker collection blog, etc. **Creativity will be rewarded! **
-
-To add new images, place JPEG or PNG files in the folder called "img" and change the links in the HTML or CSS to match the filenames of your images.
-
-Just stick to the [web-safe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp) for historical accuracy.
-
-### **Part 2**
-
-Create an alternate stylesheet to apply a modern look to the same HTML content. Leave whatever 90's text and images you added, and let's just focus on the visual design. The second version of the site should look _substantially_ different from the 90's version.
-
-Once you're ready to work on the modern version, change the link in the `<head>` to the other CSS file:
-
-`<link rel="stylesheet" type="text/css" href="css/styles-modern.css">`
-
-Now add your new CSS properties to "styles-modern.css"
-
-Remember, don't spend too long on this, just focus on colors, fonts, and layout. What are some quick changes you can make to create a design that feels more like website today—we'll talk more about specific trends in contemporary design later, but for now, just go with your gut. It can still be colorful or "program-y" but try to make it look substantially different than the 90's site.
 
 ### Using Brackets
 
@@ -69,21 +43,7 @@ You should also try out the **Live Preview** mode by pressing the Lighting Bolt 
 
 ### Finishing Up
 
-Once you've created your two stylesheets, we're going to set up a second HTML page, so that a user can see both stylesheets without having to edit the code.
-
-1. Set the stylesheet link in "index.html" back to "styles-90s.css"
-2. Save
-3. Copy everything within the `<body>` and `</body>` tags from "index.html" \(but don't copy the body tags themselves\).
-4. Paste that text in between the `<body>` tags in "index-alt.html" beneath the comment that says "Paste content here"
-5. Save
-
-"index-alt.html" is set to apply the CSS from "styles-modern.css" — so you should have two different HTML pages, each with identical HTML, but linking to different stylesheets. I would have done this for you at the beginning, but this way if you edited the HTML content at all, it will be the same in both pages.
-
-The `<a>` links in the `<nav>` menu are set to the two different HTML files, so that when you click on the links, you should be able to switch back and forth between your two stylesheets. You can't dynamically apply new stylesheets to a single HTML file without programming some Javascript, so we just set up two identical HTML pages.
-
-Upload your entire "lesson-2" folder to your PSU server using Filezilla like we did in Exercise 1. Make sure you upload the folder itself into the "art203" folder online, and include the image and CSS folders.
-
-The resulting filepath should be `http://pass.psu.edu/user123/art203/lesson-2/index.html`
+FTP stuff
 
 \[INSERT SUBMISSION LINK\]
 
