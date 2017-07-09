@@ -1,6 +1,6 @@
 The Adobe Creative Suite is the industry standard for many types of digital media. For designing digital graphics and layouts, there are some other options, but we're going to use the Adobe Suite because it's so widely used and a subscription includes access to several programs useful for web design.
 
-We'll be using Adobe Muse later in the course to make functional websites, but right now we're interested in crating 2D graphics as a means to design web layouts and graphic assets like icons and backgrounds.
+We'll be using Adobe Muse later in the course to make functional websites, but right now we're interested in crating 2D graphics—or **mockups**— as a means to imagine web layouts and graphic assets like icons and backgrounds. 
 
 **Adobe Photoshop** is one option for this type of work. As its name implies Photoshop is primarily designed for manipulating photos, but many people use it for creating other graphics. Photoshop is primarily used for creating **raster images**—which means images made of pixels like JPEG's or PNG's.
 
