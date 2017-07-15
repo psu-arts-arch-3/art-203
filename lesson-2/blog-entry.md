@@ -1,34 +1,18 @@
-As mentioned on the Typography page, you should read the following excerpts from Butterick's Practical Typography:
+For this blog post, we're going to focus on the idea of grid design, as students produce their own grid-based designs for the landing page assignment. Please create a new blog post for your Wordpress blog based on the following prompt:
 
-* 1. [Typography in Ten Minutes ](http://practicaltypography.com/typography-in-ten-minutes.html)
-  2. [Websites](http://practicaltypography.com/websites.html)
+**Prompt: **As we've seen earlier in this lesson, the grid is a long-standing design technique for presenting all sorts of content. For each of the following, find an examples to write about on your blog:
 
-The second link goes into some detail about the history of web design, particularly how some of the standards of web typography resulted from technical limitations.
+* 1. An example of successful grid-based design that you like.
+  2. An example of successful layout design that "breaks the grid" by disrupting the traditional rules of grid design. 
+  3. An example of layout design that you don't like. You must connect your analysis of the design to the idea of grid layout; it might do a poor job of following grid structure, or perhaps it presents an overly boring grid structure. You can describe other reasons that you dislike the design as well. 
 
-### Blog Prompt
+Include an image or screenshot for each of your examples, and write a short overview of the publication, its subject matter, and visual appearance. Be very descriptive and try to identify the key visual elements of the design. Describe the colors, fonts, composition, and other formal \(i.e. describing the form\) element, and then write about the overall mood and style that is created by the design. 
 
-Fo this lesson, students will research the history of web design, specifically focusing on the aesthetics of websites prior to the year 2000.
+Include your assessment of why the design is successful or unsuccessful. What makes it engaging \(or not\)? This could include aspects of usability or appearance. 
 
-**Your blog post should include:**
+This is an opportunity to do some light research and look for interesting examples of design; you might find websites or publications that directly inspire your assignment, but they don't have to be directly related. 
 
-* Include screenshots or images of three web pages from before the year 2000. 
-* For each one, write at least 200 words describing:
-  * A visual description of the website \(colors, style, shapes, fonts, layout\).
-  * Analysis of the overall effect of those visual elements, i.e. how would you feel using the site or simply looking at it?
-  * The usability of the site compared to websites today. Consider the terms from Don Norman \(signifiers, affordances, etc.\)
-  * Any historical connections to technology, society, or art. 
-  * Compared to contemporary websites, is there anything about the page that you like? 
-
-Think of this writing assignment like a short piece of art criticism. Use descriptive language \(lots of adjectives\), and share your own unique perspective on your chosen specimens.
-
-**Research Resources: **
-
-* [Internet Archive: Wayback Machine](https://archive.org/web/) — Enter the URL of existing websites to view archived versions of the site, dating back to the earliest days of the Web.
-* [Old Web Today](http://oldweb.today/) — Click the "I'm Feeling Random!" button to visit a random legacy site, including emulators of old browsers.
-* [404PageFound](http://www.404pagefound.com/) — A curated collection of vintage websites.
-* [24 Ancient Websites  That Are Still Alive](http://gizmodo.com/5960831/23-ancient-web-sites-that-are-still-alive), Gizmodo.
-* [17 Ancient Abandoned Websites That Still Work,](http://mentalfloss.com/article/53792/17-ancient-abandoned-websites-still-work) MentalFloss.
-* Articles or books on the history of web design...
+"Layout design" can include websites, apps, video games, magazines, books, posters, album art, signs, or any other media that use grid layout.
 
 
 
