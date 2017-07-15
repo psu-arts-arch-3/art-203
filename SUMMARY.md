@@ -30,12 +30,12 @@
   * [Lesson 3](unit-2/lesson-3.md)
     * Summary
     * [Responsive Concepts](unit-2/lesson-3/responsive-concepts.md)
-    * [Typography](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
+    * [Typography](unit-2/lesson-3/typography.md)
     * [Mood Boards](unit-2/lesson-3/mood-boards.md)
     * [Working with Color](unit-2/lesson-3/working-with-color.md)
     * [Narrative Website](unit-2/lesson-3/narrative-website.md)
     * [Exercise 1: Narrative Research](unit-2/lesson-3/exercise-2-breakpoint-madness.md)
-    * [Exercise 2: Wireframe in Illustrator](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
+    * [Exercise 2: Wireframe in Illustrator](unit-2/lesson-3/exercise-2-wireframes-in-illustrator.md)
     * [Assignment: Narrative Mockup ](unit-2/lesson-3/assignment-narrative-mockup.md)
     * Blog
   * Lesson4
