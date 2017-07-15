@@ -62,7 +62,9 @@ Illustrator can access any fonts on your computer, but when we create the final 
 
 ### Flexible Layout
 
-Your landing page mockup should be 1280px x 1024px — but web browsers can stretch to fit many different dimensions... The HTML template we're going to use for the assignment handles this by arranging everything in rows and columns. Each row can contain up to 12 columns, but when the browser gets narrow, each column changes to a full 12-sections. This is pretty standard behavior for modern websites, but it will be helpful to keep in mind while designing your mockup.
+Your landing page mockup should be **1280px x 1024px** — but web browsers can stretch to fit many different dimensions... 
+
+The HTML template we're going to use for the assignment handles this by arranging everything in rows and columns. Each row can contain up to 12 columns, but when the browser gets narrow, each column changes to a full 12-sections. This is pretty standard behavior for modern websites, but it will be helpful to keep in mind while designing your mockup.
 
 ![](/unit-1/lesson-2/responsive-grid.png)
 
