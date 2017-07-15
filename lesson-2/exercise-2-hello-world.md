@@ -1,7 +1,3 @@
-
-
-
-
 ### Objectives
 
 * Manually create an HTML.
@@ -23,7 +19,7 @@ Create a local directory on your computer; we'll create new files and edit them 
 2. File &gt;&gt;&gt; Open folder
 3. Select your local directory. 
 4. File &gt;&gt;&gt; New
-5. Paste in the following code for a basic HTML document
+5. Paste in the following code for a basic HTML document.
 
 ```
 <!DOCTYPE html>
@@ -43,25 +39,55 @@ Add some text below the "Add content here" comment; remember to wrap your text i
 
 For example: `<h1>Hello world!</h1>`
 
-It's good practice to indent each line of text \(press tab\) to show levels of hierarchy—as seen below—but if you don't, the website will still work.
+_**PRO TIP: **_**I**t's good practice to indent each line of text \(press tab\) to show levels of hierarchy—as seen below—but if you don't, the website will still work.
 
 ![](/assets/lesson-2/brackets-code.png)
 
 File &gt;&gt;&gt; Save
 
-Save this new file as "index.html"
+Save this new file as "test.html" or something similar.
 
 ![](/assets/lesson-2/brackets-save.png)
 
-Now find your index.html file in your file browser, and double click on it to open it in a web browser. Nice job!
+Now find your test.html file in your regular file browser, and double click on it to open it in a web browser. Nice job!
 
 ![](/assets/lesson-2/browser-hello.png)
 
+## Add a custom font
+
+In preparation for the landing page we'll be making in the assignment, let's make sure we can implement a custom font in an HTML file. If you used a font from Google Fonts in your mockup, you can use that font here—otherwise choose any font from [Google Fonts](https://fonts.google.com/).
+
+Select the font on the website, and then click the black bar displaying "1 Family Selected" to view your chosen font. You should see a short piece of code like `<link href="http://fonts.googleapis.com...">` for importing the font into a custom project.
+
+![](/unit-1/lesson-2/google-font-use.png)
+
+Copy the "Embed Font" code and paste it between the `<head>` and `</head>` tags in your HTML file. This will pull the necessary data from Google's servers into your HTML project \(which means it requires Internet access to render the custom fonts\).
+
+Once that code is included in your HTML file, you can assign the custom font in your CSS by using the [font-family](https://www.w3schools.com/cssref/pr_font_font-family.asp) attribute.
+
+Since this is a simple test, you can just apply the font to all text in the document by targeting the &lt;body&gt; element like this:
+
+`body { font-family: 'Merriweather', serif; }`
+
+You would replace 'Merriweather' with the proper name of your font as it's labeled in Google Fonts. Check the capitalization and spaces if it's not working. By listing "serif" or "sans-serif" after the custom font, we're telling any web browsers which default HTML fonts to display in the event that our custom font can't be loaded for some reason.
+
+If you have multiple text elements, and only want to apply your custom font to one type, you could specify the CSS like this:
+
+`p { font-family: 'Merriweather', serif; }`
+
+or
+
+`h1 class="custom" { font-family: 'Merriweather', serif; }`
+
 ## Setup FTP
 
-Now open Filezilla. At the top of the window, there are fields labeled Host, Username, Password, and Port.
+**NOTE: You must have already requested a PASS directory from **[**this website**](https://www.work.psu.edu/webspace/)**.**
 
-Enter the following information to direct the program to our virtual folder hosted through PSU.
+Once you've got an original HTML file with a custom font, it's time to upload it to the INTERNET.
+
+Open Filezilla; at the top of the window, there are fields labeled Host, Username, Password, and Port.
+
+Enter the following information to direct the program to your virtual folder hosted through PSU.
 
 * **Host: **sftp.pass.psu.edu
 * **Username:** Your PSU username \(e.g. "jsmith123"\)
@@ -76,19 +102,13 @@ The Filezilla interface is divided into two sections: your local directory \(lef
 
 ![](/assets/lesson-2/filezilla-diagram.png)
 
-You will have to navigate to your local directory on the left side until you can se the index.html file you created. Drag it into the "www" folder on the server to replace the existing "index.html" file.
+You will have to navigate to your local directory on the left side until you can se the "test.html" file you created. 
 
-Now see check that it uploaded successfully by going to: "[http://personal.psu.edu/user123](http://personal.psu.edu/user123)" — but replace "user123" with your PSU username.
+On the right site, open the "www" folder and right-click to "create a new directory" and name it "art203" this creates a new folder within the public "www" folder; we will store our upcoming projects in this folder.
 
-While we're here, let's create a folder for storing our upcoming projects.
+Open the "art203" folder on the remote serve \(right-side\) and drag your "test.html" file from your local directory in order to upload it to your PASS directory. 
 
-### Create a new Directory
-
-In Filezilla, right-click in the lefthand window and choose "Create directory" — you could also just create the folder in your regular file browser.
-
-Call the new folder "art203" \(without quotes\).
-
-Upload the empty folder to your remote directory.
+Now check that it uploaded successfully by going to: "http://personal.psu.edu/user123/art203/test.html" — but replace "user123" with your PSU username, and possibly and the name of your HTML file. 
 
 **Submit your URL to the following assignment: **
 
