@@ -2,7 +2,7 @@ You've probably heard the terms "responsive," "fluid," or "mobile-first" used in
 
 ## Screen Sizes
 
-In our CSS Crash Course, a number of different units were provided, including "px," "em," and "%." Recall that these units specify the size of any elements in a website. For a long time the most popular unit was "px" \(pixel\) because it was most familiar unit for many designers.
+In our CSS Crash Course, a number of different units were provided, including "px," "em," and "%." Recall that these units specify the size of any elements in a website. For a long time the most popular unit was "px" \(pixel\) because it was most familiar unit for many designers \(most computer screens were roughly the same size as well\). 
 
 An "em" is equal to the height of the current font-size. For most browsers, the base font-size is 18px high, but that will change if you're working with a header element \(which is much taller than a regular paragraph\).
 
@@ -20,11 +20,13 @@ This example showcases several of the terms mentioned at the beginning:
 
 **Fluid**: The content uses percentage-based dimensions to stretch with the size of the screen.
 
-**Adaptive**: At certain screen sizes, the content actually changes it's layout entirely \(in this case, the list of days shifts from a row to a column\).
+**Adaptive**: At certain screen sizes, the content actually changes its layout entirely \(in this case, the list of days shifts from a row to a column\).
 
 **Responsive:** A combination of fluid and adaptive properties optimized for making the content look good across devices and screen sizes.
 
-It goes without saying that websites today need to look good on any device. In the 1990's, most screens displayed somewhere from 640-1040px wide, but today's websites need to work on a variety of screen sizes:
+Websites today need to look good on any device. In the 1990's, most screens displayed somewhere from 640-1040px wide, but today's websites need to work on a variety of screen sizes:
+
+_**NOTE: **These pixel values are somewhat arbitrary._
 
 #### Mobile \(&lt;600px wide\)
 
@@ -36,7 +38,7 @@ Intermediary screen sizes get a lot of use, and some people opt for a category b
 
 #### Desktop \(~1000–1920px\)
 
-HD video is 1920px x 1080px, and that's a common size for computer screens, so this is usually a good number to think about as a maximum screen size \(such as when creating images to be used as backgrounds\).
+HD video is 1920px x 1080px, and that's a common size for computer screens and televisions, so this is usually a good number to think about as a maximum screen size \(such as when creating images to be used as backgrounds\).
 
 #### Extra Large \(&gt;1920px\)
 
@@ -72,12 +74,7 @@ EMBED CODEPEN: [https://codepen.io/BenFictional/pen/jwxGXv](https://codepen.io/B
 
 Resize the window to see the new CSS properties kick in and change the color and size of the square.
 
-The @media object has a variety of options that you can declare. It will still work if you omit  `only screen and`, but it's standard practice to include those because:
-
-* `screen`prevents extra styles from applying to printed pages and [other media types](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp).
-* `only` prevents older browsers from loading the media query and getting confused. 
-
-You can write a media query to kick in at a min-width \(when the browser is at least 480px wide\) or a max-width \(when the browser is smaller than 480px\). Since we want to create websites mobile-first, the best way to include media queries is:
+You can write a media query to kick in at a` min-width` \(when the browser is at least 480px wide\) or a `max-width` \(when the browser is smaller than 480px\). Since we want to create websites **mobile-first**, the best way to include media queries is:
 
 ```
 /* Default mobile styles */

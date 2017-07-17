@@ -28,7 +28,7 @@
     * [Blog Entry](lesson-2/blog-entry.md)
 * [Unit 2](unit-2.md)
   * [Lesson 3](unit-2/lesson-3.md)
-    * Summary
+    * [Summary](unit-2/lesson-3/summary.md)
     * [Responsive Concepts](unit-2/lesson-3/responsive-concepts.md)
     * [Typography](unit-2/lesson-3/typography.md)
     * [Mood Boards](unit-2/lesson-3/mood-boards.md)
