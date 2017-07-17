@@ -49,15 +49,17 @@ Both concordant and contrasting font pairings can work successfully. One unexpec
 
 ## Font Libraries
 
-We've talked about Google Fonts already, and as you can see from the links above, that's a very popular library of fonts. But since our upcoming projects won't be relying on hand-coding HTML, we can more easily implement fonts from other sources. 
+We've talked about Google Fonts already, and as you can see from the links above, that's a very popular library of fonts. But since our upcoming projects won't be relying on hand-coding HTML, we can more easily implement fonts from other sources.
 
-[Google Fonts](http://fonts.google.com) is still great, and provides a well-curated selection. You can even view suggested font pairings if you select a font and view it's information page. 
+[Google Fonts](http://fonts.google.com) is still great, and provides a well-curated selection. You can even view suggested font pairings if you select a font and view it's information page.
 
 [Adobe Typekit](https://typekit.com) is a font library included with your subscription to the Adobe Creative Cloud. You can browse available fonts from the website or by clicking on the "Typekit" button within most Adobe apps \(usually located in the Character window\). You can download the fonts for use on your local computer, and set up a "kit" of custom fonts to include in web projects. I've found this to be more difficult to set up than Google Fonts because you have to specify which domains \(i.e. URL's\) you want to use the fonts on.  For more detail on how to use these fonts, check out Lynda's course [Typekit Quick Start.](https://www.lynda.com/Typekit-tutorials/Up-Running-Typekit/182176-2.html)
 
-**Free Libraries: **For use on websites, it's best to use font libraries designed for the web, but you can try using fonts from elsewhere too. There are many sites where you can fid free fonts, such as DaFont and 1001 Free Fonts, but my favorite is [Font Squirrel](https://www.fontsquirrel.com/)—they have a well curated selection that isn't overwhelming and they make it easy to package fonts for use in websites. 
+**Free Libraries: **For use on websites, it's best to use font libraries designed for the web, but you can try using fonts from elsewhere too. There are many sites where you can fid free fonts, such as DaFont and 1001 Free Fonts, but my favorite is [Font Squirrel](https://www.fontsquirrel.com/)—they have a well curated selection that isn't overwhelming and they make it easy to package fonts for use in websites.
 
 **Paid Libraries:** Beyond these selections of free fonts, you can find many fonts that cost money. These are typically designed with more care, and come with more options of weights, filetypes, etc. Fonts can be ridiculously expensive, but if you may find yourself working on a project where the perfect font just isn't available for free. One site I've used on those occasions is [My Fonts](https://www.myfonts.com/licensing/webfont/), or you can check out [FontShop](https://www.fontshop.com/).
 
 
+
+[Typewolf](https://www.typewolf.com/recommendations)
 
