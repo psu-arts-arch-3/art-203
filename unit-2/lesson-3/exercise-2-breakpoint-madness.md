@@ -4,7 +4,7 @@ In preparation for this lesson's assignment, students will create a mood board a
 
 * Conduct research into styles and layouts of real-world design.
 * Synthesize varied elements into a new composition.
-* Compose a flexible color palette that contributes to a chosen mood or style.
+* Compose a flexible color palette that contributes to a specific mood or style.
 
 ## Color Palette
 
@@ -16,11 +16,11 @@ Use one of the following tools to create a color palette for your website. **The
 * [Palettetron](http://paletton.com/) — A color picker with a real nitty-gritty interface, mostly based around a single starting color.
 * [Palette Generator](http://palettegenerator.com/) — Generates palette based on image uploads.
 
-Take a screenshot of your finished color palette. Or else use the color codes to create your own image in Illustrator displaying the five colors as separate shapes.
+Take a screenshot of your finished color palette _OR _use the color-codes to create your own image in Illustrator displaying the five colors as squares or other simple shapes.
 
 ## Mood Board
 
-Collect a series of images that conveys the mood and style of your narrative website idea. Include a variety of images, such as textures, typography, menus, layouts, photographs, etc.
+Collect a series of images that conveys the mood and style of your narrative website idea. Include a variety of images, such as textures, typography, menus, layouts, photographs, illustrations, graphic elements, etc.
 
 Use any of the following tools:
 
@@ -31,13 +31,13 @@ Use any of the following tools:
 * [Tumblr](https://www.tumblr.com/) — Ostensible a public way to collect images, but lots of unique stuff here as far as art and technology
 * [Evernote](http://blog.evernote.com/blog/2010/08/10/creating-a-mood-board-with-evernote-part-of-evernotes-creative-series/) — this is a guide on using the popular note-taking app to create a mood board. 
 
-Take a screenshot of your finished mood board.
+Take a screenshot of your finished mood board _OR_ save the images yo your computer and arrange them in an Illustrator document.
 
 ## Submission
 
 Submit images of your color palette and mood board to Open Studio.
 
-You could also use Illustrator \(or Photoshop\) to combine the two screenshots, or use the program to arrange your saved images and color swatches as an original document. If you create a document in Illustrator, export it as a PNG or JPEG.
+You could also use Illustrator to create a single image containing both your color palette and mood board images. If you create a document in Illustrator, export it as a PNG or JPEG that is at least 1920px x 1080px. 
 
 \[INSERT SUBMISSION LINK\]
 
