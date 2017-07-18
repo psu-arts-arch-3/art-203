@@ -1,5 +1,7 @@
 For the main assignment in this Lesson, students will make a simple landing page for their PASS web directory. In future lessons, we will upload additional websites to PASS, and this landing page will act as a home page of sorts.
 
+In order to develop a final design, we will use Illustrator to create a 2D mockup of the final website, and then use that as a roadmap when creating the final landing page. Mockups typically focus on simulating user interaction \(buttons, pop-ups, links, etc.\) but since landing pages are so simple, you can think of your design largely as a 2D composition like a poster or a painting.  
+
 ### Objectives
 
 * Create a lively and unique design using only text.
@@ -62,7 +64,7 @@ Illustrator can access any fonts on your computer, but when we create the final 
 
 ### Flexible Layout
 
-Your landing page mockup should be **1280px x 1024px** — but web browsers can stretch to fit many different dimensions... 
+Your landing page mockup should be **1280px x 1024px** — but web browsers can stretch to fit many different dimensions...
 
 The HTML template we're going to use for the assignment handles this by arranging everything in rows and columns. Each row can contain up to 12 columns, but when the browser gets narrow, each column changes to a full 12-sections. This is pretty standard behavior for modern websites, but it will be helpful to keep in mind while designing your mockup.
 
