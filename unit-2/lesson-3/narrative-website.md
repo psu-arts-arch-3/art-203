@@ -34,5 +34,11 @@ This should also be an easier introduction to using Adobe Muse, since we won't h
 
 Working with a single page should also encourage you to think of the website as a unified picture. When you first create the layout in Adobe Illustrator, it should be easy to see the whole site at once and create a cohesive design.
 
-For inspiration, check out [One Page Love](https://onepagelove.com/) — a showcase of sites with one-page layouts.
+**Some inspiration:**
+
+ [One Page Love](https://onepagelove.com/) — a showcase of sites with one-page layouts.
+
+[Scroll-focused websites and infographics](http://www.hongkiat.com/blog/web-design-scrolling/) — utilizing scrolling as an "interactive" way to engage with content.
+
+[Upside-down home pages](https://thrivethemes.com/create-upside-down-homepage/) — A data-driven look at why it's okay to put important content at the bottom of your site.
 
