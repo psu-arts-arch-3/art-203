@@ -1,12 +1,12 @@
 The Adobe Creative Suite is the industry standard for many types of digital media. For designing digital graphics and layouts, there are some other options, but we're going to use the Adobe Suite because it's so widely used and a subscription includes access to several programs useful for web design.
 
-We'll be using Adobe Muse later in the course to make functional websites, but right now we're interested in crating 2D graphics—or **mockups**— as a means to imagine web layouts and graphic assets like icons and backgrounds. 
+We'll be using Adobe Muse later in the course to make functional websites, but right now we're interested in crating 2D graphics—or **mockups**— as a means to imagine web layouts and graphic assets like icons and backgrounds.
 
 **Adobe Photoshop** is one option for this type of work. As its name implies Photoshop is primarily designed for manipulating photos, but many people use it for creating other graphics. Photoshop is primarily used for creating **raster images**—which means images made of pixels like JPEG's or PNG's.
 
 **Adobe Illustrator** is also used for creating graphics and 2D designs, but unlike Photoshop it works with **vector images**. Vector images are defined by points and paths and do rely on pixels \(though vector images can be converted to raster filetypes\). The advantage of vector images is that they can be viewed or printed at any scale without any loss in quality; they also take up \_much less \_file space, which is important for web design where loading speed is a major concern. Vector filetypes include SVG, EPS, and PDF.
 
-![](/unit-2/lesson-3/raster-vector.png)
+![](/assets/lesson-2/raster-vector.png)
 
 I recommend using Illustrator for web design for a couple reasons:
 
