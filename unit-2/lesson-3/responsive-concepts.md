@@ -2,7 +2,7 @@ You've probably heard the terms "responsive," "fluid," or "mobile-first" used in
 
 ## Screen Sizes
 
-In our CSS Crash Course, a number of different units were provided, including "px," "em," and "%." Recall that these units specify the size of any elements in a website. For a long time the most popular unit was "px" \(pixel\) because it was most familiar unit for many designers \(most computer screens were roughly the same size as well\). 
+In our CSS Crash Course, a number of different units were provided, including "px," "em," and "%." Recall that these units specify the size of any elements in a website. For a long time the most popular unit was "px" \(pixel\) because it was most familiar unit for many designers \(most computer screens were roughly the same size as well\).
 
 An "em" is equal to the height of the current font-size. For most browsers, the base font-size is 18px high, but that will change if you're working with a header element \(which is much taller than a regular paragraph\).
 
@@ -14,7 +14,7 @@ As the browser width shrinks, the content is clipped—preventing a reader from 
 
 Compare that to this example of a weather site:
 
-![](/unit-2/lesson-3/responsive-demo.gif)
+![](/assets/lesson-3/responsive-demo.gif)
 
 This example showcases several of the terms mentioned at the beginning:
 
@@ -74,7 +74,7 @@ EMBED CODEPEN: [https://codepen.io/BenFictional/pen/jwxGXv](https://codepen.io/B
 
 Resize the window to see the new CSS properties kick in and change the color and size of the square.
 
-You can write a media query to kick in at a` min-width` \(when the browser is at least 480px wide\) or a `max-width` \(when the browser is smaller than 480px\). Since we want to create websites **mobile-first**, the best way to include media queries is:
+You can write a media query to kick in at a`min-width` \(when the browser is at least 480px wide\) or a `max-width` \(when the browser is smaller than 480px\). Since we want to create websites **mobile-first**, the best way to include media queries is:
 
 ```
 /* Default mobile styles */
