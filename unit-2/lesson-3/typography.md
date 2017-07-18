@@ -31,7 +31,7 @@ When beginning a project, it's helpful to choose two fonts as a basis for your h
 
 Ian Yates' [A Beginner's Guide to Font Pairing](https://webdesign.tutsplus.com/articles/a-beginners-guide-to-pairing-fonts--webdesign-5706) is a great crash course in the issue. To highlight one idea from his article, consider whether your fonts are **concordant** \(i.e. similar\) or **contrasting** \(i.e. different\). Fancy type vocabulary... yeesh.
 
-![](/unit-2/lesson-3/font-concord-contrast.jpg)
+![](/assets/lesson-3/font-concord-contrast.jpg)
 
 The fonts on the left are "Droid Serif" and "Droid Sans," which were designed to be used as a pair and are very similar.
 
@@ -61,15 +61,11 @@ We've talked about Google Fonts already, and as you can see from the links above
 
 ## Arranging Type
 
-Beyond choosing the right fonts, there are some other details that will affect the readability and design of your websites. Butterick's Practical Typography does a great job explaining** line length**, which is an essential consideration for responsive design. If the width of a browser window can stretch from 600px to 1920px, that means a line of text could be obnoxiously short or exhaustingly long. The ideal line length \(about 60 characters\) lets helps users comfortably scan horizontally without getting lost. 
+Beyond choosing the right fonts, there are some other details that will affect the readability and design of your websites. Butterick's Practical Typography does a great job explaining** line length**, which is an essential consideration for responsive design. If the width of a browser window can stretch from 600px to 1920px, that means a line of text could be obnoxiously short or exhaustingly long. The ideal line length \(about 60 characters\) lets helps users comfortably scan horizontally without getting lost.
 
-**Line spacing** — or line-height in CSS — also helps long passages of text feel spacious and inviting to read. As suggested in Butterick's Practical Typography, the default line spacing is often too cramped. This can also be important when designing headers, navigation menus, and other pieces of standalone text. 
+**Line spacing** — or line-height in CSS — also helps long passages of text feel spacious and inviting to read. As suggested in Butterick's Practical Typography, the default line spacing is often too cramped. This can also be important when designing headers, navigation menus, and other pieces of standalone text.
 
-![](/assets/lesson-3/line-vocab.png)Some of these terms are more commonly used in print design, but this diagram may help you envision the underlying structure of a line of text. 
+![](/assets/lesson-3/line-vocab.png)Some of these terms are more commonly used in print design, but this diagram may help you envision the underlying structure of a line of text.
 
-You're probably already familiar with **alignment **\(left, right, or center\) from using Microsoft Word and the like. Body text should almost always be left-aligned because that's how people are used to reading. Center alignment is often used for headers or menus, and right-alignment is typically reserved only for unique compositions where the text is placed in context to some element on the right. The lesser-known alignment options is justified text, which adds space between words to arrange text blocks exactly with their bounding containers. This is how text appears in newspapers, and can be useful if you want to stress the rectangular shape of body text. 
-
-
-
-
+You're probably already familiar with **alignment **\(left, right, or center\) from using Microsoft Word and the like. Body text should almost always be left-aligned because that's how people are used to reading. Center alignment is often used for headers or menus, and right-alignment is typically reserved only for unique compositions where the text is placed in context to some element on the right. The lesser-known alignment options is justified text, which adds space between words to arrange text blocks exactly with their bounding containers. This is how text appears in newspapers, and can be useful if you want to stress the rectangular shape of body text.
 
