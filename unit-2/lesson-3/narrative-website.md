@@ -1,4 +1,4 @@
-We'll be building these websites in Lesson 4,  but this lesson will involve some preparatory work so let's go over the overall project now.
+Students will build these websites in Lesson 4,  but this lesson will involve some preparatory work, so let's go over the overall project now.
 
 ### Objectives
 
@@ -24,17 +24,15 @@ The final site will be a functioning one-page site created in Adobe Muse. It sho
 * A header with a title and navigation menu
 * 5 or more content sections 
 * At least 2 images 
-* A footer with your name and credits of any found media used in the site. 
+* A footer with your name and credits for any found media used in the site. 
 
 ### Why a One-Page Site?
 
-One-page sites are a popular approach to designing websites; they work especially well with mobile devices where it's easier to scroll through one long page than navigate between several different pages. 
+One-page sites are a popular approach to designing websites; they work especially well with mobile devices where it's easier to scroll through one long page than navigate between several different pages.
 
-This should also be an easier introduction to using Adobe Muse, since we won't have to deal with connecting multiple pages. We'll focus on multiple page sites and navigation in Unit 3. 
+This should also be an easier introduction to using Adobe Muse, since we won't have to deal with connecting multiple pages. We'll focus on multiple page sites and navigation in Unit 3.
 
-Working with a single page should also encourage you to think of the website as a unified picture. When you first create the layout in Adobe Illustrator, it should be easy to see the whole site at once and create a cohesive design. 
+Working with a single page should also encourage you to think of the website as a unified picture. When you first create the layout in Adobe Illustrator, it should be easy to see the whole site at once and create a cohesive design.
 
-For inspiration, check out [One Page Love](https://onepagelove.com/) — a showcase of sites with one-page layouts. 
-
-
+For inspiration, check out [One Page Love](https://onepagelove.com/) — a showcase of sites with one-page layouts.
 
