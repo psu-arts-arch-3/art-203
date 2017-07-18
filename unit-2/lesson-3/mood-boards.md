@@ -1,4 +1,4 @@
-No one wants to start a project staring at a blank piece of paper \(or HTML document\). One strategy is to begin a project by creating a mood board.
+No one wants to start a project staring at a blank piece of paper \(or HTML document\)... One strategy is to begin a project by creating a mood board.
 
 You can create a mood board however you like, essentially you're just doing research and collecting examples of inspiring design.   If you're creating a portfolio website, you might start by googling "portfolio website ideas" but you shouldn't limit your preliminary research to a specific field.
 
@@ -6,7 +6,7 @@ Any website can offer ideas for navigation menus, background patterns, typograph
 
 When creating a mood board, you should save any content that might prove useful—if you're not sure if it will work in your final design, save it anyway. Pick and choose from the media you encounter, and don't be afraid of stealing. Most art and design is made by combining elements and ideas from previous authors. Just try to make it your own somehow.
 
-![](/unit-2/lesson-3/moodboard-3.jpg)
+![](/assets/lesson-3/moodboard-1.jpg)
 
 **Some methods for collecting images:**
 
@@ -19,7 +19,7 @@ When creating a mood board, you should save any content that might prove useful�
 
 It's easy to find design that you "like"—but the challenge is to choose the right visual elements for the project at hand. Just because a spinning solar system menu \(or whatever\) looks awesome doesn't mean it will help communicate your message and make your site function effectively.
 
-![](/unit-2/lesson-3/moodboard-2.jpeg)
+![](/assets/lesson-3/moodboard-2.jpeg)
 
 So as you collect images for your mood board, consider some guiding questions:
 
@@ -32,7 +32,7 @@ Write down some answers to these questions to help clarify your idea.
 
 As you collect images, make sure to consider color, texture, typography, images, decorations, animation, and other essential building blocks.
 
-### ![](/unit-2/lesson-3/moodboard-1.jpg)
+### ![](/assets/lesson-3/moodboard-3.jpg)
 
 ### Refining
 
