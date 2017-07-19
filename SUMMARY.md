@@ -37,7 +37,7 @@
     * [Exercise 1: Narrative Research](unit-2/lesson-3/exercise-2-breakpoint-madness.md)
     * [Exercise 2: Wireframe in Illustrator](unit-2/lesson-3/exercise-2-wireframes-in-illustrator.md)
     * [Assignment: Narrative Mockup ](unit-2/lesson-3/assignment-narrative-mockup.md)
-    * Blog
+    * [Blog](unit-2/lesson-3/blog.md)
   * Lesson4
     * Summary
     * Introducing Muse
