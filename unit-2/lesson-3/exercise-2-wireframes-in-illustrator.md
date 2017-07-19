@@ -53,7 +53,7 @@ There are also a bevy of contemporary spins on Lorem Ipsum, such as [Hipster Ips
 
 **Images: **You can put simple rectangles as placeholders.
 
-### Document Setup
+### Workflow
 
 #### **Step 1: Create a document**
 
@@ -73,9 +73,19 @@ s%3arelevance
 sa%3atrue
 producttypeid%3a2). We're not going to bother with a tablet layout for this assignment, so you should only have two artboards. Make your second artboard 1280px x 2000px as seen in the video, and then change the height of your artboards as needed for your project. You will probably need to increase the height of the artboards to fit your content—this will simulate the entire content as if you could see it all at once without scrolling. Select the Artboard tool and drag the bottom edge of an artboard to expand the height.
 
-### Exporting
+#### Step 3: Wireframe Design
 
-The advantage of working with multiple artboards is that you can easily export each one as a separate file. 
+While making your wireframes, you will mostly be using the Rectangle tool \(M\) and Type tool \(T\). Use the Pen tool \(P\) to make straight or curved lines.
+
+Start with your mobile layout, as working with the limited real estate of a mobile design forces you to identify the most essential parts of your design. As you work, you can copy and paste content from the mobile layout to the desktop layout and adjust as needed.
+
+To select multiple objects, either drag a large selection with the Selection tool \(V\) or hold Shidt to add to your current selection.
+
+
+
+#### Step 4: Exporting
+
+The advantage of working with multiple artboards is that you can easily export each one as a separate file.
 
 Once you're finished with both layouts, choose File &gt;&gt;&gt; Export &gt;&gt;&gt; Export for Screens.
 
