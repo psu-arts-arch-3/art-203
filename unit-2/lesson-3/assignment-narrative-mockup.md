@@ -31,9 +31,9 @@ producttypeid%3a2) as a reference for this process.
 
 #### Step 1: Document Setup
 
-You may want to work directly from the Illustrator file used for your Wireframe, or you can create a new document and use the wireframe as a reference. You still want to have **two artboards** with the widths specified above. 
+You may want to work directly from the Illustrator file used for your Wireframe, or you can create a new document and use the wireframe as a reference. You still want to have **two artboards** with the widths specified above.
 
-_**PRO TIP:** _If you do work directly from your wireframe project file, choose File &gt;&gt;&gt; Save As to create a new file—and retain the wireframe as separate file.
+\_**PRO TIP:** \_If you do work directly from your wireframe project file, choose File &gt;&gt;&gt; Save As to create a new file—and retain the wireframe as separate file.
 
 #### Step 2: Set up colors
 
@@ -63,15 +63,13 @@ Add some images and icons! Illustrator is great for drawing simple icons and dec
 
 You can find many, many icons online too. Here are two great reousrces:
 
-[The Noun Project](https://thenounproject.com/) — Create an account to download SVG on PNG icons. Most icons are licensed under Creative Commons, so you should credit the author somewhere on your website. 
+[The Noun Project](https://thenounproject.com/) — Create an account to download SVG on PNG icons. Most icons are licensed under Creative Commons, so you should credit the author somewhere on your website.
 
 [Google Material Design ](https://material.io/icons/)— Icons from Google's overarching "Material Design" UI system. According to Google, these icons are "available under the Apache License Version 2.0. We'd love attribution in your app's "about" screen, but it's not required"
 
-#### Step 6. Create the desktop layout
-
-
-
 #### Step 7. Export
+
+See instructions in Exercise 2.
 
 
 
