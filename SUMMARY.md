@@ -5,7 +5,7 @@
 * [Course Orientation](course-orientation.md)
   * [Online Ecosystem](course-orientation/online-ecosystem.md)
   * [Communication](course-orientation/communication.md)
-  * Submitting Assignments
+  * [Submitting Assignments](course-orientation/submitting-assignments.md)
   * [Lynda ](course-orientation/lynda.md)
   * Policies
   * [Tips for Success](course-orientation/tips-for-success.md)
@@ -59,6 +59,4 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
-
-
 
