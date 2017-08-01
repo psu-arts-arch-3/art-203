@@ -1,6 +1,6 @@
 # Unit 2: Digital Storytelling
 
-**SOFTWARE: **Adobe Illustrator CC, Adobe Photoshop CC, Adobe Muse CC 
+**SOFTWARE: **Adobe Illustrator CC, Adobe Photoshop CC, Adobe Muse CC
 
 ### Topics
 
@@ -8,11 +8,7 @@ In this unit students will familiarize themselves with the use of visual design 
 
 Students will leverage professional design software, innovative web apps, and development workflows to create visually compelling narratives to be viewed and published on the web.
 
-
-
 > digital storyteller \(dig·i·tal sto·ry·tell·er\) Anyone who has a desire to document life experience, ideas, or feelings through the use of story and digital media.
-
-
 
 The main assignment in this unit will be to create a single-page website that tells a story; further details will be provided on the assignment page, but for our purposes, a story could be a literal short story, a poem, a tutorial, an infographic, or anything that guides readers through a single path of information.
 
@@ -23,17 +19,15 @@ We will focus on project development and implementation strategies including: ho
 This unit includes some further information about HTML and CSS practices, but will largely focus on overall design and user experience. In order to experiment and develop visual designs, we will use design software from the Adobe Creative Suite as well as web apps focused on generating ideas and design assets.
 
 * Lesson 3
-  * Exercise 1: Breakpoints
-  * Exercise 2: Design Assets
-  * Assignment: 2D mockup of narrative site
+  * Exercise 1: Narrative Research
+  * Exercise 2: Wireframe
+  * Assignment:Narrative Mockup
   * Blog post
 * Lesson 4
   * Exercise 1: Muse landing page
-  * Exercise 2: TBD
+  * Exercise 2: Vector art
   * Assignment: Narrative site
   * Blog post
-
-
 
 
 
