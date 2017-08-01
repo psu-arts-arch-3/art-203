@@ -42,7 +42,7 @@
     * [Assignment: Narrative Mockup ](unit-2/lesson-3/assignment-narrative-mockup.md)
     * [Blog](unit-2/lesson-3/blog.md)
   * [Lesson4](unit-2/lesson4.md)
-    * Introducing Muse
+    * [Introducing Muse](unit-2/introducing-muse.md)
     * [Exercise 1: Muse Landing Page](unit-2/exercise-1-muse-landing-page.md)
     * [Exercise 2: Vector Artwork](unit-2/exercise-2-vector-artwork.md)
     * Assignment: Narrative Website
