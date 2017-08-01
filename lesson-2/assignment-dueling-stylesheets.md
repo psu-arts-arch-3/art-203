@@ -5,11 +5,11 @@ After completing Exercise 1 and 2 for this lesson, you should have a basic under
 * Adapt a prepared design to a functioning HTML project.
 * Create an engaging design based around a specific concept and passage of text.
 * Implement custom fonts to create a unique typographic composition.
-* Understand the structure of an HTML/CSS proejct and practice good file management.
+* Understand the structure of an HTML/CSS project and practice good file management.
 
 ### Get the Template Files
 
-Download the sample HTML project from this GitHub repository.
+Download the sample HTML project.
 
 1. Click the green "Clone or Download" button.
 2. Choose "Download Zip"
@@ -58,7 +58,7 @@ If you want more control over the size of your columns, you can add the classes 
 </div>
 ```
 
-The **height **of any section can be defined in CSS with the `height` property.
+The **height **of any section can be defined in CSS with the `height` property, otherwise it will be the same size as it's contents \(text, images, etc.\)
 
 ### Guiding Thoughts
 
@@ -68,7 +68,7 @@ The **height **of any section can be defined in CSS with the `height` property.
 * Check the CSS Crash Course page for other CSS properties to play with. 
 * Try to accurately recreate your Illustrator mockup, but if you find ways to improve your design or limitations of the CSS grid structure, then you can adapt your design as needed. Just keep the same visual style and concept. 
 
-### Fun CSS to play with: 
+### Fun CSS to play with:
 
 * [SVG Patterns](http://www.heropatterns.com/) — copy and paste some code for awesome patterns!
 * [More SVG patterns](https://philiprogers.com/svgpatterns/)
@@ -87,7 +87,7 @@ You should also try out the **Live Preview** mode by pressing the Lighting Bolt 
 
 ![](/unit-1/lesson-2/land-page-ftp.png)
 
-When you're finished, use Filezilla to upload the files to the "www" section of your remote directory. You'll replace the existing index.html file with the one you just created; make sure to upload the css folder and it's contents to the same place. 
+When you're finished, use Filezilla to upload the files to the "www" section of your remote directory. You'll replace the existing index.html file with the one you just created; make sure to upload the css folder and it's contents to the same place.
 
 \[INSERT SUBMISSION LINK\]
 
