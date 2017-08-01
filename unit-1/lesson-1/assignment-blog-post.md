@@ -16,8 +16,6 @@ Everyone should have created a Wordpress site in Exercise 2. We'll be using thes
 2. Publish the updated blog post.
 3. Post the URL for your blog post in the relevant Canvas assignment. 
 
-
-
 ### Lesson 1 Blog Prompt
 
 Read the following excerpt from Don Norman's _The Design of Everyday Things _\(1988, revised 2013\).
