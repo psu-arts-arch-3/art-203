@@ -14,13 +14,13 @@ Wireframes can even be done in a sketchbook, but we'll use Illustrator to keep e
 
 ### Mockups
 
-Taking the wireframe to the next level, mockups adds colors, fonts, and graphics to create a lifelike replica of the final website. It's good to get dimensions and sizing as close as possible to the final product, but certainly you want a 2D image that you can show to people to convey what the final site will look like. If you're working with a separate web developer, this might be as far as the designer goes in the process, as they hand of their mockup as a reference image.
+Taking the wireframe to the next level, mockups add colors, fonts, and graphics to create a lifelike replica of the final website. It's good to get dimensions and sizing as close as possible to the final product, but certainly you want a 2D image that you can show to people to convey what the final site will look like. If you're working with a separate web developer, this might be as far as the designer goes in the process, as they hand of their mockup as a reference image.
 
 ### Prototypes
 
 Both wireframes and mockups can be made into interactive prototypes, where you can actually click on things to simulate the final user experience. We'll talk more about prototypes in Unit 3—for now, we will be making static 2D graphics in Illustrator.
 
-Lynda Course: [Illustrator for Web Design: Wireframing](https://www.lynda.com/Illustrator-tutorials/Welcome/368388/374147-4.html?srchtrk=index%3a1
+**Lynda Course:** [Illustrator for Web Design: Wireframing](https://www.lynda.com/Illustrator-tutorials/Welcome/368388/374147-4.html?srchtrk=index%3a1
 linktypeid%3a2
 q%3aillustrator+wireframe
 page%3a1
@@ -42,7 +42,7 @@ For this exercise, students will create a 2D wireframe of their one-page narrati
 
 **Your finished wireframe should consist of two images:**
 
-* A mobile layout \(640px wide\)
+* A mobile layout \(320px wide\)
 * A desktop layout \(1280px wide\)
 
 **Colors: **The wireframes should use a limited color palette—either black/white/gray, or simple colors to delineate content sections.
@@ -57,11 +57,9 @@ There are also a bevy of contemporary spins on Lorem Ipsum, such as [Hipster Ips
 
 #### **Step 1: Create a document**
 
-When creating a new Illustrator document, choose the preset Mobile &gt;&gt;&gt; iPhone 5/5s \(640px x 1136px\).
+Create a new Illustrator document set to 320px wide by 2000px height. Set the color mode to RGB.
 
-Newer phones aren't quite that small, but it's good to design around the smallest size you might encounter.
-
-![](/assets/ai-preset.png)
+You may notice that Illustrator includes templates for mobile phone screens, but confusingly they are set to the physical pixel dimensions and not the actual widths rendered by web browsers. Go back and read the the page on Responsive Concepts if your'e curious, or just remember not to use these templates. 
 
 #### Step 2: Set up artboards
 
@@ -71,7 +69,7 @@ q%3aillustrator+web+design
 page%3a1
 s%3arelevance
 sa%3atrue
-producttypeid%3a2). We're not going to bother with a tablet layout for this assignment, so you should only have two artboards. Make your second artboard 1280px x 2000px as seen in the video, and then change the height of your artboards as needed for your project. You will probably need to increase the height of the artboards to fit your content—this will simulate the entire content as if you could see it all at once without scrolling. Select the Artboard tool and drag the bottom edge of an artboard to expand the height.
+producttypeid%3a2). We're not going to bother with a tablet layout for this assignment, so you should only have two artboards. Make your second artboard 1280px x 2000px as seen in the video, and then change the height of your artboards as needed for your project. You will probably need to increase the height of the artboards to fit your content—this will show the entire content as if you could see it all at once without scrolling. Select the Artboard tool and drag the bottom edge of an artboard to expand the height.
 
 #### Step 3: Wireframe Design
 
@@ -80,8 +78,6 @@ While making your wireframes, you will mostly be using the Rectangle tool \(M\) 
 Start with your mobile layout, as working with the limited real estate of a mobile design forces you to identify the most essential parts of your design. As you work, you can copy and paste content from the mobile layout to the desktop layout and adjust as needed.
 
 To select multiple objects, either drag a large selection with the Selection tool \(V\) or hold Shidt to add to your current selection.
-
-
 
 #### Step 4: Exporting
 
