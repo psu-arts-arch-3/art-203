@@ -1,8 +1,6 @@
-
-
 ### About this course:
 
-This course focuses on the visual design and user experience of websites, teaching students core concepts through creative assignments that explore different web publishing tools. While the course does include some instruction on coding and graphic design, these will be explored as aspects of a holistic approach to designing visual interfaces for the web. Students will be introduced to core concepts and workflows such as wireframing and mockups, ultimately leading to the creation of functional websites. 
+This course focuses on the visual design and user experience of websites, teaching students core concepts through creative assignments that explore different web publishing tools. While the course does include some instruction on coding and graphic design, these will be explored as aspects of a holistic approach to designing visual interfaces for the web. Students will be introduced to core concepts and workflows such as wireframing and mockups, ultimately leading to the creation of functional websites.
 
 ### Course Objectives
 
@@ -10,8 +8,6 @@ This course focuses on the visual design and user experience of websites, teachi
 * Compose visual designs that amplify content through mood, style, and composition.
 * Practice professional workflows and standards in project management.
 * Develop creative websites through research and iteration. 
-
-
 
 ### Lesson Content
 
@@ -29,7 +25,7 @@ At the end of each unit there will be a short quiz \(10 points\) to review core 
 
 ### Lesson Schedule
 
-Here is the basic flow of events for each lesson; for exact dates, please refer to the course syllabus.
+Here is the basic flow of events for each lesson; for exact dates, please refer to the course syllabus. It is imperative that students submit work on time in order to allow for peer review and project development according to the planned schedule.
 
 1. **Instructional Content**: Begin each lesson by reading all of the instructional content on the course website; this may include completing tutorial videos or readings. 
 2. **Submit** **Exercises: **these are designed as preparation for the more extensive and open-ended assignments.
@@ -39,8 +35,6 @@ Here is the basic flow of events for each lesson; for exact dates, please refer 
 6. **Revisions: **Students will have a brief period to revise their assignments and blogs after receiving feedback from their peers. It is expected that the final version of each show changes from the first draft, and address the comments received during peer review. 
 
 _**All work is due at 11:59pm of the day specified. **_
-
-
 
 ### Submitting Assignments
 

@@ -5,7 +5,7 @@
   * [Course Overview](course-orientation/welcome.md)
   * [Online Ecosystem](course-orientation/online-ecosystem.md)
   * [Lynda ](course-orientation/lynda.md)
-  * [Submitting Assignments](course-orientation/open-studio.md)
+  * [Orientation](course-orientation/open-studio.md)
   * [Tips for Success](course-orientation/tips-for-success.md)
 * [Unit 1](unit-1.md)
   * [Lesson 1](unit-1/lesson-1.md)
