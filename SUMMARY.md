@@ -3,16 +3,16 @@
 * [Introduction](README.md)
   * [Course Overview](course-orientation/welcome.md)
 * [Course Orientation](course-orientation.md)
-  * [Online Ecosystem](course-orientation/online-ecosystem.md)
+  * [Orientation](course-orientation/open-studio.md)
   * [Communication](course-orientation/communication.md)
+  * [Online Ecosystem](course-orientation/online-ecosystem.md)
   * [Submitting Assignments](course-orientation/submitting-assignments.md)
   * [Lynda ](course-orientation/lynda.md)
   * [Policies](course-orientation/policies.md)
   * [Getting Help](course-orientation/getting-help.md)
   * [Resources](course-orientation/resources.md)
   * [Tips for Success](course-orientation/tips-for-success.md)
-  * [Orientation](course-orientation/open-studio.md)
-  * Orientation Quiz
+  * [Orientation Quiz](course-orientation/orientation-quiz.md)
 * [Unit 1](unit-1.md)
   * [Lesson 1](unit-1/lesson-1.md)
     * [Summary](unit-1/lesson-1/summary.md)
@@ -62,6 +62,4 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
-
-
 
