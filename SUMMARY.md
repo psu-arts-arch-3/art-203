@@ -12,6 +12,7 @@
   * [Resources](course-orientation/resources.md)
   * [Tips for Success](course-orientation/tips-for-success.md)
   * [Orientation](course-orientation/open-studio.md)
+  * Orientation Quiz
 * [Unit 1](unit-1.md)
   * [Lesson 1](unit-1/lesson-1.md)
     * [Summary](unit-1/lesson-1/summary.md)
@@ -61,4 +62,6 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
+
+
 
