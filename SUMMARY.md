@@ -20,7 +20,6 @@
     * [Exercise 2: Create a Blog](unit-1/lesson-1/exercise-2-create-a-blog.md)
     * [Assignment: Blog Post](unit-1/lesson-1/assignment-blog-post.md)
   * [Lesson 2](lesson-2.md)
-    * [Summary](lesson-2/summary.md)
     * [How the Internet Works](lesson-2/how-the-internet-works.md)
     * [HTML Crash Course](lesson-2/intro-to-html.md)
     * [CSS Crash Course](lesson-2/css-crash-course.md)
@@ -33,7 +32,6 @@
     * [Blog Entry](lesson-2/blog-entry.md)
 * [Unit 2](unit-2.md)
   * [Lesson 3](unit-2/lesson-3.md)
-    * [Summary](unit-2/lesson-3/summary.md)
     * [Responsive Concepts](unit-2/lesson-3/responsive-concepts.md)
     * [Typography](unit-2/lesson-3/typography.md)
     * [Mood Boards](unit-2/lesson-3/mood-boards.md)
@@ -44,7 +42,6 @@
     * [Assignment: Narrative Mockup ](unit-2/lesson-3/assignment-narrative-mockup.md)
     * [Blog](unit-2/lesson-3/blog.md)
   * Lesson4
-    * Summary
     * Introducing Muse
     * Exercise 1: Muse Landing Page
     * Exercise 2: Vector Artwork
