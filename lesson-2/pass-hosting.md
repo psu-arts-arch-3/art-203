@@ -2,7 +2,7 @@ This page provides instructions of setting up [hosting with PSU](http://www.pers
 
 You'll need to do this for Lesson 2 Exercise 2.
 
-### Apply Now
+### Apply Now!
 
 Apply for server space with PSU at this [application page.](https://www.work.psu.edu/webspace/) It may take a day or two for your space to become active, so **do this part right now** even if you're not going to complete Exercise 2 immediately.
 
