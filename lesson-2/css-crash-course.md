@@ -8,11 +8,11 @@ In order to make fun design decisions like which fonts to use, adding colors, sp
 
 ## Cascading Style Sheets \(CSS\)
 
-Styles can override the default way that browsers render HTML, and can contribute a really staggering amount to a web design. The advantage of keeping visual styles separate from the core HTML is that they appearance of a website can be easily updated without interfering with the content. Styles are defined in a separate markup language called Cascading Style Sheets \(CSS\) that has it's own syntax and rules.
+Styles can override the default way that browsers render HTML, and can contribute a really staggering amount to layout and appearance. The advantage of keeping visual styles separate from the core HTML is that they appearance of a website can be easily updated without interfering with the content. Styles are defined in a separate markup language called Cascading Style Sheets \(CSS\) that has it's own syntax and rules.
 
 The simplest way to think about CSS is that it defines various attributes to HTML elements. For example you could set certain attributes for all a paragraph elements: font-size, text color, background color, and so on.
 
-You can define these styles within a`<style>` element in the `<head>` of an HTML file:
+You can define these styles within a`<style>` element in the `<head>` of an HTML file, or within a separate .CSS file:
 
 EMBED CODE PEN: [https://codepen.io/BenFictional/pen/aWgpbq](https://codepen.io/BenFictional/pen/aWgpbq)
 
@@ -20,23 +20,23 @@ This is a very simple example, but it demonstrates the formatting for CSS:
 
 1. Set a target selector
 2. Add curly brackets `{ }`
-3. Within the brackets: specify a property, followed by a colon `:` , a value, and a semi-colon `;`
+3. Within the brackets: specify a property, followed by a colon `:` , a value, and a semi-colon `; `
 
-**Never forget the semi-colon.**
+**Pro Tip: **_Never forget the semi-colon._
 
 The font-size can be measured in a few different units, but I used pixels here as the simplest option. Color and background-color can accept colors represented in Hex codes \(e.g. \#FF43D2\) or one of the web-safe [HTML color names](https://www.w3schools.com/colors/colors_names.asp).
 
-You can target all instances of an HTML element like &lt;p&gt; or &lt;h1&gt;, or you can target specific instances by naming the HTML elements with an **ID** or **Class.**
+You can target all instances of an HTML element like `<p>` or `<h1>`, or you can target specific instances by naming the HTML elements with an **ID** or **Class.**
 
 EMBED CODE PEN: [https://codepen.io/BenFictional/pen/RVzKNd](https://codepen.io/BenFictional/pen/RVzKNd)
 
-In the HTML for each paragraph, I specified a class; in the CSS, I can assign properties to anything with that class. You can also assign ID's for an element, but unlike classes, ID's can only be used for one specific element. 
+In the HTML for each paragraph, I specified a class; in the CSS, I can assign properties to anything with that class. You can also assign ID's for an element, but unlike classes, ID's can only be used for one specific element.
 
 While you can name elements whatever you want, it's important to spell everything correctly. Use a standard naming convention and syntax to stay organized.
 
 There are _a lot_ of CSS properties, and they function in complex and inter-connected ways, so we'll just go over some basic ones that are relevant to the upcoming assignment. For reference, here is a [longer list of CSS properties](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg) to play with.
 
-An invaluable resource for working with CSS is the [World Wide Web Consortium ](https://www.w3schools.com/)—if you google any of the following properties, the first result will probably be the relevant W3 page listing all possible values with examples. And for more thorough tutorials, I still recommend [Interneting is Hard. ](https://internetingishard.com/html-and-css/)
+An invaluable resource for working with CSS is the [World Wide Web Consortium ](https://www.w3schools.com/)—if you Google any of the following properties, the first result will probably be the relevant W3 page listing all possible values with examples. And for more thorough tutorials, I still recommend [Interneting is Hard. ](https://internetingishard.com/html-and-css/)
 
 _**Don't panic! You can skim this page and come back to it when you start working on upcoming assignment. **_
 
@@ -62,9 +62,9 @@ These properties are mostly used with `<div>` elements or other containers, but 
 
 `width:` "auto" by default. Set with a number and unit—note that some a `<div>` will not have any width or height unless it has content within it, or you set the dimensions via CSS.
 
-`height:` Works similar to width; height can not be set to 100%.
+`height:` works similar to width; height can not be set to 100%.
 
-`margin:`set with a number/unit; adds space around an element.
+`margin:` set with a number/unit; adds space around an element.
 
 `margin-left:` adds a margin to only one side; you can sub in "right", "top", or "bottom".
 
