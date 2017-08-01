@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Course Orientation](course-orientation.md)
   * [Course Overview](course-orientation/welcome.md)
+* [Course Orientation](course-orientation.md)
   * [Online Ecosystem](course-orientation/online-ecosystem.md)
   * [Lynda ](course-orientation/lynda.md)
   * [Tips for Success](course-orientation/tips-for-success.md)
@@ -56,4 +56,6 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
+
+
 
