@@ -1,8 +1,19 @@
-Welcome video
 
-Syllabus
 
-## Lesson Content
+### About this course:
+
+This course focuses on the visual design and user experience of websites, teaching students core concepts through creative assignments that explore different web publishing tools. While the course does include some instruction on coding and graphic design, these will be explored as aspects of a holistic approach to designing visual interfaces for the web. Students will be introduced to core concepts and workflows such as wireframing and mockups, ultimately leading to the creation of functional websites. 
+
+### Course Objectives
+
+* Experiment with a variety of web publishing tools 
+* Compose visual designs that amplify content through mood, style, and composition.
+* Practice professional workflows and standards in project management.
+* Develop creative websites through research and iteration. 
+
+
+
+### Lesson Content
 
 This course is divided into **three units**, each containing **two lessons**. See the syllabus for the dates of each lesson.
 
@@ -16,7 +27,7 @@ A typical lesson contains:
 
 At the end of each unit there will be a short quiz \(10 points\) to review core terms and concepts.
 
-## Schedule
+### Lesson Schedule
 
 Here is the basic flow of events for each lesson; for exact dates, please refer to the course syllabus.
 
@@ -29,13 +40,13 @@ Here is the basic flow of events for each lesson; for exact dates, please refer 
 
 _**All work is due at 11:59pm of the day specified. **_
 
-## Submitting Assignments
+
+
+### Submitting Assignments
 
 Most assignments will be submitted through Canvas, where the instructor will provide individual feedback and grades. As a visual design course, we will also be submitting some work through Open Studio \(a dedicated page on the course website\).
 
 **Open Studio: **image** **galleries for each assignment, visible to entire class. Students will leave comments here during peer reviews for exercises, assignments, and blog posts. While students will maintain live websites for their blogs, you will be asked to post screenshots and links to each blog on Open Studio so that peer reviews can all be centrally located.
 
 **Canvas:** submissions to the instructor will receive private feedback and grades. In some instances you will be asked to submit screenshots of your websites, blog posts, or submissions in Open Studio. In addition, some assignments will require students to submit project files or other filetypes not accepted in Open Studio.
-
-
 
