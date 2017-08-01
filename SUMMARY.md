@@ -11,7 +11,7 @@
   * [Policies](course-orientation/policies.md)
   * [Getting Help](course-orientation/getting-help.md)
   * [Resources](course-orientation/resources.md)
-  * [Tips for Success](course-orientation/tips-for-success.md)
+  * [Computer Tips](course-orientation/tips-for-success.md)
   * [Orientation Quiz](course-orientation/orientation-quiz.md)
 * [Unit 1](unit-1.md)
   * [Lesson 1](unit-1/lesson-1.md)

@@ -1,18 +1,3 @@
-### How to be a successful learner in an online course {#db7874dcf12b8ae256f2493d79484731}
-
-1. Pay attention to your physical learning environment - try to arrange everything ergonomically in your learning space.
-2. Take breaks from your computer screen: look at something else every few minutes to keep your eyes razor sharp and stand up to stretch every 30 minutes. 
-3. Pay close attention to the due dates of assignments.
-4. Plan ahead and plan well.
-5. Check your e-mail regularly, but be patient while waiting for responses.
-6. Always check the file size when you try to upload a file to share. The bigger the file size, the more difficult it may be to upload and download.
-7. Communicate with your instructor and/or classmates by e-mail, discussion forums, messaging apps, or phone.
-8. Use courtesy in online communication and deal with conflict with respect.
-9. Participation is important to your learning experience in an online learning environment, so be confident in making contributions.
-10. Be aware that there are resources to help you: your instructor, ITS, or a librarian.
-
-### How to Computer {#346b81a32e7007eccadf60252bb599f0}
-
 Essential skills for using a computer that will make you look awesome in front of everyone else.
 
 **Don't keep things on your desktop.**It looks messy, and keeping lots of files on your desktop can actually cause decrease your computer's performance. Store your files in your Documents folder or another folder within your home directory \(i.e. that folder with your name that contains your documents, pictures, and downloads folders\).
