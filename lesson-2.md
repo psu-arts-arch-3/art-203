@@ -10,11 +10,11 @@ As we familiarize ourselves with the structure of HTML, we will also look at the
 
 **Reading:** Butterick's Practical Typography
 
-**Exercise 1:** Break the Internet
+**Exercise 1:** Illustrator Mockup
 
-**Exercise 2: **Hello HTML
+**Exercise 2: **HTML Roadtest
 
-**Assignment:** Dueling Stylesheets
+**Assignment:** Landing Page
 
 **Blog Post: **See below for prompt.
 
