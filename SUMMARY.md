@@ -4,7 +4,9 @@
   * [Course Overview](course-orientation/welcome.md)
 * [Course Orientation](course-orientation.md)
   * [Online Ecosystem](course-orientation/online-ecosystem.md)
+  * Communication
   * [Lynda ](course-orientation/lynda.md)
+  * Policies
   * [Tips for Success](course-orientation/tips-for-success.md)
   * [Orientation](course-orientation/open-studio.md)
 * [Unit 1](unit-1.md)
