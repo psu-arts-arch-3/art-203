@@ -1,8 +1,22 @@
 Everyone should have created a Wordpress site in Exercise 2. We'll be using these personal research blogs to post writing responses throughout the semester. Each Lesson will include a prompt for a new blog post that will be due at a date specified in the course schedule.
 
-After the due date for each blog post, students will be required to comment on each other's posts.
+### Submissions
 
-TBD SUBMISSION DETAILS
+1. Publish blog posts on Wordpress
+2. Post a screenshot in the relevant Open Studio assignment along with the URL to your post. 
+
+### Peer Review
+
+1. Post comments on your classmates' submissions in Open Studio
+2. Take a screenshot of each of your comments and submit them to the relevant Canvas assignment.
+
+### Revision
+
+1. Revise your blog post according to feedback from your classmates.
+2. Publish the updated blog post.
+3. Post the URL for your blog post in the relevant Canvas assignment. 
+
+
 
 ### Lesson 1 Blog Prompt
 
