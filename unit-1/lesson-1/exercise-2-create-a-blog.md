@@ -15,13 +15,13 @@ Students will use their research blogs throughout the course, but for this exerc
 * Go to sites.psu.edu and click the big "Create a site" button on the homepage. 
 * Login with your PSU credentials.  
 * Fill out the following fields:
-  * Site Address refers to the URL for your site; whatever you enter will result in a URL like "\[\[\[[http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\)\)\](http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29%29%29\)\). Only lowercase letters and numbers are allowed. 
+  * Site Address refers to the URL for your site; whatever you enter will result in a URL like "http://sites.psu.edu/yourname"\). Only lowercase letters and numbers are allowed. 
   * Site Title is the general name for your site; you probably want to enter the same thing you used for the Site Address, but you can call it whatever you want \(and you can change it later\). 
   * Privacy will determine if your site is promoted to search engine and public web listings \(this can also be changed later\). Choose whatever you like. 
 
 ### The Interface
 
-You should have received a confirmation screen with links to the site itself and the administration backend. If not, you can always just type your URL into your web browser \(e.g. "\[\[\[[http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\]\(http://sites.psu.edu/myawesomesite"\]\(http://sites.psu.edu/myawesomesite"\)\)\)\](http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29]%28http://sites.psu.edu/myawesomesite"]%28http://sites.psu.edu/myawesomesite"%29%29%29\)\).
+You should have received a confirmation screen with links to the site itself and the administration backend. If not, you can always just type your URL into your web browser.
 
 ![](/assets/wordpress/dashboard.png)
 
@@ -29,9 +29,9 @@ While logged in, you should see a navigation menu at the top of the screen with 
 
 ![](/assets/wordpress/admin-screen.png)
 
-The Dashboard provides and overview of recent activity on your site, but it's really just one of several sections in the Wordpress backend, and we're more interested in all those other sections listed in the lefthand sidebar.
+The Dashboard provides an overview of recent activity on your site, but it's really just one of several sections in the Wordpress backend, and we're more interested in all those other sections listed in the lefthand sidebar.
 
-\_**PRO TIP: **\_Applications like Wordpress, Photoshop, or Microsoft Office use a lot of the same design terms \(e.g. "sidebars"\) and visual conventions of websites. Always pay attention to how information is presented to you and file that knowledge away for your own projects.
+**PRO TIP: **Applications like Wordpress, Photoshop, or Microsoft Office use a lot of the same design terms \(e.g. "sidebars"\) and visual conventions of websites. Always pay attention to how information is presented to you and file that knowledge away for your own projects.
 
 The sections are fairly self-explanatory, but some of important things to note right away:
 
@@ -56,7 +56,7 @@ The active theme \(Twenty Sixteen by default\) should be highlighted, and to act
 
 Each theme will have slightly different options for what you can customize. For example, some themes might include an option to  set a custom header image at the top of the site, while others might only display the name of the site and the description \(set these under Settings &gt;&gt;&gt; General\).
 
-Further customizations is available under Appearance &gt;&gt;&gt; Customize.
+Further customization is available under Appearance &gt;&gt;&gt; Customize.
 
 ![](/assets/wordpress/customize.png)
 
@@ -104,7 +104,7 @@ Posts are very similar to Pages; you can select  "Add New" and compose content i
 
 Edit or delete the "Hello World!" Post that is generated automatically, and create a new Post to make sure you can successfully publish blog posts.
 
-**Answer any of the following questions for your first blog post \(it can be brief\):**
+**Answer any of the following questions for your first blog post \(1-2 paragraphs\):**
 
 * What do you think about blogging? 
 * Is it still essential to online culture? 
@@ -118,4 +118,8 @@ By default Posts are displayed on the homepage of your site. It's possible set u
 ![](/assets/wordpress/reading.png)
 
 By default the homepage displays "Your latest posts" but you can change it to a "static page" if you want. You can choose from any of your published pages—and then you'll have to set a different page to display your Posts \(e.g. a page called "Blog"\).
+
+
+
+\[INSERT SUBMISSION LINK\]
 
