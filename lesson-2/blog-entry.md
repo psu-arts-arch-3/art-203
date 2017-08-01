@@ -12,5 +12,5 @@ Include your assessment of why the design is successful or unsuccessful. What ma
 
 This is an opportunity to do some light research and look for interesting examples of design; you might find websites or publications that directly inspire your assignment, but they don't have to be directly related.
 
-"Layout design" can include websites, apps, video games, magazines, books, posters, album art, signs, or any other media that use grid layout.
+Your examples can include websites, apps, video games, magazines, books, posters, album art, signs, or any other media that use grid layout.
 
