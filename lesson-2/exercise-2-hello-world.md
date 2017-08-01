@@ -1,6 +1,7 @@
 ### Objectives
 
 * Manually create an HTML.
+* Load a custom font from Google Fonts.
 * Establish an FTP connection between your computer and a PSU server.
 
 ### Requiremnets
@@ -57,7 +58,7 @@ Now find your test.html file in your regular file browser, and double click on i
 
 In preparation for the landing page we'll be making in the assignment, let's make sure we can implement a custom font in an HTML file. If you used a font from Google Fonts in your mockup, you can use that font here—otherwise choose any font from [Google Fonts](https://fonts.google.com/).
 
-Select the font on the website, and then click the black bar displaying "1 Family Selected" to view your chosen font. You should see a short piece of code like `<link href="http://fonts.googleapis.com...">` for importing the font into a custom project.
+Select the font on at Google's website, and then click the black bar displaying "1 Family Selected" to view your chosen font. You should see a short piece of code like `<link href="http://fonts.googleapis.com...">` for importing the font into a custom project.
 
 ![](/unit-1/lesson-2/google-font-use.png)
 
@@ -65,11 +66,17 @@ Copy the "Embed Font" code and paste it between the `<head>` and `</head>` tags 
 
 Once that code is included in your HTML file, you can assign the custom font in your CSS by using the [font-family](https://www.w3schools.com/cssref/pr_font_font-family.asp) attribute.
 
-Since this is a simple test, you can just apply the font to all text in the document by targeting the &lt;body&gt; element like this:
+Since this is a simple test, you can just apply the font to all text in the document by targeting the &lt;body&gt; element. Paste the following into your `<head> `section.
 
-`body { font-family: 'Merriweather', serif; }`
+```
+<style>
+    body { font-family: 'Merriweather', serif; }
+</style>
+```
 
-You would replace 'Merriweather' with the proper name of your font as it's labeled in Google Fonts. Check the capitalization and spaces if it's not working. By listing "serif" or "sans-serif" after the custom font, we're telling any web browsers which default HTML fonts to display in the event that our custom font can't be loaded for some reason.
+Replace 'Merriweather' with the proper name of your font as it's labeled in Google Fonts. Check the capitalization and spaces if it's not working. By listing "serif" or "sans-serif" after the custom font, we're telling any web browsers which default HTML fonts to display in the event that our custom font can't be loaded for some reason. 
+
+**To see changes to your HTML file**: save the file and refresh your web browser.
 
 If you have multiple text elements, and only want to apply your custom font to one type, you could specify the CSS like this:
 
@@ -102,13 +109,13 @@ The Filezilla interface is divided into two sections: your local directory \(lef
 
 ![](/assets/lesson-2/filezilla-diagram.png)
 
-You will have to navigate to your local directory on the left side until you can se the "test.html" file you created. 
+You will have to navigate to your local directory on the left side until you can se the "test.html" file you created.
 
 On the right site, open the "www" folder and right-click to "create a new directory" and name it "art203" this creates a new folder within the public "www" folder; we will store our upcoming projects in this folder.
 
-Open the "art203" folder on the remote serve \(right-side\) and drag your "test.html" file from your local directory in order to upload it to your PASS directory. 
+Open the "art203" folder on the remote serve \(right-side\) and drag your "test.html" file from your local directory in order to upload it to your PASS directory.
 
-Now check that it uploaded successfully by going to: "http://personal.psu.edu/user123/art203/test.html" — but replace "user123" with your PSU username, and possibly and the name of your HTML file. 
+Now check that it uploaded successfully by going to: "[http://personal.psu.edu/user123/art203/test.html](http://personal.psu.edu/user123/art203/test.html)" — but replace "user123" with your PSU username, and possibly and the name of your HTML file.
 
 **Submit your URL to the following assignment: **
 
