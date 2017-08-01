@@ -33,7 +33,7 @@ producttypeid%3a2) as a reference for this process.
 
 You may want to work directly from the Illustrator file used for your Wireframe, or you can create a new document and use the wireframe as a reference. You still want to have **two artboards** with the widths specified above.
 
-**PRO TIP:** If you do work directly from your wireframe project file, choose File &gt;&gt;&gt; Save As to create a new file—and retain the wireframe as separate file \(or create additional artboards within the same project file\). 
+**PRO TIP:** If you do work directly from your wireframe project file, choose File &gt;&gt;&gt; Save As to create a new file—and retain the wireframe as separate file \(or create additional artboards within the same project file\).
 
 #### Step 2: Set up colors
 
@@ -60,12 +60,6 @@ One approach is to create some placeholder text outside of your document's artbo
 #### Step 4. Add images
 
 Add some images and icons! Illustrator is great for drawing simple icons and decorations. If you haven't used Illustrator before, check out Lynda's [Illustrator CC 2017 Essential Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2017-Essential-Training/578066-2.html) — especially section five: "Drawing Basic Shapes."
-
-You can find many, many icons online too. Here are two great reousrces:
-
-[The Noun Project](https://thenounproject.com/) — Create an account to download SVG on PNG icons. Most icons are licensed under Creative Commons, so you should credit the author somewhere on your website.
-
-[Google Material Design ](https://material.io/icons/)— Icons from Google's overarching "Material Design" UI system. According to Google, these icons are "available under the Apache License Version 2.0. We'd love attribution in your app's "about" screen, but it's not required"
 
 #### Step 7. Export
 

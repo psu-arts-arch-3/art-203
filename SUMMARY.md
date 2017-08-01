@@ -43,8 +43,8 @@
     * [Blog](unit-2/lesson-3/blog.md)
   * Lesson4
     * Introducing Muse
-    * Exercise 1: Muse Landing Page
-    * Exercise 2: Vector Artwork
+    * [Exercise 1: Muse Landing Page](unit-2/exercise-1-muse-landing-page.md)
+    * [Exercise 2: Vector Artwork](unit-2/exercise-2-vector-artwork.md)
     * Assignment: Narrative Website
     * Blog
 * Unit 3
