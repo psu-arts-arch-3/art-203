@@ -7,7 +7,7 @@
   * [Communication](course-orientation/communication.md)
   * [Submitting Assignments](course-orientation/submitting-assignments.md)
   * [Lynda ](course-orientation/lynda.md)
-  * Policies
+  * [Policies](course-orientation/policies.md)
   * [Tips for Success](course-orientation/tips-for-success.md)
   * [Orientation](course-orientation/open-studio.md)
 * [Unit 1](unit-1.md)

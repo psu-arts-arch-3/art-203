@@ -2,9 +2,9 @@ In order to learn some of the software used in this course, we will rely on the 
 
 These videos normally require a paid subscription, but are free for students at Penn State.
 
-Access Lynda videos at [http://lynda.psu.edu/](http://lynda.psu.edu/)
+**Access Lynda videos at: ** [http://lynda.psu.edu/](http://lynda.psu.edu/)
 
-Or sign in at the regular [Lynda site](http://lynda.com)  and choose "Sign in with your organization portal" —as seen below.
+Or sign in at the regular [Lynda site](http://lynda.com)  and choose "Sign in with your organization portal" — as seen below.
 
 ![](/assets/lesson-1/lynda-1.jpg)
 
