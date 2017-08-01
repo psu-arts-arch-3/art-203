@@ -14,7 +14,7 @@ A good mockup should look like a real website, and include details like navigati
 
 **Your finished mockup should include two images:**
 
-* A mobile layout  \(320px wide\)
+* A mobile layout  \(375px wide\)
 * A desktop layout \(1280px wide\)
 
 The height of each layout will be determined by the content of your particular project.
