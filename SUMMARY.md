@@ -8,6 +8,7 @@
   * [Submitting Assignments](course-orientation/submitting-assignments.md)
   * [Lynda ](course-orientation/lynda.md)
   * [Policies](course-orientation/policies.md)
+  * Getting Help
   * [Tips for Success](course-orientation/tips-for-success.md)
   * [Orientation](course-orientation/open-studio.md)
 * [Unit 1](unit-1.md)
@@ -59,4 +60,6 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
+
+
 
