@@ -14,7 +14,7 @@ A good mockup should look like a real website, and include details like navigati
 
 **Your finished mockup should include two images:**
 
-* A mobile layout  \(375px wide\)
+* A mobile layout  \(320px wide\)
 * A desktop layout \(1280px wide\)
 
 The height of each layout will be determined by the content of your particular project.
@@ -33,7 +33,7 @@ producttypeid%3a2) as a reference for this process.
 
 You may want to work directly from the Illustrator file used for your Wireframe, or you can create a new document and use the wireframe as a reference. You still want to have **two artboards** with the widths specified above.
 
-**PRO TIP:** If you do work directly from your wireframe project file, choose File &gt;&gt;&gt; Save As to create a new file—and retain the wireframe as separate file.
+**PRO TIP:** If you do work directly from your wireframe project file, choose File &gt;&gt;&gt; Save As to create a new file—and retain the wireframe as separate file \(or create additional artboards within the same project file\). 
 
 #### Step 2: Set up colors
 
