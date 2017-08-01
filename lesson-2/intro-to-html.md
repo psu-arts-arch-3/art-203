@@ -1,8 +1,8 @@
 ## Designers & Developers
 
-When discussing websites, apps, and software creation, the workload is frequently split into two categories: **designers **create the visual look of the content, and create a layout that organizes everything in a logical way; **developers **take the visual design and turn it into a functional website or app using whatever platform best fits the job \(usually involving a lot of coding\). 
+When discussing websites, apps, and software creation, the workload is frequently split into two categories: **designers **create the visual look of the content, and create a layout that organizes everything in a logical way; **developers **take the visual design and turn it into a functional website or app using whatever platform best fits the job \(usually involving a lot of coding\).
 
-This workflow allows designers and developers to specialize in their areas, and leave some details to their collaborators—but for individuals and small teams, the distinction may not be as clear. Even if you are working in one of those roles, it's very useful to know some of the work associated with the other side of the job. Today designers are more frequently expected to build functioning prototypes of websites,  prepare files for development use, and understand what is and isn't possible in a design. 
+This workflow allows designers and developers to specialize in their areas, and leave some details to their collaborators—but for individuals and small teams, the distinction may not be as clear. Even if you are working in one of those roles, it's very useful to know some of the work associated with the other side of the job. Today designers are more frequently expected to build functioning prototypes of websites,  prepare files for development use, and understand what is and isn't possible in a design.
 
 ## HTML
 
@@ -28,7 +28,7 @@ EMBED CODE PEN: [https://codepen.io/BenFictional/pen/EmWVxd](https://codepen.io/
 
 Don't worry about the color yet, but just note that the &lt;div&gt; acts like a container for the two paragraph elements. There's some other behavior you can observe too in this generic example: the paragraphs are on separate lines, and the div stretches to fill the entire width of the window. Divs, paragraphs, images, and other HTML elements act like building blocks, stacking and nesting inside each other to make up the contents of a web page.
 
-In order for web browsers to render HTML correctly, it's expected to wrap the entire content of the page within an &lt;html&gt; element.   The other major standard is that each page includes a &lt;head&gt; and &lt;body&gt; section. The head is meant to contain invisible metadata like the page title; the body contains the actual content of the page.
+In order for web browsers to render HTML correctly, it's expected to wrap the entire content of the page within an &lt;html&gt; element.   The other major standard is that each page includes a `<head>` and `<body>` section. The head is meant to contain invisible metadata like the page title; the body contains the actual content of the page.
 
 Here's a very basic template for an HTML file, including a couple standard declarations just to make sure everything runs smoothly:
 
@@ -45,11 +45,11 @@ Here's a very basic template for an HTML file, including a couple standard decla
 </html>
 ```
 
-The &lt;title&gt; element defines what appears in web browser tabs, search engine results, and other important locations.
+The `<title>` element defines what appears in web browser tabs, search engine results, and other important locations.
 
 ### Common HTML Elements
 
-You can search online for lists of complete HTML elements—here's a nice [cheat sheet](https://websitesetup.org/html5-cheat-sheet/)—but these are some of the really essential ones that you can start using right away.
+You can search online for lists of complete HTML elements—here's a nice [cheat sheet](https://websitesetup.org/html5-cheat-sheet/)—but here are some of the really essential ones that you can start using right away.
 
 #### Text
 
@@ -75,7 +75,7 @@ You can search online for lists of complete HTML elements—here's a nice [cheat
 <img src="path-to-the-image/file.jpg" alt="Alt text" title="Image title">
 ```
 
-The **alt text** and **image title** are not necessary, but can be included to provide additional accessibility and search-engine-optimization. Alt text is displayed if the user has images turned off \(as is common in emails\), and the title is what's displayed if you hover your cursor over the image.
+The **alt text** and **image title** are not necessary, but can be included to provide additional accessibility and search-engine-optimization. Alt text is displayed if the user has images turned off \(as is common in emails\), and the title is what's displayed if you hover your cursor over the image. Both will help search engines determine the content of an image.
 
 #### Layout
 
@@ -87,7 +87,7 @@ The **alt text** and **image title** are not necessary, but can be included to p
 
 #### HTML5
 
-The fifth worldwide update to HTML \(launched in 2014\) introduced a number of new elements designed to help organize page content. These all function the same as a `<div>` but they have more unique names so anyone reading your code can more easily figure out what you're up to.
+The fifth worldwide update to HTML \(launched in 2014\) introduced a number of new elements designed to help organize page content. These all function the same as a `<div>` but they have more unique names so anyone reading your code can more easily figure out what you're up to. These sections are ubiquitous, and will help you think about organizing content even if you're not coding from scratch. 
 
 `<header>` The top section of a webpage.
 
