@@ -50,10 +50,9 @@ In order to show the full development process for your website, students should 
 * Wireframe
 * Mockups
 * Muse Project files
-* Design document
-* Self assessment
+* Design summary \(see template\)
 
-Place all of the following into a single folder labeled with your name; if any of the above include multiple files, they should be placed with subfolders. 
+Place all of the following into a single folder labeled with your name; if any of the above include multiple files, they should be placed with subfolders.
 
 ### Creating a Zip file
 
@@ -70,6 +69,4 @@ This will create a new .zip file alongside the container folder.
 **Submit to Canvas**: Zipped project folder and the URL of your live website.
 
 \[INSERT SUBMISSION LINK\]
-
-
 
