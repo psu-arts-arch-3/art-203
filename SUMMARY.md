@@ -40,6 +40,7 @@
     * [Exercise 1: Narrative Research](unit-2/lesson-3/exercise-2-breakpoint-madness.md)
     * [Exercise 2: Wireframe in Illustrator](unit-2/lesson-3/exercise-2-wireframes-in-illustrator.md)
     * [Assignment: Narrative Mockup ](unit-2/lesson-3/assignment-narrative-mockup.md)
+    * Design Summary Template
     * [Blog](unit-2/lesson-3/blog.md)
   * [Lesson4](unit-2/lesson4.md)
     * [Introducing Muse](unit-2/lesson-4/introducing-muse.md)
@@ -58,4 +59,6 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
+
+
 
