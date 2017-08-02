@@ -92,7 +92,7 @@ This will create a new .zip file alongside the container folder.
 **Upload to Canvas: **
 
 * Zipped folder containing your packaged Illustrator project.
-* Self assessment \(.docx or .pdf\)
+* Design summary \(.docx or .pdf\) — see template page in this lesson. 
 
 \[INSERT SUBMISSION LINK\]
 
