@@ -1,6 +1,4 @@
-Use this template to write your design summary. We will use this format for additional assignments throughout the course.
-
-
+Use this template to write your design summary. We will use this format for additional assignments throughout the course. Save your Design Summary as a .docx or .pdf file. 
 
 **Summary for: **Lesson 2 Assignment
 
@@ -10,7 +8,7 @@ Use this template to write your design summary. We will use this format for addi
 
 #### **Short Abstract:**
 
-Write a short description of your project that summarizes the content and approach for a general audience. Include any noteworthy details about the concept, style, and goals of the project. 
+Write a short description of your project that summarizes the content and approach for a general audience. Include any noteworthy details about the concept, style, and goals of the project.
 
 #### **Design Details:**
 
@@ -18,7 +16,7 @@ Include any further details about the design, such as technical accomplishments,
 
 #### **Revisions:**
 
-Describe any changes made to the project after receiving peer reviews. You may also include responses to peer comments that you chose to disregard. 
+Describe any changes made to the project after receiving peer reviews. You may also include responses to peer comments that you chose to disregard.
 
 #### **Self-Assessment: **
 
