@@ -46,7 +46,7 @@
     * [Exercise 1: Muse Landing Page](unit-2/exercise-1-muse-landing-page.md)
     * [Exercise 2: Vector Artwork](unit-2/exercise-2-vector-artwork.md)
     * [Assignment: Narrative Website](unit-2/assignment-narrative-website.md)
-    * Blog
+    * [Blog](unit-2/blog.md)
 * Unit 3
   * Lesson 5
     * Further Training
