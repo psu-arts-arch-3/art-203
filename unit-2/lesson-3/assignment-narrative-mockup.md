@@ -65,3 +65,34 @@ Add some images and icons! Illustrator is great for drawing simple icons and dec
 
 See instructions in Exercise 2.
 
+### Submit for Peer Review
+
+Submit your exported mockups \(PNG or JPEG files\) to Open Studio by the deadline for peer review.
+
+After you have received feedback, make any changes to your design before submitting the final submission to Canvas.
+
+### Final Submission
+
+For your final submission, students are required to submit their Illustrator project file instead of an exported image; this provides insight into your design process and can help identify problems.
+
+To ensure that your project includes any custom fonts or embedded images that you added, you should export your project using File &gt;&gt;&gt; Package
+
+![](/assets/lesson-3/package-demo.jpeg)
+
+This will create a folder with all of your assets alongside a copy of your Illustrator project. This is a super handy feature for sharing projects!
+
+In order to upload your package folder to Canvas, you'll also need to compress it into a Zip file:
+
+**Mac:** Right-click on the container folder and choose "Compress"
+
+**Windows:** Right-click on the container folder and choose "Send to" &gt;&gt;&gt; "Compressed \(zipped\) folder"
+
+This will create a new .zip file alongside the container folder.
+
+**Upload to Canvas: **
+
+* Zipped folder containing your packaged Illustrator project.
+* Self assessment \(.docx or .pdf\)
+
+\[INSERT SUBMISSION LINK\]
+
