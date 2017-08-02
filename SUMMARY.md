@@ -29,6 +29,7 @@
     * [Exercise 1 Illustrator Mockup](lesson-2/exercise-1break-the-internet.md)
     * [Exercise 2: HTML Roadtest](lesson-2/exercise-2-hello-world.md)
     * [Assignment: Landing Page](lesson-2/assignment-dueling-stylesheets.md)
+    * Design Summary Template
     * [Blog Entry](lesson-2/blog-entry.md)
 * [Unit 2](unit-2.md)
   * [Lesson 3](unit-2/lesson-3.md)
@@ -40,7 +41,6 @@
     * [Exercise 1: Narrative Research](unit-2/lesson-3/exercise-2-breakpoint-madness.md)
     * [Exercise 2: Wireframe in Illustrator](unit-2/lesson-3/exercise-2-wireframes-in-illustrator.md)
     * [Assignment: Narrative Mockup ](unit-2/lesson-3/assignment-narrative-mockup.md)
-    * Design Summary Template
     * [Blog](unit-2/lesson-3/blog.md)
   * [Lesson4](unit-2/lesson4.md)
     * [Introducing Muse](unit-2/lesson-4/introducing-muse.md)
@@ -59,6 +59,4 @@
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
-
-
 
