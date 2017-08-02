@@ -29,7 +29,7 @@
     * [Exercise 1 Illustrator Mockup](lesson-2/exercise-1break-the-internet.md)
     * [Exercise 2: HTML Roadtest](lesson-2/exercise-2-hello-world.md)
     * [Assignment: Landing Page](lesson-2/assignment-dueling-stylesheets.md)
-    * Design Summary Template
+    * [Design Summary Template](lesson-2/design-summary-template.md)
     * [Blog Entry](lesson-2/blog-entry.md)
 * [Unit 2](unit-2.md)
   * [Lesson 3](unit-2/lesson-3.md)
