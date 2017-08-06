@@ -48,7 +48,7 @@
     * [Exercise 2: Vector Artwork](unit-2/lesson-4/exercise-2-vector-artwork.md)
     * [Assignment: Narrative Website](unit-2/lesson-4/assignment-narrative-website.md)
     * [Blog](unit-2/blog.md)
-* Unit 3
+* [Unit 3](unit-3.md)
   * Lesson 5
     * [Further Training](further-training.md)
     * The Design Process
