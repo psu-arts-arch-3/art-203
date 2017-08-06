@@ -10,9 +10,9 @@ The final site is also a **static **website—which means you will have to edit 
 
 The advantage of Muse is that you can get really creative with the layout without having to figure out how to achieve your desired results via code.
 
-### Recommended Lynda course: [Muse Essential Training](https://www.lynda.com/Muse-tutorials/Muse-Essential-Training/532182-2.html)
+### Lynda course: [Muse Essential Training](https://www.lynda.com/Muse-tutorials/Muse-Essential-Training/532182-2.html)
 
-**Required videos **— I recommend watching the full course, but if you are strapped for time, these videos are some of the most essential:
+**Specific highlights **— I recommend watching the full course, but if you are strapped for time, these videos are some of the most essential:
 
 * New Site Settings
 * Workspace layouts, site plan, and pages
@@ -23,10 +23,10 @@ The advantage of Muse is that you can get really creative with the layout withou
 * Hyperlinks
 * Anchor links \(great for one-page sites!\)
 * Prepare a static site to be responsive, part 1
-* [Prepare a static site to be responsive, part 2](/h ttps://www.lynda.com/Muse-tutorials/Prepare-static-site-responsive-part-2/532182/577531-4.html?srchtrk=index%3a1 linktypeid%3a2 q%3amuse page%3a1 s%3arelevance sa%3atrue producttypeid%3a2)
-* [Test in Browser](/h ttps://www.lynda.com/Muse-tutorials/Test-browsers/532182/577550-4.html?srchtrk=index%3a1 linktypeid%3a2 q%3amuse page%3a1 s%3arelevance sa%3atrue producttypeid%3a2)
+* Prepare a static site to be responsive, part 2
+* Test in Browser
 
-### Recommended Lynda course: [Creating a One-Page Scrollable Website in Muse](https://www.lynda.com/Muse-tutorials/Creating-One-Page-Scrollable-Website-Muse/167919-2.html)
+### Lynda course: [Creating a One-Page Scrollable Website in Muse](https://www.lynda.com/Muse-tutorials/Creating-One-Page-Scrollable-Website-Muse/167919-2.html)
 
 This course doesn't go over the basic interface and tools as well as the Essential Training above, but it does walkthrough the development of a one-page scrollable site similar to the one we're working on. It also goes over some **scrolling effects** which are a fantastic way to add dynamic energy to your designs.
 
