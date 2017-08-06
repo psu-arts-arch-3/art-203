@@ -10,80 +10,19 @@ The final site is also a **static **website—which means you will have to edit 
 
 The advantage of Muse is that you can get really creative with the layout without having to figure out how to achieve your desired results via code.
 
-### Recommended Lynda course: \[Muse Essential Training\]\([https://www.lynda.com/Muse-tutorials/Welcome/532182/577482-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Welcome/532182/577482-4.html?srchtrk=index%3a1)
-
-linktypeid%3a2  
-q%3amuse  
-page%3a1  
-s%3arelevance  
-sa%3atrue  
-producttypeid%3a2\)
+### Recommended Lynda course: [Muse Essential Training](https://www.lynda.com/Muse-tutorials/Muse-Essential-Training/532182-2.html)
 
 **Required videos **— I recommend watching the full course, but if you are strapped for time, these videos are some of the most essential:
 
-* \[New Site Settings\]\([https://www.lynda.com/Muse-tutorials/New-site-settings/532182/577489-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/New-site-settings/532182/577489-4.html?srchtrk=index%3a1)
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2\)
-* \[Workspace layouts, site plan, and pages\]\([https://www.lynda.com/Muse-tutorials/Workspace-layouts-site-plan-pages/532182/577490-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Workspace-layouts-site-plan-pages/532182/577490-4.html?srchtrk=index%3a1)
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2\)
-* \[Muse interface overview\]\([https://www.lynda.com/Muse-tutorials/Muse-interface-overview/532182/577493-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Muse-interface-overview/532182/577493-4.html?srchtrk=index%3a1)
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2\)
-* \[Images: Place vs. Fill\]\([https://www.lynda.com/Muse-tutorials/Images-Place-vs-fill/532182/577500-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Images-Place-vs-fill/532182/577500-4.html?srchtrk=index%3a1)
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2\)
-* \[Add web fonts and format text\]\([https://www.lynda.com/Muse-tutorials/Add-web-fonts-format-text/532182/577501-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Add-web-fonts-format-text/532182/577501-4.html?srchtrk=index%3a1)
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2\) \(using Adobe Typekit\)
-* \[Customize buttons and the States panel\]\([https://www.lynda.com/Muse-tutorials/Customize-buttons-States-panel/532182/577503-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Customize-buttons-States-panel/532182/577503-4.html?srchtrk=index%3a1)
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2\)
-* \[Hyperlinks\]\([https://www.lynda.com/Muse-tutorials/Hyperlinks/532182/577510-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Hyperlinks/532182/577510-4.html?srchtrk=index%3a1)
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2\)
-* \[Anchor links \]\([https://www.lynda.com/Muse-tutorials/Add-anchor-tags/532182/577519-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Add-anchor-tags/532182/577519-4.html?srchtrk=index%3a1)
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2\)\(great for one-page sites!\)
-* \[Prepare a static site to be responsive, part 1 \]\([https://www.lynda.com/Muse-tutorials/Prepare-static-site-responsive-part-1/532182/577530-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Prepare-static-site-responsive-part-1/532182/577530-4.html?srchtrk=index%3a1)
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2\)
+* New Site Settings
+* Workspace layouts, site plan, and pages
+* Muse interface overview
+* Images: Place vs. Fill
+* Add web fonts and format text \(using Adobe Typekit\)
+* Customize buttons and the States panel
+* Hyperlinks
+* Anchor links \(great for one-page sites!\)
+* Prepare a static site to be responsive, part 1
 * [Prepare a static site to be responsive, part 2](/h ttps://www.lynda.com/Muse-tutorials/Prepare-static-site-responsive-part-2/532182/577531-4.html?srchtrk=index%3a1 linktypeid%3a2 q%3amuse page%3a1 s%3arelevance sa%3atrue producttypeid%3a2)
 * [Test in Browser](/h ttps://www.lynda.com/Muse-tutorials/Test-browsers/532182/577550-4.html?srchtrk=index%3a1 linktypeid%3a2 q%3amuse page%3a1 s%3arelevance sa%3atrue producttypeid%3a2)
 
