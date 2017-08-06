@@ -10,7 +10,84 @@ The final site is also a **static **website—which means you will have to edit 
 
 The advantage of Muse is that you can get really creative with the layout without having to figure out how to achieve your desired results via code.
 
-### Recommended Lynda course: [Muse Essential Training](https://www.lynda.com/Muse-tutorials/Welcome/532182/577482-4.html?srchtrk=index%3a1
+### Recommended Lynda course: \[Muse Essential Training\]\([https://www.lynda.com/Muse-tutorials/Welcome/532182/577482-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Welcome/532182/577482-4.html?srchtrk=index%3a1)
+
+linktypeid%3a2  
+q%3amuse  
+page%3a1  
+s%3arelevance  
+sa%3atrue  
+producttypeid%3a2\)
+
+**Required videos **— I recommend watching the full course, but if you are strapped for time, these videos are some of the most essential:
+
+* \[New Site Settings\]\([https://www.lynda.com/Muse-tutorials/New-site-settings/532182/577489-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/New-site-settings/532182/577489-4.html?srchtrk=index%3a1)
+  linktypeid%3a2
+  q%3amuse
+  page%3a1
+  s%3arelevance
+  sa%3atrue
+  producttypeid%3a2\)
+* \[Workspace layouts, site plan, and pages\]\([https://www.lynda.com/Muse-tutorials/Workspace-layouts-site-plan-pages/532182/577490-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Workspace-layouts-site-plan-pages/532182/577490-4.html?srchtrk=index%3a1)
+  linktypeid%3a2
+  q%3amuse
+  page%3a1
+  s%3arelevance
+  sa%3atrue
+  producttypeid%3a2\)
+* \[Muse interface overview\]\([https://www.lynda.com/Muse-tutorials/Muse-interface-overview/532182/577493-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Muse-interface-overview/532182/577493-4.html?srchtrk=index%3a1)
+  linktypeid%3a2
+  q%3amuse
+  page%3a1
+  s%3arelevance
+  sa%3atrue
+  producttypeid%3a2\)
+* \[Images: Place vs. Fill\]\([https://www.lynda.com/Muse-tutorials/Images-Place-vs-fill/532182/577500-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Images-Place-vs-fill/532182/577500-4.html?srchtrk=index%3a1)
+  linktypeid%3a2
+  q%3amuse
+  page%3a1
+  s%3arelevance
+  sa%3atrue
+  producttypeid%3a2\)
+* \[Add web fonts and format text\]\([https://www.lynda.com/Muse-tutorials/Add-web-fonts-format-text/532182/577501-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Add-web-fonts-format-text/532182/577501-4.html?srchtrk=index%3a1)
+  linktypeid%3a2
+  q%3amuse
+  page%3a1
+  s%3arelevance
+  sa%3atrue
+  producttypeid%3a2\) \(using Adobe Typekit\)
+* \[Customize buttons and the States panel\]\([https://www.lynda.com/Muse-tutorials/Customize-buttons-States-panel/532182/577503-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Customize-buttons-States-panel/532182/577503-4.html?srchtrk=index%3a1)
+  linktypeid%3a2
+  q%3amuse
+  page%3a1
+  s%3arelevance
+  sa%3atrue
+  producttypeid%3a2\)
+* \[Hyperlinks\]\([https://www.lynda.com/Muse-tutorials/Hyperlinks/532182/577510-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Hyperlinks/532182/577510-4.html?srchtrk=index%3a1)
+  linktypeid%3a2
+  q%3amuse
+  page%3a1
+  s%3arelevance
+  sa%3atrue
+  producttypeid%3a2\)
+* \[Anchor links \]\([https://www.lynda.com/Muse-tutorials/Add-anchor-tags/532182/577519-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Add-anchor-tags/532182/577519-4.html?srchtrk=index%3a1)
+  linktypeid%3a2
+  q%3amuse
+  page%3a1
+  s%3arelevance
+  sa%3atrue
+  producttypeid%3a2\)\(great for one-page sites!\)
+* \[Prepare a static site to be responsive, part 1 \]\([https://www.lynda.com/Muse-tutorials/Prepare-static-site-responsive-part-1/532182/577530-4.html?srchtrk=index%3a1](https://www.lynda.com/Muse-tutorials/Prepare-static-site-responsive-part-1/532182/577530-4.html?srchtrk=index%3a1)
+  linktypeid%3a2
+  q%3amuse
+  page%3a1
+  s%3arelevance
+  sa%3atrue
+  producttypeid%3a2\)
+* [Prepare a static site to be responsive, part 2](/h ttps://www.lynda.com/Muse-tutorials/Prepare-static-site-responsive-part-2/532182/577531-4.html?srchtrk=index%3a1 linktypeid%3a2 q%3amuse page%3a1 s%3arelevance sa%3atrue producttypeid%3a2)
+* [Test in Browser](/h ttps://www.lynda.com/Muse-tutorials/Test-browsers/532182/577550-4.html?srchtrk=index%3a1 linktypeid%3a2 q%3amuse page%3a1 s%3arelevance sa%3atrue producttypeid%3a2)
+
+### Recommended Lynda course: [Creating a One-Page Scrollable Website in Muse](https://www.lynda.com/Muse-tutorials/Exploring-final-website/167919/187537-4.html?srchtrk=index%3a17
 linktypeid%3a2
 q%3amuse
 page%3a1
@@ -18,93 +95,29 @@ s%3arelevance
 sa%3atrue
 producttypeid%3a2)
 
-**Required videos **— I recommend watching the full course, but if you are strapped for time, these videos are some of the most essential:
+This course doesn't go over the basic interface and tools as well as the Essential Training above, but it does walkthrough the development of a one-page scrollable site similar to the one we're working on. It also goes over some **scrolling effects** which are a fantastic way to add dynamic energy to your designs.
 
-* [New Site Settings](https://www.lynda.com/Muse-tutorials/New-site-settings/532182/577489-4.html?srchtrk=index%3a1
+* [Pinning content to the page](https://www.lynda.com/Muse-tutorials/Pinning-content-page/167919/187541-4.html?srchtrk=index%3a17
+  linktypeid%3a2
+  q%3amuse
+  page%3a1
+  s%3arelevance
+  sa%3atrue
+  producttypeid%3a2) \(fixed position when scrolling\)
+* [Understanding scroll motion](https://www.lynda.com/Muse-tutorials/Understanding-scroll-motion/167919/187543-4.html?srchtrk=index%3a17
   linktypeid%3a2
   q%3amuse
   page%3a1
   s%3arelevance
   sa%3atrue
   producttypeid%3a2)
-* [Workspace layouts, site plan, and pages](https://www.lynda.com/Muse-tutorials/Workspace-layouts-site-plan-pages/532182/577490-4.html?srchtrk=index%3a1
+* [Changing opacity when scrolling](https://www.lynda.com/Muse-tutorials/Changing-opacity-when-scrolling/167919/187547-4.html?srchtrk=index%3a17
   linktypeid%3a2
   q%3amuse
   page%3a1
   s%3arelevance
   sa%3atrue
   producttypeid%3a2)
-* [Muse interface overview](https://www.lynda.com/Muse-tutorials/Muse-interface-overview/532182/577493-4.html?srchtrk=index%3a1
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2)
-* [Images: Place vs. Fill](https://www.lynda.com/Muse-tutorials/Images-Place-vs-fill/532182/577500-4.html?srchtrk=index%3a1
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2)
-* [Add web fonts and format text](https://www.lynda.com/Muse-tutorials/Add-web-fonts-format-text/532182/577501-4.html?srchtrk=index%3a1
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2) \(using Adobe Typekit\)
-* [Customize buttons and the States panel](https://www.lynda.com/Muse-tutorials/Customize-buttons-States-panel/532182/577503-4.html?srchtrk=index%3a1
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2)
-* [Hyperlinks](https://www.lynda.com/Muse-tutorials/Hyperlinks/532182/577510-4.html?srchtrk=index%3a1
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2)
-* [Anchor links ](https://www.lynda.com/Muse-tutorials/Add-anchor-tags/532182/577519-4.html?srchtrk=index%3a1
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2)\(great for one-page sites!\)
-* [Prepare a static site to be responsive, part 1 ](https://www.lynda.com/Muse-tutorials/Prepare-static-site-responsive-part-1/532182/577530-4.html?srchtrk=index%3a1
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2)
-* [Prepare a static site to be responsive, part 2](https://www.lynda.com/Muse-tutorials/Prepare-static-site-responsive-part-2/532182/577531-4.html?srchtrk=index%3a1
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2)
-* [Test in Browser](https://www.lynda.com/Muse-tutorials/Test-browsers/532182/577550-4.html?srchtrk=index%3a1
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2)
-
-### Recommended Lynda course: [Creating a One-Page Scrollable Website in Muse](https://www.lynda.com/Muse-tutorials/Exploring-final-website/167919/187537-4.html?srchtrk=index%3a17%0alinktypeid%3a2%0aq%3amuse%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
-
-This course doesn't go over the basic interface and tools as well as the Essential Training above, but it does walkthrough the development of a one-page scrollable site similar to the one we're working on. It also goes over some **scrolling effects** which are a fantastic way to add dynamic energy to your designs. 
-
-* [Pinning content to the page](https://www.lynda.com/Muse-tutorials/Pinning-content-page/167919/187541-4.html?srchtrk=index%3a17%0alinktypeid%3a2%0aq%3amuse%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2) \(fixed position when scrolling\)
-* [Understanding scroll motion](https://www.lynda.com/Muse-tutorials/Understanding-scroll-motion/167919/187543-4.html?srchtrk=index%3a17%0alinktypeid%3a2%0aq%3amuse%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
-* [Changing opacity when scrolling](https://www.lynda.com/Muse-tutorials/Changing-opacity-when-scrolling/167919/187547-4.html?srchtrk=index%3a17%0alinktypeid%3a2%0aq%3amuse%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2)
 
 
 
