@@ -1,6 +1,6 @@
 For this exercise students will create a simple page in Muse and upload it to their PASS remote server in order to practice the workflow of publishing with Muse.
 
-### Required videos
+### Tutorials
 
 [Creating a simple Muse Page](http://personal.psu.edu/cer10/tutorials/Art203_Lesson4Ex2)
 
@@ -8,7 +8,7 @@ For this exercise students will create a simple page in Muse and upload it to th
 
 ### Design and Publish
 
-After watching the videos above, create a single page in Muse that includes at least one text element and some colors \(so it's not a blank page\). Feel free to make it silly, this is just for practice.
+After watching the videos above, create a single page in Muse that includes at least one text element and a background color \(so it's not just a blank page\). Feel free to make it silly, this is just for practice.
 
 You can upload your files with either of the following methods \(as seen in the video above\):
 
