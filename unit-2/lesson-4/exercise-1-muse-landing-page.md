@@ -8,7 +8,7 @@ For this exercise students will create a simple page in Muse and upload it to th
 
 ### Design and Publish
 
-After watching the videos above, create a single page in Muse that includes at least one text element and a background color \(so it's not just a blank page\). Feel free to make it silly, this is just for practice.
+After watching the videos above, create a single page in Muse that includes at least one text element and a background color \(so it's not just a blank page\). Feel free to make it silly, this is just a placeholder.
 
 You can upload your files with either of the following methods \(as seen in the video above\):
 
