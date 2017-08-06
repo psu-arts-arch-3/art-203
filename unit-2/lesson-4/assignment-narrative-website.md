@@ -25,11 +25,13 @@ You can easily use fonts from Adobe Typekit — or if you want to use Google fon
 
 #### Anchor Links
 
-Even though your narrative site is one page, it can still include a navigation menu to help users jump to different sections. Instead of linking to separate HTML pages, you can link to sections of the current page with **anchor links.**
+Even though your narrative site is one page, it can still include a navigation menu to help users jump to different sections. Instead of linking to separate HTML pages, you can link to sections of the current page with **anchor links. **
 
 #### Parallax and Animations
 
 Compared to your 2D mockup, a live website is interactive—which means you can include animations, videos, audio, and other motion effects. Check out the Lynda videos on adding parallax effects and animations. The word [parallax ](https://en.wikipedia.org/wiki/Parallax)comes from the discrepancies of vision between your two eyes, but in web design refers to a popular animation effect where elements appear to scroll at different speeds, creating illusions of depth and motion.
+
+View tutorial videos on both of these features in Lynda's [Creating a One-Page Scrollable Website in Muse](https://www.lynda.com/Muse-tutorials/Creating-One-Page-Scrollable-Website-Muse/167919-2.html)
 
 ### Publish for Peer Review
 
@@ -39,9 +41,9 @@ Create a "lesson4" subdirectory in your PASS directory and upload your finished 
 
 ### Written Component
 
-After you publish your site, you should write a short design statement and assessment that you will submit with the final website. Refer to the template for details.
+After you publish your site, you should write a short design statement and assessment that you will submit with the final website. Refer to [the template](/lesson-2/design-summary-template.md) for details.
 
-Final Submission
+### Final Submission
 
 In order to show the full development process for your website, students should submit a folder containing all of the following:
 
