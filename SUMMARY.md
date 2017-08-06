@@ -54,12 +54,10 @@
     * The Design Process
     * Accessability
     * Exercise 1: Final Proposal
-    * Exercise 2: Three Sketches
-    * Assignment: Interactive Prototype
+    * [Exercise 2: Three Sketches](exercise-2-three-sketches.md)
+    * [Assignment: Interactive Prototype](assignment-interactive-prototype.md)
   * Lesson 6
     * Exercise 1: Final Template
     * Exercise 2: Design Document
     * Assignment: Final Website
-
-
 
