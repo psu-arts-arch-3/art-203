@@ -49,11 +49,11 @@
     * [Assignment: Narrative Website](unit-2/lesson-4/assignment-narrative-website.md)
     * [Blog](unit-2/blog.md)
 * [Unit 3](unit-3.md)
-  * Lesson 5
+  * [Lesson 5](unit-3/lesson-5.md)
     * [Further Training](further-training.md)
     * The Design Process
     * Exercise 1: Final Proposal
-    * Exercise 2: Five Sketches
+    * Exercise 2: Three Sketches
     * Assignment: Interactive Prototype
   * Lesson 6
     * Exercise 1: Final Template
