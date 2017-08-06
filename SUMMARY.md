@@ -50,7 +50,7 @@
     * [Blog](unit-2/blog.md)
 * Unit 3
   * Lesson 5
-    * Further Training
+    * [Further Training](further-training.md)
     * The Design Process
     * Exercise 1: Final Proposal
     * Exercise 2: Five Sketches
