@@ -87,37 +87,15 @@ producttypeid%3a2\)
 * [Prepare a static site to be responsive, part 2](/h ttps://www.lynda.com/Muse-tutorials/Prepare-static-site-responsive-part-2/532182/577531-4.html?srchtrk=index%3a1 linktypeid%3a2 q%3amuse page%3a1 s%3arelevance sa%3atrue producttypeid%3a2)
 * [Test in Browser](/h ttps://www.lynda.com/Muse-tutorials/Test-browsers/532182/577550-4.html?srchtrk=index%3a1 linktypeid%3a2 q%3amuse page%3a1 s%3arelevance sa%3atrue producttypeid%3a2)
 
-### Recommended Lynda course: [Creating a One-Page Scrollable Website in Muse](https://www.lynda.com/Muse-tutorials/Exploring-final-website/167919/187537-4.html?srchtrk=index%3a17
-linktypeid%3a2
-q%3amuse
-page%3a1
-s%3arelevance
-sa%3atrue
-producttypeid%3a2)
+### Recommended Lynda course: [Creating a One-Page Scrollable Website in Muse](https://www.lynda.com/Muse-tutorials/Creating-One-Page-Scrollable-Website-Muse/167919-2.html)
 
 This course doesn't go over the basic interface and tools as well as the Essential Training above, but it does walkthrough the development of a one-page scrollable site similar to the one we're working on. It also goes over some **scrolling effects** which are a fantastic way to add dynamic energy to your designs.
 
-* [Pinning content to the page](https://www.lynda.com/Muse-tutorials/Pinning-content-page/167919/187541-4.html?srchtrk=index%3a17
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2) \(fixed position when scrolling\)
-* [Understanding scroll motion](https://www.lynda.com/Muse-tutorials/Understanding-scroll-motion/167919/187543-4.html?srchtrk=index%3a17
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2)
-* [Changing opacity when scrolling](https://www.lynda.com/Muse-tutorials/Changing-opacity-when-scrolling/167919/187547-4.html?srchtrk=index%3a17
-  linktypeid%3a2
-  q%3amuse
-  page%3a1
-  s%3arelevance
-  sa%3atrue
-  producttypeid%3a2)
+**Specific highlights:**
+
+* Pinning content to the page
+* Understanding scroll motion
+* Changing opacity when scrolling
 
 
 
