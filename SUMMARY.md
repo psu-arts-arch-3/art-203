@@ -52,7 +52,7 @@
   * [Lesson 5](unit-3/lesson-5.md)
     * [Final Website Overview](further-training.md)
     * [Navigation](navigation.md)
-    * Accessibility
+    * [Accessibility & SEO](accessibility.md)
     * [Exercise 1: Final Proposal](exercise-1-final-proposal.md)
     * [Exercise 2: Three Sketches](exercise-2-three-sketches.md)
     * [Assignment: Interactive Prototype](assignment-interactive-prototype.md)
