@@ -12,13 +12,27 @@ Prototypes are essentially the same as mockups we made in Illustrator, but allow
 
 Choose two of your design ideas from Exercise 2, and for each of them:
 
-* Design a mobile and desktop layout 
-* Create an interactive prototype with either Adobe Experience Design or Invision \(see below\)
+* Design a mobile and desktop layout in Illustrator
+* Create an interactive prototype with Invision \(see below\)
 * Submit public sharing links for your four prototypes \(mobile and desktop layouts for two different designs\)
 
-### Choose a Prototype Platform
+### Introducing InVision
 
-#### InVision
+There are a variety of prototyping tools available to create interactive presentations of mockups, we'll go over how to use InVision, which is a popular online app for creating and sharing protoptypes. It also has a built-in mood board feature!
+
+InVision offers free accounts, but they are limited to one active prototype at a time \(and we need four\). Luckily, they offer free upgrades to students for a fully-featured account. 
+
+**To get a free student account: **Go to InVision's [Education Signup page ](https://www.invisionapp.com/education-signup)and fill out your information, including the following education code: 56-73-13-19  
+
+Create a password and remember what it is; you'll use it to log in to the website to work on your prototypes.
+
+### Workflow
+
+Create mockups in Illustrator
+
+You should follow the same format used for previous mockups. Create a mobile layout that is 
+
+
 
 ...
 
