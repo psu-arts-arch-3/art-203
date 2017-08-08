@@ -13,32 +13,89 @@ Prototypes are essentially the same as mockups we made in Illustrator, but allow
 Choose two of your design ideas from Exercise 2, and for each of them:
 
 * Design a mobile and desktop layout in Illustrator
-* Create an interactive prototype with Invision \(see below\)
+* Create an interactive prototype with InVision \(see below\)
 * Submit public sharing links for your four prototypes \(mobile and desktop layouts for two different designs\)
 
 ### Introducing InVision
 
 There are a variety of prototyping tools available to create interactive presentations of mockups, we'll go over how to use InVision, which is a popular online app for creating and sharing protoptypes. It also has a built-in mood board feature!
 
-InVision offers free accounts, but they are limited to one active prototype at a time \(and we need four\). Luckily, they offer free upgrades to students for a fully-featured account. 
+InVision offers free accounts, but they are limited to one active prototype at a time \(and we need four\). Luckily, they offer free upgrades to students for a fully-featured account.
 
-**To get a free student account: **Go to InVision's [Education Signup page ](https://www.invisionapp.com/education-signup)and fill out your information, including the following education code: 56-73-13-19  
+**To get a free student account: **Go to InVision's [Education Signup page ](https://www.invisionapp.com/education-signup)and fill out your information, including the following education code: 56-73-13-19
 
 Create a password and remember what it is; you'll use it to log in to the website to work on your prototypes.
 
-### Workflow
-
-Create mockups in Illustrator
-
-You should follow the same format used for previous mockups. Create a mobile layout that is 
+Another option for making prototypes in Adobe's new Experience Design \(Xd\) application. It's still in beta, but you can download it form the Creative Cloud app if you want to try it out. The main difference between Adobe Xd and InVision is that you make the whole mockup and prototype in Adobe Xd.  
 
 
 
-...
+### InVision Lynda Tutorials
 
-#### Adobe Experience Design
+You should be able to get by with the instructions below, but if you have any trouble, or want to learn more, you can check out the Lynda course [InVision for UX Design](https://www.lynda.com/InVision-tutorials/InVision-UX-Design/599633-2.html) \(it's pretty short\). 
 
-...
+
+
+### InVision Workflow
+
+#### **1.Create mockups in Illustrator**
+
+You should follow the same format used for previous mockups. Create a mobile layout that is 320px wide and create a desktop layout that is 1280px wide. Once you create one page, you can duplicate the artboard and adjust the content for additional pages.  Remember to resize your artboards with the Artboard tool to accommodate  the content for each page. "Tall" pages with large height values will be scrollable when we import them into InVision.
+
+ ![](/assets/lesson-5/illustrator-artboard-pages.png)
+
+Rename each artboard from "Artboard 1" to "home-page" or something to help you identify each page.
+
+
+
+#### **2. Export as PNG**
+
+Use the "Export for Screens" option to export each artboard as a separate PNG file. Make sure to save them somewhere sensible and stay organized. ![](/assets/lesson-5/illustrator-page-export.png)
+
+
+
+#### **3. Create InVision Project**
+
+1. Click the pink "+" button to create a new project
+2. Select "Prototype" 
+3. Select "Website" or ""iPhone/Android phone" depending on which mockup you want to do.
+
+![](/assets/lesson-5/invision-project.png)![](/assets/lesson-5/invision-project-type.png)
+
+#### **4. Upload PNG files.**
+
+Select all your image files and drag them into InVision when prompted to. 
+
+![](/assets/lesson-5/invision-import.png)
+
+
+
+#### **5. Add Hotspots**
+
+1. Click on any of your page thumbnails in InVision, and select "View screen"
+2. From the bottom menu, select "Build Mode" 
+3. Click and drag anywhere on the screen to create **hotspots**—these will be clickable areas that act as links in the finished prototype. 
+4. For each hotspot, select a destination page from the menu.
+
+![](/assets/lesson-5/invision-buildmode.png)
+
+![](/assets/lesson-5/invision-hotspot-click.png)
+
+To save time, you can create **templates** while in Build mode. When adding a hotspot, you can check "Include hotspot in template"—and then when you open a new page, you an select a template from the top menu and the hotspots will be inserted automatically. This is best used for navigation menus, where the location of the links stays the same on each page. 
+
+![](/assets/lesson-5/invision-template-add.png)
+
+![](/assets/lesson-5/invision-tempalte-apply.png)
+
+#### 6. Get a public link
+
+When you've finished adding hotspots for all your pages in a layout, click the "Share" button in the lower right, and then click "public share link" to get a URL. You will submit this URL for each of your four layouts as part of the assignment.
+
+![](/assets/lesson-5/invision-share.png)
+
+
+
+
 
 ### Open Studio Submission
 
@@ -56,10 +113,10 @@ For each of the four prototypes, submit a screenshot of one page to Open Studio 
 After peer review and revisions, submit the following to Canvas:
 
 * Project files for mockups
-  * If using Adobe XD, zip your entire project folder containing any image assets. 
-  * If using InVision, you will have made mockups in Illustrator, so export a packaged Illustrator folder and zip that to submit. 
+  * From Illustrator: File &gt;&gt;&gt; Package
+  * Zip the exported folder for uploading
 * Four public sharing links for the prototypes.
-* Written Design Summary \(see template\)
+* Written Design Summary \(see template\) for both designs. You can combine your thoughts on the two designs or write two separate summaries. 
 
 \[INSERT SUBMISSION LINK\]
 
