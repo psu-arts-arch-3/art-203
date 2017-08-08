@@ -26,15 +26,11 @@ InVision offers free accounts, but they are limited to one active prototype at a
 
 Create a password and remember what it is; you'll use it to log in to the website to work on your prototypes.
 
-Another option for making prototypes in Adobe's new Experience Design \(Xd\) application. It's still in beta, but you can download it form the Creative Cloud app if you want to try it out. The main difference between Adobe Xd and InVision is that you make the whole mockup and prototype in Adobe Xd.  
-
-
+Another option for making prototypes in Adobe's new Experience Design \(Xd\) application. It's still in beta, but you can download it form the Creative Cloud app if you want to try it out. The main difference between Adobe Xd and InVision is that you make the whole mockup and prototype in Adobe Xd.
 
 ### InVision Lynda Tutorials
 
-You should be able to get by with the instructions below, but if you have any trouble, or want to learn more, you can check out the Lynda course [InVision for UX Design](https://www.lynda.com/InVision-tutorials/InVision-UX-Design/599633-2.html) \(it's pretty short\). 
-
-
+You should be able to get by with the instructions below, but if you have any trouble, or want to learn more, you can check out the Lynda course [InVision for UX Design](https://www.lynda.com/InVision-tutorials/InVision-UX-Design/599633-2.html) \(it's pretty short\).
 
 ### InVision Workflow
 
@@ -42,17 +38,13 @@ You should be able to get by with the instructions below, but if you have any tr
 
 You should follow the same format used for previous mockups. Create a mobile layout that is 320px wide and create a desktop layout that is 1280px wide. Once you create one page, you can duplicate the artboard and adjust the content for additional pages.  Remember to resize your artboards with the Artboard tool to accommodate  the content for each page. "Tall" pages with large height values will be scrollable when we import them into InVision.
 
- ![](/assets/lesson-5/illustrator-artboard-pages.png)
+![](/assets/lesson-5/illustrator-artboard-pages.png)
 
 Rename each artboard from "Artboard 1" to "home-page" or something to help you identify each page.
-
-
 
 #### **2. Export as PNG**
 
 Use the "Export for Screens" option to export each artboard as a separate PNG file. Make sure to save them somewhere sensible and stay organized. ![](/assets/lesson-5/illustrator-page-export.png)
-
-
 
 #### **3. Create InVision Project**
 
@@ -64,11 +56,9 @@ Use the "Export for Screens" option to export each artboard as a separate PNG fi
 
 #### **4. Upload PNG files.**
 
-Select all your image files and drag them into InVision when prompted to. 
+Select all your image files and drag them into InVision when prompted to.
 
 ![](/assets/lesson-5/invision-import.png)
-
-
 
 #### **5. Add Hotspots**
 
@@ -79,9 +69,11 @@ Select all your image files and drag them into InVision when prompted to.
 
 ![](/assets/lesson-5/invision-buildmode.png)
 
-![](/assets/lesson-5/invision-hotspot-click.png)
 
-To save time, you can create **templates** while in Build mode. When adding a hotspot, you can check "Include hotspot in template"—and then when you open a new page, you an select a template from the top menu and the hotspots will be inserted automatically. This is best used for navigation menus, where the location of the links stays the same on each page. 
+
+To save time, you can create **templates** while in Build mode. When adding a hotspot, you can check "Include hotspot in template"—and then when you open a new page, you an select a template from the top menu and the hotspots will be inserted automatically. This is best used for navigation menus, where the location of the links stays the same on each page.
+
+
 
 ![](/assets/lesson-5/invision-template-add.png)
 
@@ -92,10 +84,6 @@ To save time, you can create **templates** while in Build mode. When adding a ho
 When you've finished adding hotspots for all your pages in a layout, click the "Share" button in the lower right, and then click "public share link" to get a URL. You will submit this URL for each of your four layouts as part of the assignment.
 
 ![](/assets/lesson-5/invision-share.png)
-
-
-
-
 
 ### Open Studio Submission
 
