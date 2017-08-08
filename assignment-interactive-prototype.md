@@ -12,17 +12,38 @@ Prototypes are essentially the same as mockups we made in Illustrator, but allow
 
 Choose two of your design ideas from Exercise 2, and for each of them:
 
-* Design a mobile and desktop layout in Adobe Illustrator, including multiple pages.
-* Import the page mockups into InVision and add interactive links
-* Publish the prototype online using InVision's website. 
+* Design a mobile and desktop layout 
+* Create an interactive prototype with either Adobe Experience Design or Invision \(see below\)
+* Submit public sharing links for your four prototypes \(mobile and desktop layouts for two different designs\)
 
-### InVision
+### Choose a Prototype Platform
 
-### Alternative: Adobe Experience Design
+#### InVision
 
-### InVision Workflow
-
-### Submission
+#### Adobe Experience Design
 
 
+
+### Open Studio Submission
+
+You should end up with four separate prototypes:
+
+* Design One \(mobile\)
+* Design One \(desktop\)
+* Design Two \(mobile\)
+* Design Two \(desktop\)
+
+For each of the four prototypes, submit a screenshot of one page to Open Studio along with a public sharing link to view the prototype online.
+
+### Canvas Submission
+
+After peer review and revisions, submit the following to Canvas:
+
+* Project files for mockups
+  * If using Adobe XD, zip your entire project folder containing any image assets. 
+  * If using InVision, you will have made mockups in Illustrator, so export a packaged Illustrator folder and zip that to submit. 
+* Four public sharing links for the prototypes.
+* Written Design Summary \(see template\)
+
+\[INSERT SUBMISSION LINK\]
 
