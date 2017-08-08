@@ -20,9 +20,11 @@ Choose two of your design ideas from Exercise 2, and for each of them:
 
 #### InVision
 
+...
+
 #### Adobe Experience Design
 
-
+...
 
 ### Open Studio Submission
 
