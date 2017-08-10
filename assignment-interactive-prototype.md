@@ -12,9 +12,9 @@ Prototypes are essentially the same as mockups we made in Illustrator, but allow
 
 Choose two of your design ideas from Exercise 2, and for each of them:
 
-* Design a mobile and desktop layout in Illustrator
+* Create a 2D mockup in Illustrator for desktop screens \(1280px or 1920px wide\)
 * Create an interactive prototype with InVision \(see below\)
-* Submit public sharing links for your four prototypes \(mobile and desktop layouts for two different designs\)
+* Submit public sharing links for your two prototypes.
 
 ### Introducing InVision
 
@@ -36,7 +36,11 @@ You should be able to get by with the instructions below, but if you have any tr
 
 #### **1.Create mockups in Illustrator**
 
-You should follow the same format used for previous mockups. Create a mobile layout that is 320px wide and create a desktop layout that is 1280px wide. Once you create one page, you can duplicate the artboard and adjust the content for additional pages.  Remember to resize your artboards with the Artboard tool to accommodate  the content for each page. "Tall" pages with large height values will be scrollable when we import them into InVision.
+In order to save time, students won't be required to create mobile layouts for this assignment. It's still a good idea to think about your designs with a mobile-first approach. As you create content sections, imagine how they might stretch to fit small screens.  
+
+**Your desktop mockups should be 1280px wide.** Some templates recommend designing desktop layouts to be 1080px x 1920px, but most the content of most websites, maxes out around 1200px and additional browser area is usually just filled with empty space. Remember that web designers should design for all screen sizes, so 1280px is somewhat arbitrary, but helps keep things simple and consistent for our class. 
+
+Once you create one page, you can duplicate the artboard and adjust the content for additional pages.  Remember to resize your artboards with the Artboard tool to accommodate  the content for each page. "Tall" pages with large height values will be scrollable when we import them into InVision.
 
 ![](/assets/lesson-5/illustrator-artboard-pages.png)
 
@@ -48,9 +52,9 @@ Use the "Export for Screens" option to export each artboard as a separate PNG fi
 
 #### **3. Create InVision Project**
 
-1. Click the pink "+" button to create a new project
-2. Select "Prototype" 
-3. Select "Website" or ""iPhone/Android phone" depending on which mockup you want to do.
+1. Click the pink "+" button to create a new project.
+2. Select "Prototype." 
+3. Select "Website." 
 
 ![](/assets/lesson-5/invision-project.png)![](/assets/lesson-5/invision-project-type.png)
 
@@ -69,11 +73,7 @@ Select all your image files and drag them into InVision when prompted to.
 
 ![](/assets/lesson-5/invision-buildmode.png)
 
-
-
 To save time, you can create **templates** while in Build mode. When adding a hotspot, you can check "Include hotspot in template"—and then when you open a new page, you an select a template from the top menu and the hotspots will be inserted automatically. This is best used for navigation menus, where the location of the links stays the same on each page.
-
-
 
 ![](/assets/lesson-5/invision-template-add.png)
 
@@ -87,14 +87,9 @@ When you've finished adding hotspots for all your pages in a layout, click the "
 
 ### Open Studio Submission
 
-You should end up with four separate prototypes:
+You should end up with two functional prototypes.
 
-* Design One \(mobile\)
-* Design One \(desktop\)
-* Design Two \(mobile\)
-* Design Two \(desktop\)
-
-For each of the four prototypes, submit a screenshot of one page to Open Studio along with a public sharing link to view the prototype online.
+For each prototype, submit a screenshot of the home page to Open Studio along with a public sharing link to view the prototype online.
 
 ### Canvas Submission
 
@@ -103,7 +98,7 @@ After peer review and revisions, submit the following to Canvas:
 * Project files for mockups
   * From Illustrator: File &gt;&gt;&gt; Package
   * Zip the exported folder for uploading
-* Four public sharing links for the prototypes.
+* Two public sharing links for the prototypes.
 * Written Design Summary \(see template\) for both designs. You can combine your thoughts on the two designs or write two separate summaries. 
 
 \[INSERT SUBMISSION LINK\]
