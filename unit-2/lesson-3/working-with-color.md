@@ -1,14 +1,14 @@
-Color is one of the most familiar elements of design, and while most people are familiar with mixing paints and choosing a colors for their living rooms, it's takes a lot of work to develop a robust color sense. Good designers choose colors that communicated complex associations and work in a variety of different contexts. As web designers, our job is somewhat simpler, because we're only concerned with using colors on screens—so let's take a quick look at how screens and computers deal with color.
+Color is one of the most familiar elements of design, and while most people are familiar with mixing paints and choosing a colors for their living rooms, it's takes a lot of work to develop a robust color sense. Good designers choose colors that communicate complex associations and work in a variety of different contexts. As web designers, our job is somewhat simpler, because we're only concerned with using colors on screens—so let's take a quick look at how screens and computers deal with color.
 
 Humans perceive only a small section of of the light emitted by the sun, but if you've ever used a prism, you've observed how that light can be split into a rainbow of colors. Our eyes contain specialized cells—called cones—that are sensitive to specific wavelengths of light, which we perceive as different colors.
 
 ![](/assets/lesson-3/light-spectrum.png)
 
-Our eyes detect light primarily in terms of red, green, and blue \(a different type of cell is responsible for detecting light-dark values\) which our brains combine those colors to create millions of unique colors, and this is the same principle used by computer screens and televisions to emit light. In those cases, the process works backwards, starting with red, green, and blue \(RGB\) signals and using them to construct a final picture through emitted light. Here's an highly magnified image of a computer screen \(and [a fun video](https://www.youtube.com/watch?v=CEZApLSp3Ng)\), revealing individual pixels:
+Our eyes detect color primarily in terms of red, green, and blue; our brains combine those colors to create millions of unique colors, and this is the same principle used by computer screens and televisions to emit light. In those cases, the process works backwards, starting with red, green, and blue \(**RGB**\) signals and using them to construct a final picture through emitted light. Here's an highly magnified image of a computer screen \(and [a fun video](https://www.youtube.com/watch?v=CEZApLSp3Ng)\), revealing individual pixels:
 
 ![](/assets/lesson-3/pixels.jpg)
 
-Each pixel is actually made of three lights \(red, green, and blue\), and in this image you can see how other colors can be created by color mixing. Red and blue make magenta... blue and green make cyan... and red and green make _YELLOW!?_
+Notice that each pixel is actually made of three lights \(red, green, and blue\), and in this image you can see how other colors can be created by mixing colors. Red and blue make magenta... blue and green make cyan... and red and green make _YELLOW!?_
 
 Light does not follow the rules of color mixing you learned in painting class. In fact, there are two types of color mixing:
 
@@ -17,27 +17,23 @@ Light does not follow the rules of color mixing you learned in painting class. I
 
 ![](/assets/lesson-3/RGBvCMYK.jpg)
 
-When you create a new document in Illustrator \(or similar graphics software\) your document will be set to use either RGB or CMYK. This affects the range of colors available to the application \(called a **gamut**\), and the way the output file is encoded. **When making designs for the screen, always us RGB color mode**. You can select your color mode when creating a new document in Illustrator. 
+When you create a new document in Illustrator \(or similar graphics software\) your document will be set to use either RGB or CMYK. This affects the range of colors available to the application \(called a **gamut**\), and the way the output file is encoded. **When making designs for the screen, always us RGB color mode**. You can select your color mode when creating a new document in Illustrator.
 
 ![](/assets/lesson-3/illustrator-color-mode.png)
 
-If you ever need to change the color mode later, you can do so from the File menu. 
+If you ever need to change the color mode later, you can do so from the File menu.
 
 ![](/assets/lesson-3/illustrator-color-menu.png)
 
-
-
-If that's how our devices understand color, then how do we instruct them to produce the colors we want? Mostly, by providing a number value for each of those RGB pixels.
-
-You might also encounter a color mode called **sRGB**, which is helps compress the filesize of images by encoding them with fewer colors. This is a great way to make images load faster on websites, along with lowering the overall compression quality. This diagram shows a graph of all visible colors, with sections representing two color spaces: **Adobe RGB \(1998\)** and sRGB. See how sRGB offers fewer colors? 
+You might also encounter a color mode called **sRGB**, which is helps compress the filesize of images by encoding them with fewer colors. This is a great way to make images load faster on websites, along with lowering the overall compression quality \(learn more about how to optimize images in Photoshop in Lynda's course [Photoshop CC for Web Design, Ch. 8](https://www.lynda.com/Photoshop-tutorials/Optimizing-individual-images/145211/166635-4.html?autoplay=true)\) This diagram shows a graph of all visible colors, with sections representing two color spaces: **Adobe RGB \(1998\)** and sRGB. See how sRGB offers fewer colors?
 
 ![](/assets/lesson-3/rgb-vs-srgb.jpg)
 
-It may help to remember that the "s" in sRGB stands for "sucky" or another deprecating adjective beginning with "s." 
+It may help to remember that the "s" in sRGB stands for "sucky" or another deprecating adjective beginning with "s."
 
 **If you want quality, use RGB; if you want small file size, use sRGB. **
 
-Early web browsers like Mosaic and Netscape Navigator only supported 140 colors, which were identified by names like "orange" and "BlanchedAlmond." Those names are still accepted in modern CSS, and I tend to use them when experimenting with layouts when I just need some quick color choices.
+Early web browsers like [Mosaic](https://en.wikipedia.org/wiki/Mosaic_%28web_browser%29) and [Netscape Navigator](https://en.wikipedia.org/wiki/Netscape_Navigator) only supported [140 colors](https://www.w3schools.com/colors/colors_names.asp), which were identified by names like "orange" and "BlanchedAlmond." Those names are still accepted in modern CSS, and I tend to use them when experimenting with layouts when I just need some quick color choices. If you want a more refined color palette, you'll have to stop naming colors with words and start thinking like a computer.
 
 ### Hex-codes \(a.k.a. Hex Triplets\)
 
@@ -49,11 +45,11 @@ As screens and browsers grew more powerful, it became common for colors to be re
 
 This is another way of representing colors, that is a little more logical. You will frequently see colors represented in applications as RGB values from 0–255. You can represent colors with the syntax `rgb (255, 255, 255);` in CSS but the better option is RGBA. The A stands for "alpha" which is a digital term for transparency. That means that you can set the color of an element to be transparent!
 
-Like opacity, you do this with a value from 0–1. So the syntax is `rgba (255, 255, 255, 1.0);` for pure white or `rgba(186, 128, 216, 0.5);` for a 50% transparent lavender.
+Like opacity in CSS, you do this with a value from 0–1. So the syntax is `rgba (255, 255, 255, 1.0);` for pure white or `rgba(186, 128, 216, 0.5);` for a 50% transparent lavender.
 
 ### HSL/HSB
 
-The problem with the previous methods of color naming is that they are difficult to remember, \(unlike "BlanchedAlmond"\) and don't directly relate to the way humans think about color. A newer way of naming colors in CSS and other design contexts is Hue, Saturation, Lightness \(sometimes labeled Brightness\) or HSL \(or HSB\). The CSS is similar to RGBA in that each value receives a number, but these terms are much more familiar and useful for designers. HSL allows designers to look at a design and say: "That blue needs to be more saturated!"—which is difficult to do with hexcodes. This is _**big deal**_ for designers, and helps achieve more natural easily adjusted colors.
+The problem with the previous methods of color naming is that they are difficult to remember, \(unlike "BlanchedAlmond"\) and don't directly relate to the way humans think about color. A newer way of naming colors in CSS and other design contexts is Hue, Saturation, Lightness \(sometimes called Brightness\) or HSL \(or HSB\). The CSS is similar to RGBA in that each value receives a number, but these terms are much more familiar and useful for designers. HSL allows designers to look at a design and say: "That blue needs to be more saturated!"—which is difficult to do with hexcodes. This is _**big deal**_ for designers, and helps achieve more natural easily adjusted colors.
 
 ![](/assets/lesson-3/hsl.png)
 
