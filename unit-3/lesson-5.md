@@ -1,6 +1,17 @@
-## Ideation
+## Final Site
 
-This lesson will prepare students to build their final project website in Lesson 6. We will return to some of the tools and methods used in Unit 2, and add some additional techniques for developing a website. As with any creative work, your first idea is almost never the final solution; we will brainstorm a variety of ideas for the next website and begin outlining them as students assess the needs  and goals of their website.
+This lesson focuses on building the website developed in lesson 5. Students will use Adobe Muse to crate a multi-page site that meets the goals outlined in students' initial proposals. 
+
+This is an opportunity to practice all of the techniques and concepts we've covered in this course:
+
+* Human-friendly design—remember affordances and signifiers? 
+* Effective use of color
+* Unique, readable typography
+* Vector artwork and photos
+* Accessibility and SEO
+* CSS—Add in some custom CSS if you can't Muse to do what you want.
+
+Students should push their designs beyond what they accomplished in their first Muse site. Try some new tools and experiment! Just because we're making "professional" sites doesn't mean they have to look boring. 
 
 ### This lesson includes:
 
@@ -10,5 +21,5 @@ Exercise 2: Written Statements
 
 Assignment: Final website
 
-Blog: See prompt below. 
+Blog: See prompt below.
 
