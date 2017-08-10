@@ -17,7 +17,25 @@ Light does not follow the rules of color mixing you learned in painting class. I
 
 ![](/assets/lesson-3/RGBvCMYK.jpg)
 
+When you create a new document in Illustrator \(or similar graphics software\) your document will be set to use either RGB or CMYK. This affects the range of colors available to the application \(called a **gamut**\), and the way the output file is encoded. **When making designs for the screen, always us RGB color mode**. You can select your color mode when creating a new document in Illustrator. 
+
+![](/assets/lesson-3/illustrator-color-mode.png)
+
+If you ever need to change the color mode later, you can do so from the File menu. 
+
+![](/assets/lesson-3/illustrator-color-menu.png)
+
+
+
 If that's how our devices understand color, then how do we instruct them to produce the colors we want? Mostly, by providing a number value for each of those RGB pixels.
+
+You might also encounter a color mode called **sRGB**, which is helps compress the filesize of images by encoding them with fewer colors. This is a great way to make images load faster on websites, along with lowering the overall compression quality. This diagram shows a graph of all visible colors, with sections representing two color spaces: **Adobe RGB \(1998\)** and sRGB. See how sRGB offers fewer colors? 
+
+![](/assets/lesson-3/rgb-vs-srgb.jpg)
+
+It may help to remember that the "s" in sRGB stands for "sucky" or another deprecating adjective beginning with "s." 
+
+**If you want quality, use RGB; if you want small file size, use sRGB. **
 
 Early web browsers like Mosaic and Netscape Navigator only supported 140 colors, which were identified by names like "orange" and "BlanchedAlmond." Those names are still accepted in modern CSS, and I tend to use them when experimenting with layouts when I just need some quick color choices.
 
@@ -79,7 +97,7 @@ The **graphical user interface \(GUI\)** lets you click and drag to pick colors,
 
 All of these tools can help you brainstorm, but they are not a replacement for a human designer. Your color choices should always be selected according to the project at hand. What colors are necessitated by the design? What additional colors will help establish the proper mood or associations?
 
-Most of these tools are based around a palette of five colors—this is a good number to work with, but is not a requirement. Sometimes simpler is better, and a good site can work with just two or three colors. Or you might be working around a logo with a rainbow in it and incorporate 8 or more colors. Consider the functionality of your site; if users are completing a submission form, you probably want a success and failure message, which means you might include green \(success!\) and red \(failure!\) even if those colors don't appear in your main palette. 
+Most of these tools are based around a palette of five colors—this is a good number to work with, but is not a requirement. Sometimes simpler is better, and a good site can work with just two or three colors. Or you might be working around a logo with a rainbow in it and incorporate 8 or more colors. Consider the functionality of your site; if users are completing a submission form, you probably want a success and failure message, which means you might include green \(success!\) and red \(failure!\) even if those colors don't appear in your main palette.
 
 ### **Some guiding principles:**
 

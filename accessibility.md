@@ -56,13 +56,13 @@ There are bunch of Lynda videos about SEO—including [The 17 Minute SEO](https:
 
 #### Good Content
 
-Google has pretty sophisticated page-ranking algorithms at this point, and the best way to get your site to show up in search results is to publish original and unique content, and to keep publishing things to give the impression of an active site. An original name helps; if your business and website are called "John's Barbecue" is going to be tough to beat out the hundreds of similar websites, but it's possible if your content is the best. An easier route would be to call it something more unique. 
+Google has pretty sophisticated page-ranking algorithms at this point, and the best way to get your site to show up in search results is to publish original and unique content, and to keep publishing things to give the impression of an active site. An original name helps; if your business and website are called "John's Barbecue" is going to be tough to beat out the hundreds of similar websites, but it's possible if your content is the best. An easier route would be to call it something more unique.
 
-Add descriptive text too, even if it seems redundant or obvious. Make sure important keywords related to your site actually appear in the text. 
+Add descriptive text too, even if it seems redundant or obvious. Make sure important keywords related to your site actually appear in the text.
 
 #### Mobile Compatibility
 
-In it's quest to serve up the best websites, Google gives advantages to sites that are mobile friendly. We've previously covered  good approaches to responsive design, but if you're ever unsure, you can submit your URL to Google's [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) and receive feedback on how to improve your design. It's also always a good idea to test the site out on a mobile device yourself! 
+In it's quest to serve up the best websites, Google gives advantages to sites that are mobile friendly. We've previously covered  good approaches to responsive design, but if you're ever unsure, you can submit your URL to Google's [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) and receive feedback on how to improve your design. It's also always a good idea to test the site out on a mobile device yourself!
 
 #### Speed
 
@@ -70,25 +70,21 @@ Google also favors sites that load fast. You can check Google's [PageSpeed Insig
 
 #### Optimization
 
-This is a big component of making your site load quickly. Text takes up much, much less memory than images or videos. 
+This is a big component of making your site load quickly. Text takes up much, much less memory than images or videos.
 
 For images, if you're using a vector image created in Illustrator, the best solution is to save it as an SVG for use in web design. SVG's take up very little memory, but are best for simple artwork with flat colors. If you need to make your SVG's even smaller, you can upload them to[ SVGOMG ](https://jakearchibald.github.io/svgomg/)and download a compressed version.
 
-If you're working with photos, you'll have to save iamges as JPEG's. The best approach is to take a trip through Photoshop. Use "File &gt;&gt;&gt; Export &gt;&gt;&gt; Save for Web" to compress raster images, and adjust the "quality" setting as low as you can go without sacrificing the too much image quality \(I usually set the quality to 60\). You can watch a tutorial about this in the Lynda course: Photoshop CC for Web Design, Ch. 8, Optimizing individual images.
+If you're working with photos, you'll have to save iamges as JPEG's. The best approach is to take a trip through Photoshop. Use "File &gt;&gt;&gt; Export &gt;&gt;&gt; Save for Web" to compress raster images, and adjust the "quality" setting as low as you can go without sacrificing the too much image quality \(I usually set the quality to 60\). You can watch a tutorial about this in the Lynda course: Photoshop CC for Web Design, Ch. 8, [Optimizing individual images](https://www.lynda.com/Photoshop-tutorials/Optimizing-individual-images/145211/166635-4.html?autoplay=true).
 
-For raster images \(JPEG's and PNG's\) you should also check the image dimensions, as this can make a _huge _impact in the size of your file. If your image is 1920px wide but it's only displayed at 400px in your website, you can resize it in Photoshop \(Image &gt;&gt;&gt; Image Size\) to optimize your file size. For example, an image straight out of your camera might be 4000px wide and take up 4MB but an optimized web version could be 1000px wide and only take up 200kB \(that's twenty times smaller\). 
+For raster images \(JPEG's and PNG's\) you should also check the image dimensions, as this can make a \_huge \_impact in the size of your file. If your image is 1920px wide but it's only displayed at 400px in your website, you can resize it in Photoshop \(Image &gt;&gt;&gt; Image Size\) to optimize your file size. For example, an image straight out of your camera might be 4000px wide and take up 4MB but an optimized web version could be 1000px wide and only take up 200kB \(that's twenty times smaller\).
 
 #### Alt Text
 
-Remember alt text? It helps Google know what your images are showing! If your site has a bunch of pictures of coffee, but doesn't use the word "coffee" in enough of the site's text, you won't be ranked highly in searches for your favorite caffeinated beverage. 
+Remember alt text? It helps Google know what your images are showing! If your site has a bunch of pictures of coffee, but doesn't use the word "coffee" in enough of the site's text, you won't be ranked highly in searches for your favorite caffeinated beverage.
 
-#### File naming 
+#### File naming
 
 Hopefully you've been keeping your files organized all semester and using descriptive file names without any spaces—but if you haven't, know that it will hurt your SEO. This is important for images... make sure you use descriptive file names like "bunny-drinking-coffee.jpg" instead of "IMG\_07120417."
 
-Also make sure to use descriptive names for your actual web pages. If the contact page isn't called "contact.html" or something similar, it might not turn up when people search for it. 
-
-
-
-
+Also make sure to use descriptive names for your actual web pages. If the contact page isn't called "contact.html" or something similar, it might not turn up when people search for it.
 
