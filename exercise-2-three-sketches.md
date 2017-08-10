@@ -2,7 +2,7 @@ Complete this exercise after you have completed Exercise 1.
 
 Now that you have identified the needs and goals of your website, we will return to the research and brainstorming techniques we have used previously. But because your first idea is usually not your best, students will imagine three different designs for the website. It is a common practice for designers to to present multiple ideas to a client, and even when designing for your own projects, it is useful to experiment with different approached. You may end up picking and choosing elements from more than one of these designs.
 
-Imagine three different designs for your final site. Each design should be **dramatically different in style and layout**. See how your site would look with vertical scrolling or horizontal scrolling. Try out a dark background or a light background. Organic o geometric. If you have trouble thinking of a different approach, consider what the opposite of your current idea would be.
+Imagine **three different designs** for your final site. Each design should be **dramatically different in style and layout**. See how your site would look with vertical scrolling or horizontal scrolling. Try out a dark background or a light background. Organic o geometric. If you have trouble thinking of a different approach, consider what the opposite of your current idea would be.
 
 **For each design, create the following: **
 
