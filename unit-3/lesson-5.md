@@ -4,13 +4,11 @@ This lesson will prepare students to build their final project website in Lesson
 
 ### This lesson includes:
 
-Exercise 1: Proposal for final site
+Exercise 1: Template Page
 
-Exercise 2: Three sketches
+Exercise 2: Written Statements
 
-Assignment: Interactive Prototype
+Assignment: Final website
 
-
-
-There's no blog for this lesson, in order to allow students time to focus on developing their final website. 
+Blog: See prompt below. 
 
