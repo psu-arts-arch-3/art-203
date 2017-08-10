@@ -56,7 +56,7 @@
     * [Exercise 1: Final Proposal](exercise-1-final-proposal.md)
     * [Exercise 2: Three Sketches](exercise-2-three-sketches.md)
     * [Assignment: Interactive Prototype](assignment-interactive-prototype.md)
-  * Lesson 6
+  * [Lesson 6](unit-3/lesson-6.md)
     * [Exercise 1: Final Template](unit-3/exercise-1-final-template.md)
     * Exercise 2: Design Document
     * Assignment: Final Website

@@ -7,9 +7,10 @@ Imagine three different designs for your final site. Each design should be **dra
 **For each design, create the following: **
 
 * A brief written abstract that summarizes your approach.
-* A rough wireframe - sketched out or designed in Illustrator. 
-  * Label each of the main pages and mark how they are connected.
+* Sketches of each page. 
+  * Label each of the main pages and mark how they are connected \(essentially a basic wireframe\).
   * You don't have to include every single header and UI button, but include the essential sections and features, with enough labeling to help someone else understand your ideas.
+  * You can make physical drawings and scan them or create sketches in Illustrator/Photoshop.
 * Mood board \(at least five images\)
 * Color palette \(5 colors\)
 * Font Pair \(A header and body font\)
@@ -39,15 +40,11 @@ Because Illustrator can edit PDF's to some extent, when you save your .AI projec
 
 Note the different filename displayed in the tab for these Illustrator projects. After you "Save As" a PDF, your open window will become the PDF and not the original .AI file.
 
-
-
 ### Submit to Canvas
 
-Submit all of the items listed above for three separate design ideas. Organize and label your files clearly! 
+Submit all of the items listed above for three separate design ideas. Organize and label your files clearly!
 
-Either put all your materials in a single PDF as shown above, or sort them into three folders that you zip before uploading. 
+Either put all your materials in a single PDF as shown above, or sort them into three folders that you zip before uploading.
 
 \[INSERT SUBMISISON LINK\]
-
-
 

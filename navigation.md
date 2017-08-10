@@ -1,11 +1,10 @@
-  
 ![](blob:https://www.gitbook.com/769d4130-a6b8-4c1a-bded-728a8f6e7e54)
 
 If you watched Lynda's Muse Essential Training, you got a glimpse of how Muse handles site navigation. We'll eventually build our final sites in Muse, so you'll return to this screen, but it's also a nice visualization of how any site is laid out. This "roadmap" shows the**top level pages**\(featured in the**navigation menu**at the top of each page\), with**children pages**nested below.
 
 You're probably familiar with this layout from a lifetime browsing the web. But it's important to plan out the content of your site efficiently, and avoid having too many pages. Make sure that the content is laid out in a logical way, so users don't have any trouble finding information.
 
-Here's a sample hierarchy:
+Here's a sample hierarchy of pages:
 
 * About
 * Store
@@ -66,6 +65,5 @@ Some quick thoughts on navigation menus, which we haven't talked about much yet,
   [consider hamburger alternatives](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
   .
 
-![](blob:https://www.gitbook.com/496732b6-fd03-4d23-8aca-69630f8650bc)  
-
+![](blob:https://www.gitbook.com/496732b6-fd03-4d23-8aca-69630f8650bc)
 
