@@ -12,3 +12,5 @@ Assignment: Interactive Prototype
 
 
 
+There's no blog for this lesson, in order to allow students time to focus on developing their final website. 
+
