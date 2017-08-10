@@ -53,25 +53,31 @@ The problem with the previous methods of color naming is that they are difficult
 
 ![](/assets/lesson-3/hsl.png)
 
-The syntax is `hsl(360, 100, 100);` with hue accepting 0–360, and saturation and brightness accepting 0–100.
+The syntax is `hsl(360, 100%, 100%);` with hue accepting 0–360, and saturation and brightness accepting 0–100.
 
-You can also add alpha to control transparency: `hsla(360, 100, 100, 1.0);`
+You can also add alpha to control transparency: `hsla(360, 100%, 100%, 1.0);`
 
 ### Color Value
 
-One of the easiest ways to start improving your use of color, is to remember that every color has value. **Value **describes the brightness or light-dark relationships of the color. If you convert a photo to grayscale, you'll see which colors are brighter or darker. To make sure that your content is legible, keep value in mind when choosing your colors.
+One of the easiest ways to start improving your use of color, is to remember that every color has value. **Value **describes the brightness or light-dark relationships of the color \(it's the "L" in HSL\). If you convert a photo to grayscale, you'll see which colors are brighter or darker. To make sure that your content is legible, keep value in mind when choosing your colors.
 
 ![](/assets/lesson-3/color-value-3.png)
 
-In this example, both passages of text are blue, but even though blue seems like a very different color from the red used in the background, the bottom passage is a very similar **value**—so it's nearly impossible to read. Look at the top passage of text... is it a lighter or darker value than the background?
+In this example, both passages of text are blue, but even though "blue" seems like a very different color from the red used in the background, the bottom passage is a very similar _value_—so it's nearly impossible to read. Look at the top passage of text... is it a lighter or darker value than the background?
 
-This is important beyond text legibility, if you have two different colored sections of a website, consider that a contrast in value will make them stand apart more and increase the feeling separation between content. This sense of contrast is usually what people mean when they say that colors "pop."
+Make sure you can answer that question before continuing.
+
+...
+
+Congratulations! You're now a better designer than most people.
+
+This is important beyond text legibility, if you have two different colored sections of a website,  a contrast in value will make them stand apart more and increase the feeling separation between sections. This sense of contrast is usually what people mean when they say that colors "pop."
 
 ## Color Palettes
 
 So, that's how to define and use specific colors, but the real art of web design happens when you start combining colors. Colors are like musical notes, in that they immediately create relationships with other colors. As a designer, it's you job to compose a set of colors that makes the content legible, communicates specific moods and styles, and works in a variety of contexts.
 
-Most sites use a color palette—or limited set of colors—throughout the site. This is common practice among graphic designers and software developers too. The specific colors work with typography and graphics to create the brand of website or company. The red, green, yellow, and blue used in the Google logo are used throughout their app ecosystem and are instantly recognizable as a part of their **branding **\(i.e. consistent visual or thematic design used to control the perception of a company or project\).
+Most sites use a color palette \(a limited set of colors\) throughout the site. This is common practice among graphic designers and software developers too. The specific colors work with typography and graphics to create a recognizable** brand** for the website or company. The red, green, yellow, and blue used in the Google logo are used throughout their app ecosystem and are instantly recognizable as a part of their **branding **\(i.e. consistent visual or thematic design used to control the perception of a company or project\).
 
 ![](/assets/lesson-3/google-loader.gif)
 
@@ -100,7 +106,7 @@ Most of these tools are based around a palette of five colors—this is a good n
 * Choose a **main brand color** to focus your design around.
 * Include a** light color** \(white-ish\) and a **dark color** \(black-ish\).
 * Additional colors are usually most effective used as occasional **accent colors**. 
-* Choose colors that provide a variety of combinations \(e.g. light text on dark, dark text on light, can the main brand color used as a background?\)
+* Choose colors that provide a variety of combinations \(e.g. light text on dark, dark text on light, can the main brand color used as a background color?\)
 * Consider associations of your colors \(e.g. a website for a gardening club should probably involve green and/or brown\).
 
 The [Color Mind](http://colormind.io/) site does a nice job explaining the functions of a standard web palette \(i.e. brand color, light, dark, accent\), but there's one more rule:
