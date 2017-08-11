@@ -16,7 +16,7 @@ When creating your designs, it's good to consider what visual cues make sense wi
 
 While there are individual considerations for any site, there are also overarching trends and agreements about "what looks good" in modern web design. These trends change over time; for example, over the past ten years websites and apps have transitions from realistic [skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism) to [flat design.](http://www.creativebloq.com/graphic-design/what-flat-design-3132112)
 
-![](/assets/lesson-3/ios-evolution.png)
+![](/assets/lesson-3/ios-evolution.jpg)
 
 The following Lynda course focuses on the aesthetics of contemporary web design. We'll discuss a lot of these concepts throughout the course, and during peer reviews, but if you think that you don't have a good "design sense" or want to see how to create designs with a contemporary aesthetic, these videos will be very useful. 
 
