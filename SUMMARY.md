@@ -58,10 +58,8 @@
     * [Assignment: Interactive Prototype](assignment-interactive-prototype.md)
   * [Lesson 6](unit-3/lesson-6.md)
     * [Advanced Muse](unit-3/lesson-6/advanced-muse.md)
-    * Media and Copyright
+    * [Media and Copyright](unit-3/lesson-6/media-and-copyright.md)
     * Exercise 1: Master Page
     * Exercise 2: Written Statements
     * Assignment: Final Website
-
-
 
