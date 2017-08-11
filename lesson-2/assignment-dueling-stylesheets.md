@@ -87,7 +87,7 @@ You should also try out the **Live Preview** mode by pressing the Lighting Bolt 
 
 ![](/unit-1/lesson-2/land-page-ftp.png)
 
-When you're finished, use Filezilla to upload the files to the "www" section of your remote directory. You'll replace the existing index.html file with the one you just created; make sure to upload the css folder and it's contents to the same place.
+When you're finished, use Filezilla to upload the files to the "www" section of your remote directory. You'll replace the existing index.html file with the one you just created; make sure to upload the CSS folder and it's contents to the same place.
 
 \[INSERT SUBMISSION LINK\]
 
