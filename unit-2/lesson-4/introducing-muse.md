@@ -10,6 +10,8 @@ The final site is also a **static **website—which means you will have to edit 
 
 The advantage of Muse is that you can get really creative with the layout without having to figure out how to achieve your desired results via code.
 
+Watch the following Lynda courses to get started with Muse.
+
 ### Lynda course: [Muse Essential Training](https://www.lynda.com/Muse-tutorials/Muse-Essential-Training/532182-2.html)
 
 **Specific highlights **— I recommend watching the full course, but if you are strapped for time, these videos are some of the most essential:
