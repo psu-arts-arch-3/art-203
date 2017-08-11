@@ -47,9 +47,15 @@ After making changes to your project, you should collect all the assets listed b
 
 * Artist statement/Design Statement \(Lesson 6 Ex. 2\)
 
-* Muse Project 
+* Muse Project file and assets \(not the exported HTML files, but the file you used to create the website\)
 
-* Final website URL
+Make sure the files are clearly labeled and organized, and then zip the folder and upload it to Canvas. Include your website URL in the Canvas submission. 
+
+
+
+\[INSERT SUBMISSION LINK\]
+
+
 
 
 
