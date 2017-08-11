@@ -59,7 +59,7 @@
   * [Lesson 6](unit-3/lesson-6.md)
     * [Advanced Muse](unit-3/lesson-6/advanced-muse.md)
     * [Media and Copyright](unit-3/lesson-6/media-and-copyright.md)
-    * Exercise 1: Master Page
+    * [Exercise 1: Master Page](unit-3/lesson-6/exercise-1-master-page.md)
     * Exercise 2: Written Statements
     * Assignment: Final Website
 

@@ -2,7 +2,7 @@ If you're making a portfolio site, you will probably be using a lot of your own 
 
 ### Copyright
 
-According to the [United States Constitution](https://en.wikipedia.org/wiki/Copyright_Clause), the government has the power "_To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries."_
+According to the [United States Constitution](https://en.wikipedia.org/wiki/Copyright_Clause), the government has the power “_To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries.”_
 
 **Translation:** Authors and inventors \(and designers\) have exclusive ownership of anything they make for a limited time.
 
