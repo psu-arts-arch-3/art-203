@@ -33,7 +33,7 @@ Compared to your 2D mockup, a live website is interactive—which means you can 
 
 View tutorial videos on both of these features in Lynda's [Creating a One-Page Scrollable Website in Muse](https://www.lynda.com/Muse-tutorials/Creating-One-Page-Scrollable-Website-Muse/167919-2.html)
 
-### Publish for Peer Review
+### Submission for Peer Review
 
 Create a "lesson4" subdirectory in your PASS directory and upload your finished Muse site there when it is ready. You can use the built-in publishing feature in Muse or export as HTML and upload with Filezilla.
 

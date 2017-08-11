@@ -13,7 +13,25 @@ Use the Lynda courses listed throughout Unit 2 and 3 as reference for working wi
 
 * Design Aesthetics for the Web
 * Muse Essential Training
-* Designing a One-page Scrollable site with Muse
-* 
+* Designing a One-Page Scrollable site with Muse
+* Designing a Portfolio Site in Muse
+
+### Requirements for the final site
+
+* The final site must be published online through your remote PASS hosting.
+  * The URL should be:** http://personal.psu.edu/YourName/final/index.html**
+  * The folder named "final" should contain all of your HTML files along with the related assets exported from Muse. 
+* Your site must have at least five pages, including a designated home page. 
+
+* Each page must have a header, navigation menu, and footer. 
+
+* The site must contain at least five images and/or videos. 
+
+
+
+### Submission for Peer Review
+
+### Submission to Canvas
+
 
 
