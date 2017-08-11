@@ -19,19 +19,37 @@ Use the Lynda courses listed throughout Unit 2 and 3 as reference for working wi
 ### Requirements for the final site
 
 * The final site must be published online through your remote PASS hosting.
-  * The URL should be:** http://personal.psu.edu/YourName/final/index.html**
+  * The URL should be:** **[http://personal.psu.edu/YourName/final/index.html](http://personal.psu.edu/YourName/final/index.html)
   * The folder named "final" should contain all of your HTML files along with the related assets exported from Muse. 
-* Your site must have at least five pages, including a designated home page. 
+* Your site must have at least five pages, including a designated home page.
 
-* Each page must have a header, navigation menu, and footer. 
+* Each page must have a header, navigation menu, and footer.
 
-* The site must contain at least five images and/or videos. 
-
-
+* The site must contain at least five images and/or videos.
 
 ### Submission for Peer Review
 
+Publish your site online, either by using the publishing feature included in Muse, or by exporting the rendered HTML files and uploading them with Filezilla.
+
+Take a screenshot of your home page and post it to Open Studio along with the URL for your website.
+
+\[INSERT SUBMISSION LINK\]
+
 ### Submission to Canvas
+
+After making changes to your project, you should collect all the assets listed below into a single folder:
+
+* Initial written proposal  \(Lesson 5 Ex. 1\)
+* Three sketches: including mood board, color palette, etc. \(Lesson 5 Ex 2\)
+* Mockups—exported as packaged Illustrator folders \(Lesson 5 Assignment\)
+
+* Design Summary \(updated to include revisions\)
+
+* Artist statement/Design Statement \(Lesson 6 Ex. 2\)
+
+* Muse Project 
+
+* Final website URL
 
 
 
