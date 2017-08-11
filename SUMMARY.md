@@ -62,5 +62,8 @@
     * [Media and Copyright](unit-3/lesson-6/media-and-copyright.md)
     * [Exercise 1: Master Page](unit-3/lesson-6/exercise-1-master-page.md)
     * [Exercise 2: Written Statements](unit-3/lesson-6/exercise-2-written-statements.md)
+    * Blog
     * [Assignment: Final Website](unit-3/lesson-6/assignment-final-website.md)
+
+
 
