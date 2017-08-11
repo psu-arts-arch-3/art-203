@@ -35,9 +35,9 @@ View tutorial videos on both of these features in Lynda's [Creating a One-Page S
 
 ### Submission for Peer Review
 
-Create a "lesson4" subdirectory in your PASS directory and upload your finished Muse site there when it is ready. You can use the built-in publishing feature in Muse or export as HTML and upload with Filezilla.
+Create a "narrative" folder in your PASS directory and upload your finished Muse site there when it is ready. You can use the built-in publishing feature in Muse or export as HTML and upload with Filezilla.
 
-**The finished URL should be: **[http://personal.psu.edu/yourname/lesson4/index.html](http://personal.psu.edu/yourname/lesson4/index.html)
+**The finished URL should be: **http://personal.psu.edu/yourname/narrative/index.html
 
 ### Written Component
 
