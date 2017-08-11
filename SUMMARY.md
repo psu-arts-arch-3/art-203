@@ -57,10 +57,5 @@
     * [Exercise 2: Three Sketches](exercise-2-three-sketches.md)
     * [Assignment: Interactive Prototype](assignment-interactive-prototype.md)
   * [Lesson 6](unit-3/lesson-6.md)
-    * Advanced Muse
-  * * [Exercise 1: Final Template](unit-3/exercise-1-final-template.md)
-    * Exercise 2: Design Document
-    * Assignment: Final Website
-
-
+    * [Advanced Muse](unit-3/lesson-6/advanced-muse.md)
 
