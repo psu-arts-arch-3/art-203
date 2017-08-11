@@ -45,3 +45,15 @@ This is also helpful if you're not sure what to label certain parts of the site.
 
 \[INSERT SUBMISSION LINK\]
 
+
+
+### Blog
+
+Your blog prompt for this lesson is to post you artist statement/design philosophy to your Wordpress blog. Students will submit the blog post for peer review as we have done in the past, and comment on each other's posts in Open Studio. This will give you an opportunity to revise your statement before the end of the lesson. 
+
+Check the course schedule for the due dates.
+
+
+
+
+
