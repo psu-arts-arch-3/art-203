@@ -7,9 +7,13 @@ This is it—the final project!
 * Add hyperlinks, navigation menus, and other interactive content to create an functional user experience. 
 * Publish the site online using FTP.
 
-Review the Final Website Overview in Lesson 5 to refresh yourself on the premise of the website, but you should have a pretty good idea what you're doing by this point. 
+Review the Final Website Overview in Lesson 5 to refresh yourself on the premise of the website, but you should have a pretty good idea what you're doing by this point.
 
-Use the Lynda courses listed throughout Unit 2 and 3 as reference for working with Muse. 
+Use the Lynda courses listed throughout Unit 2 and 3 as reference for working with Muse. Have you watched all of the following courses?
 
+* Design Aesthetics for the Web
+* Muse Essential Training
+* Designing a One-page Scrollable site with Muse
+* 
 
 

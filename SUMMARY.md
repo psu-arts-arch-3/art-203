@@ -37,7 +37,7 @@
     * [Typography](unit-2/lesson-3/typography.md)
     * [Mood Boards](unit-2/lesson-3/mood-boards.md)
     * [Working with Color](unit-2/lesson-3/working-with-color.md)
-    * Design Aesthetics
+    * [Design Aesthetics](unit-2/lesson-3/design-aesthetics.md)
     * [Narrative Website](unit-2/lesson-3/narrative-website.md)
     * [Exercise 1: Narrative Research](unit-2/lesson-3/exercise-2-breakpoint-madness.md)
     * [Exercise 2: Wireframe in Illustrator](unit-2/lesson-3/exercise-2-wireframes-in-illustrator.md)
@@ -63,6 +63,4 @@
     * [Exercise 1: Master Page](unit-3/lesson-6/exercise-1-master-page.md)
     * [Exercise 2: Written Statements](unit-3/lesson-6/exercise-2-written-statements.md)
     * [Assignment: Final Website](unit-3/lesson-6/assignment-final-website.md)
-
-
 
