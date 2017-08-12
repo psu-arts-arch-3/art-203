@@ -52,7 +52,7 @@
 * [Unit 3](unit-3.md)
   * [Lesson 5](unit-3/lesson-5.md)
     * [Final Website Overview](unit-3/lesson-5/further-training.md)
-    * [Navigation](navigation.md)
+    * [Navigation](unit-3/lesson-5/navigation.md)
     * [Accessibility & SEO](accessibility.md)
     * [Exercise 1: Final Proposal](exercise-1-final-proposal.md)
     * [Exercise 2: Three Sketches](exercise-2-three-sketches.md)
