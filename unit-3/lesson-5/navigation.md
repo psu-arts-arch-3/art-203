@@ -1,4 +1,4 @@
-![](blob:https://www.gitbook.com/769d4130-a6b8-4c1a-bded-728a8f6e7e54)
+![](/assets/lesson-5/muse-page-layout.png)
 
 If you watched Lynda's Muse Essential Training, you got a glimpse of how Muse handles site navigation. We'll eventually build our final sites in Muse, so you'll return to this screen, but it's also a nice visualization of how any site is laid out. This "roadmap" shows the **top level pages**\(featured in the **navigation menu **at the top of each page\), with **children pages **nested below.
 
@@ -18,15 +18,15 @@ Here's a sample hierarchy of pages:
   * FAQ
   * Contact
 
-The design of children pages could be identical or unique. In this example, the children pages below "Store" would probably look identical expect for**metadata**like the item's name, cost, description, and an image. However the children pages below Support might look different... "FAQ" would probably have a big list of questions that users can click on, while "Contact" would have some sort of web form that users could fill out.
+The design of children pages could be identical or unique. In this example, the children pages below "Store" would probably look identical expect for **metadata **like the item's name, cost, description, and an image. However the children pages below Support might look different... "FAQ" would probably have a big list of questions that users can click on, while "Contact" would have some sort of web form that users could fill out.
 
 With a Content Management System \(CMS\) like Wordpress, you can just design a single page for "Store items" and let Wordpress dynamically fill in the metadata. Since Muse only makes static websites, you'll have to manually copy and paste the page and type in the metadata for items like this.
 
 Some navigation menus also show children pages in a submenu when you hover over the relevant parent page. This helps users go directly to the page they want without having to load interstitial pages, but it can be unwieldy if you have a lot of pages.
 
-![](blob:https://www.gitbook.com/30b0a91b-ec0a-4e01-bb49-0e68670dcfe5)
+![](/assets/lesson-5/nightmare-submenu-400.gif)
 
-This chaotic**flyout**submenu has some glitchy behavior, but the sheer number of pages is overwhelming and certainly doesn't make it easy for Pennsylvania residents to file their taxes.
+This chaotic **flyout **submenu has some glitchy behavior, but the sheer number of pages is overwhelming and certainly doesn't make it easy for Pennsylvania residents to file their taxes.
 
 ### Navigation Menus
 
@@ -41,7 +41,7 @@ Some quick thoughts on navigation menus, which we haven't talked about much yet,
   [Smashing Magazine](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
   on the debate, that argues for horizontal menus but still identifies some effective uses of vertical menus.
 
-![](blob:https://www.gitbook.com/36ad2e9f-f01b-4a6e-a3cf-b1b693fc07c9)
+![](/assets/lesson-5/menu-comparison.jpg)
 
 **Static or fixed?**
 
@@ -65,5 +65,5 @@ Some quick thoughts on navigation menus, which we haven't talked about much yet,
   [consider hamburger alternatives](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
   .
 
-![](blob:https://www.gitbook.com/496732b6-fd03-4d23-8aca-69630f8650bc)
+![](/assets/lesson-5/giphy-downsized.gif)
 
