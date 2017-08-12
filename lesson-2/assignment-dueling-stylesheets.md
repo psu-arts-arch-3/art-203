@@ -9,12 +9,14 @@ After completing Exercise 1 and 2 for this lesson, you should have a basic under
 
 ### Get the Template Files
 
-Download the sample HTML project.
+[Download the sample HTML project.](https://github.com/BenFictional/grid-template)
 
 1. Click the green "Clone or Download" button.
 2. Choose "Download Zip"
 3. Unzip the file on your computer by double-clicking. 
 4. Copy the contents of the "landing-page" folder to your local-directory folder.
+
+![](/assets/lesson-2/github-tut.png)
 
 The sample project includes one HTML file called "index.html" and a folder called "css" that contains "styles.css" and "grid.css"
 
