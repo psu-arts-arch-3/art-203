@@ -20,7 +20,7 @@ After completing Exercise 1 and 2 for this lesson, you should have a basic under
 
 The sample project includes one HTML file called "index.html" and a folder called "css" that contains "styles.css" and "grid.css"
 
-CSS properties can be included in the `<head>` section of a single html page, but it's common practice to place all the CSS in a separate file to keep things organized. For this template the properties governing the grid structure are placed in "grid.css"—which you shouldn't edit unless you are confident in your ability to create a new grid structure.
+CSS properties can be included in the `<head>` section of a single html page, but it's common practice to place all the CSS in a separate file to keep things organized. For this template the properties governing the grid structure are placed in "grid.css"—which you shouldn't edit.
 
 **Place your custom CSS for fonts, colors, etc. in "styles.css"**
 
@@ -34,7 +34,7 @@ Open the HTML file in a web browser and in Brackets, to examine the structure of
 
 Each section in the grid is made up of a **column** within a **row**. Try resizing the browser to see how the columns stretch to fit the size of your window.
 
-If you use the classes "row" and "column", each column will occupy **equal widths** to fit within the row: one column would be 12 sections wide, 2 columns would be 6 sections wide, 3 columns would be 4 sections wide, etc.
+Within a "row", if you add the class  "column" to a div, it will occupy **equal widths** to fit within the row: one column would be 12 sections wide, 2 columns would be 6 sections wide, 3 columns would be 4 sections wide, etc.
 
 ```
 <div class="row">
@@ -79,7 +79,7 @@ The **height **of any section can be defined in CSS with the `height` property, 
 
 ### Using Brackets
 
-You should use Brackets to edit the template files; just select Filer &gt;&gt;&gt; Open folder
+You should use Brackets to edit the template files; just select File &gt;&gt;&gt; Open folder
 
 Brackets has several features that will make your job easier. It automatically color-codes different properties to help you understand the code, and it offers prompts as you begin typing. For example, if I type `<div>` in an HTML file, it will automatically generate the closing `</div>` tag. Or if I type the letter "b" in a CSS file, it will suggest a variety of properties starting with that letter.
 
@@ -89,7 +89,7 @@ You should also try out the **Live Preview** mode by pressing the Lighting Bolt 
 
 ![](/unit-1/lesson-2/land-page-ftp.png)
 
-When you're finished, use Filezilla to upload the files to the "www" section of your remote directory. You'll replace the existing index.html file with the one you just created; make sure to upload the CSS folder and it's contents to the same place.
+When you're finished, use Filezilla to upload the files to the "www" section of your remote PSU directory. You'll replace the existing index.html file with the one you just created; make sure to upload the CSS folder and it's contents to the same place.
 
 \[INSERT SUBMISSION LINK\]
 
