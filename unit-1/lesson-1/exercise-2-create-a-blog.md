@@ -1,10 +1,10 @@
 Students will use their research blogs throughout the course, but for this exercise we're just interested in creating the blogs through PSU Sites.
 
-### **Exercise 1: **
+### Objectives
 
-1. **Create a website with PSU Sites**
-2. **Add an About Page**
-3. **Write a short blog post **
+1. Create a website with PSU Sites
+2. Add an About Page
+3. Write a short blog post 
 
 ---
 
@@ -15,7 +15,7 @@ Students will use their research blogs throughout the course, but for this exerc
 * Go to sites.psu.edu and click the big "Create a site" button on the homepage. 
 * Login with your PSU credentials.  
 * Fill out the following fields:
-  * Site Address refers to the URL for your site; whatever you enter will result in a URL like "http://sites.psu.edu/yourname"\). Only lowercase letters and numbers are allowed. 
+  * Site Address refers to the URL for your site; whatever you enter will result in a URL like "[http://sites.psu.edu/yourname"\](http://sites.psu.edu/yourname"\)\). Only lowercase letters and numbers are allowed. 
   * Site Title is the general name for your site; you probably want to enter the same thing you used for the Site Address, but you can call it whatever you want \(and you can change it later\). 
   * Privacy will determine if your site is promoted to search engine and public web listings \(this can also be changed later\). Choose whatever you like. 
 
@@ -48,7 +48,7 @@ The sections are fairly self-explanatory, but some of important things to note r
 
 Select "Appearance" from the sidebar and then choose "Themes."
 
-There are several hundred themes available to choose from, and each one will change the visual appearance of your site without altering the content \(e.g. posts, pages, text, images, etc.\) — and you can change your theme whenever you want.
+There are several hundred themes available to choose from, and each one will change the visual **appearance** of your site without altering the** content **\(e.g. posts, pages, text, images, etc.\) — and you can change your theme whenever you want.
 
 ![](/assets/wordpress/themes.png)
 
@@ -118,8 +118,6 @@ By default Posts are displayed on the homepage of your site. It's possible set u
 ![](/assets/wordpress/reading.png)
 
 By default the homepage displays "Your latest posts" but you can change it to a "static page" if you want. You can choose from any of your published pages—and then you'll have to set a different page to display your Posts \(e.g. a page called "Blog"\).
-
-
 
 \[INSERT SUBMISSION LINK\]
 
