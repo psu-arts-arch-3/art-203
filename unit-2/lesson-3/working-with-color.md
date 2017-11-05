@@ -59,7 +59,7 @@ You can also add alpha to control transparency: `hsla(360, 100%, 100%, 1.0);`
 
 ### Color Value
 
-One of the easiest ways to start improving your use of color, is to remember that every color has value. **Value **describes the brightness or light-dark relationships of the color \(it's the "L" in HSL\). If you convert a photo to grayscale, you'll see which colors are brighter or darker. To make sure that your content is legible, keep value in mind when choosing your colors.
+One of the easiest ways to start improving your use of color, is to remember that every color has value. **Value **describes the brightness, or light-dark relationships, of colors \(it's the "L" in HSL\). If you convert a photo to grayscale, you'll see which colors are brighter or darker. To make sure that your content is legible, keep value in mind when choosing your colors.
 
 ![](/assets/lesson-3/color-value-3.png)
 
@@ -71,7 +71,7 @@ Make sure you can answer that question before continuing.
 
 Congratulations! You're now a better designer than most people.
 
-This is important beyond text legibility, if you have two different colored sections of a website,  a contrast in value will make them stand apart more and increase the feeling separation between sections. This sense of contrast is usually what people mean when they say that colors "pop."
+This is important beyond text legibility, if you have two different colored sections of a website,  a **contrast** in value will make them stand apart more and increase the feeling separation between sections. This sense of contrast is usually what people mean when they say that colors "pop."
 
 ## Color Palettes
 
