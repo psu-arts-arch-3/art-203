@@ -25,20 +25,13 @@ Use the Artboard window to create additional artboards.
 
 ![](/assets/lesson-5/artboard-mockups.png)
 
-Add all of the various elements for each design. If you draw your sketches by hand you can scan them and insert them as images. Your sketches should be more detailed than these :\)
+Add all of the various elements for each design. If you draw your sketches by hand you can scan them and insert them as images. 
 
 To export all of your artboards as a single PDF:
 
 * 1. Save your project first.
-  2. File &gt;&gt;&gt; Save as &gt;&gt;&gt; Choose PDF as filetype. 
+  2. File &gt;&gt;&gt; Save as \(copy\) &gt;&gt;&gt; Choose PDF as filetype. 
   3. Click Okay in the PDF Export window
-  4. Close the Illustrator project.
-
-Because Illustrator can edit PDF's to some extent, when you save your .AI project as a PDF, your Illustrator window will switch over to editing the .PDF file—if you continue to edit the PDF file, when you hit "Save" you won't be updating your original .AI project. So just close out the PDF and reopen the .AI file if you want to keep working on it. Alternatively you can use File &gt;&gt;&gt; "Export for Screens" and export each artboard as a separate PDF, and then combine them in Adobe Acrobat. Neither solution is idealm, but that's how I've always done it.
-
-![](/assets/lesson-5/illustrator-file-type-warning.jpg)
-
-Note the different filename displayed in the tab for these Illustrator projects. After you "Save As" a PDF, your open window will become the PDF and not the original .AI file.
 
 ### Submit to Canvas
 
