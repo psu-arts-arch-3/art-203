@@ -23,6 +23,8 @@ A typical lesson contains:
 
 At the end of each unit there will be a short quiz \(10 points\) to review core terms and concepts.
 
+Total points: 215  \(may vary for some lessons\).
+
 ### Lesson Schedule
 
 Here is the basic flow of events for each lesson; for exact dates, please refer to the course syllabus. It is imperative that students submit work on time in order to allow for peer review and project development according to the planned schedule.
