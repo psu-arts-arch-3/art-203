@@ -1,7 +1,7 @@
 The final unit will focus on designing and developing a multi-page website based on either of the following prompts:
 
 1. A personal portfolio site \(showcasing your creative work\)
-2. A business or corporate site for a fictional group. 
+2. A business site for a fictional group. 
 
 If you know of a real business or group that needs a website, you may contact the instructor to discuss using that as the subject matter for the final website.
 
