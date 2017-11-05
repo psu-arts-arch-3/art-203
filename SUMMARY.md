@@ -7,6 +7,7 @@
   * [Communication](course-orientation/communication.md)
   * [Online Ecosystem](course-orientation/online-ecosystem.md)
   * [Submitting Assignments](course-orientation/submitting-assignments.md)
+  * Adobe Suite
   * [Lynda ](course-orientation/lynda.md)
   * [Policies](course-orientation/policies.md)
   * [Getting Help](course-orientation/getting-help.md)
@@ -64,4 +65,6 @@
     * [Exercise 2: Written Statements](unit-3/lesson-6/exercise-2-written-statements.md)
     * [Blog](unit-3/lesson-6/blog.md)
     * [Assignment: Final Website](unit-3/lesson-6/assignment-final-website.md)
+
+
 
