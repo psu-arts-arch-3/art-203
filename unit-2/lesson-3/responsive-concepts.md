@@ -20,49 +20,47 @@ This example showcases several of the terms mentioned at the beginning:
 
 **Fluid**: The content uses percentage-based dimensions to stretch with the size of the screen.
 
-**Adaptive**: At certain screen sizes, the content actually changes its layout entirely \(in this case, the list of days shifts from a row to a column\).
+**Adaptive**: At certain screen sizes, the content actually changes its layout entirely \(in this case, the list of days shifts from a horizontal row to a vertical column\).
 
 **Responsive:** A combination of fluid and adaptive properties optimized for making the content look good across devices and screen sizes.
 
-Websites today need to look good on any device. In the 1990's, most screens displayed somewhere from 640-1040px wide, but today's websites need to work on a variety of screen sizes:
+In the 1990's, most screens were somewhere between 640-1040px wide, but today's websites need to work on a variety of screen sizes. Here are some general sizes for different screens:
 
 _**NOTE: **These pixel values are somewhat arbitrary._
 
-#### Mobile \(&lt;600px wide\)
+#### Small/Mobile \(&lt;600px wide\)
 
-While many new phone screens are full HD \(1920px x 1080px\), if they rendered text with the same em height at an HD computer screen, the text would be incredibly tiny. For example, the iPhone 6 renders web browsers at 375px x 559px \(more details on [iphone screen sizes](http://www.kylejlarson.com/blog/iphone-6-screen-size-web-design-tips/)\)
+While many new phone screens are full HD \(1920px x 1080px\), if they rendered text at the same scale as an HD computer screen, the text would be incredibly tiny. For example, the iPhone 6 renders web browsers at 375px x 559px \(more details on [iphone screen sizes](http://www.kylejlarson.com/blog/iphone-6-screen-size-web-design-tips/)\)
 
-#### Tablet \(~700–1000px\)
+#### Medium/Tablet \(~700–1000px\)
 
 Intermediary screen sizes get a lot of use, and some people opt for a category between mobile and tablets \(called "phablets"\). Websites will frequently be displayed in this range of laptops and desktops too, since many people don't maximize their web browsers to fill the entire screen.
 
-#### Desktop \(~1000–1920px\)
+#### Large/Desktop \(~1000–1920px\)
 
 HD video is 1920px x 1080px, and that's a common size for computer screens and televisions, so this is usually a good number to think about as a maximum screen size \(such as when creating images to be used as backgrounds\).
 
 #### Extra Large \(&gt;1920px\)
 
-The rise of 4K video \(3840px x 2160px\) has paved the way for even larger screens, sometimes labeled as Ultra-High Definition \(UHD\). Apple's Retina displays aren't quite this large, but they are larger than HD, however most people keep their displays scaled down to HD or smaller to keep text large enough to read. I usually work with HD as a target size, but if you think people will look at your site on UHD screens, then include some extra high-res images.
+The rise of 4K video \(3840px x 2160px\) has paved the way for even larger screens, sometimes labeled as Ultra-High Definition \(UHD\). Most of Apple's Retina displays aren't quite this large, but they are larger than HD, however most people keep their displays scaled down to HD or smaller to keep text large enough to read. I usually work with HD as a target size, but if you think people will look at your site on UHD screens, then include some extra high-res images.
 
 ## Mobile-first
 
 In addition to screen size, the popularity of smartphones means that websites need to load _fast_. Users frequently access websites over cellular networks with limited bandwidth, so including data-heavy assets like images, videos, and plugins can really slow down a site's performance.
 
-In order to deliver content as fast as possible, most websites aim to deliver optimized content specifically for mobile users... and then if a user is on a larger screen \(usually signifying that they're on a computer and a proper WIFI connection, then the website will serve up larger images and extra content. This approach is called **mobile-first**, and also implies that the design for the website** begins with mobile-users in mind,** and then expands—as opposed to beginning a design with desktop site, and then removing elements to make it fit on a smartphone.
+In order to deliver content as fast as possible, most websites aim to deliver optimized content specifically for mobile users... and then if a user is on a larger screen \(usually signifying that they're on a computer and a proper WIFI connection, then the website will serve up larger images and extra content. This approach is called **mobile-first**, and also implies that the design for the website** begins with mobile-users in mind,** and then expands—as opposed to designing for a desktop site first, and then removing elements to make it fit on a smartphone.
 
-#### The mobile-first approach forces the designer to identify the simplest, most essential aspects of the content.
-
-Keep that in mind with our upcoming projects.
+#### _The mobile-first approach forces the designer to identify the simplest, most essential aspects of the content._
 
 One of the main ways that designers restrict content depending on screen size is by using **media-queries**—which we'll get to in a second—but a website might also present different content depending on a user's browser, location, or installed applications.
 
-**Check out **[**clickclickclick.click**](https://clickclickclick.click/#0ceb8962712a9ca28de290b4264c72da)** **for a weird and wonderful look at the type of information transmitted by your web browser.
+**Check out **[**clickclickclick.click**](https://clickclickclick.click)** **for a weird and wonderful look at the type of information transmitted by your web browser.
 
 ## Media Queries
 
 Media queries are a CSS element that lets you target specific screen sizes, just as you might target specific classes or id's. Pretty much all platforms for web development use media queries, so whether you're coding a site from scratch, or using Wordpress, Squarespace, or Muse, it's important to understand the concept.
 
-Here's the syntax:
+Here's the CSS syntax:
 
 ```
 @media only screen and (min-width: 480px) {
