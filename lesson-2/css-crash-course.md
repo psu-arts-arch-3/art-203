@@ -20,7 +20,7 @@ This is a very simple example, but it demonstrates the formatting for CSS:
 
 1. Set a target selector
 2. Add curly brackets `{ }`
-3. Within the brackets: specify a property, followed by a colon `:` , a value, and a semi-colon `; `
+3. Within the brackets: specify a property, followed by a colon `:` , a value, and a semi-colon `;`
 
 **Pro Tip: **_Never forget the semi-colon._
 
@@ -32,11 +32,13 @@ EMBED CODE PEN: [https://codepen.io/BenFictional/pen/RVzKNd](https://codepen.io/
 
 In the HTML for each paragraph, I specified a class; in the CSS, I can assign properties to anything with that class. You can also assign ID's for an element, but unlike classes, ID's can only be used for one specific element.
 
-While you can name elements whatever you want, it's important to spell everything correctly. Use a standard naming convention and syntax to stay organized.
+While you can name elements whatever you want, it's important to spell everything correctly. Use a consistent naming convention and syntax to stay organized.
 
 There are _a lot_ of CSS properties, and they function in complex and inter-connected ways, so we'll just go over some basic ones that are relevant to the upcoming assignment. For reference, here is a [longer list of CSS properties](https://cdn.makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg) to play with.
 
-An invaluable resource for working with CSS is the [World Wide Web Consortium ](https://www.w3schools.com/)—if you Google any of the following properties, the first result will probably be the relevant W3 page listing all possible values with examples. And for more thorough tutorials, I still recommend [Interneting is Hard. ](https://internetingishard.com/html-and-css/)
+An invaluable resource for working with CSS is the [World Wide Web Consortium ](https://www.w3schools.com/)—if you Google any of the following properties, the first result will probably be the relevant W3 page listing all possible values with examples. And for more thorough tutorials...
+
+#### CSS Tutorials:  [Interneting is Hard. ](https://internetingishard.com/html-and-css/)
 
 _**Don't panic! You can skim this page and come back to it when you start working on upcoming assignment. **_
 
@@ -124,7 +126,7 @@ Many of the properties above take number values, and while a number without a un
 
 **Font Size** \(e.g. "2em"\) sets dimensions based on the size of a text character \(1em\). This is a little more advanced, but is frequently used by designers as a slightly more dynamic value than pixels.
 
-Here's a demo to help visualize these different units:
+Here's a demo to help visualize these different units—try resizing the browser:
 
 EMBED CODE PEN: [https://codepen.io/BenFictional/pen/GmVBZz](https://codepen.io/BenFictional/pen/GmVBZz)
 
