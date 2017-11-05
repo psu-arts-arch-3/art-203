@@ -4,7 +4,7 @@ In order to develop a final design, we will use Illustrator to create a 2D mocku
 
 ### Objectives
 
-* Create a lively and unique design using only text.
+* Create a lively and unique design using only text and background colors.
 * Practice working with a 12 column grid layout.
 * Create a 2D mockup in Illustrator as a basis for a future web page.
 
@@ -67,7 +67,7 @@ The HTML template we're going to use for the assignment handles this by arrangin
 
 **Remember: **You're designing on a grid of columns, but each column is contained within a row. Which means it will be tricky to make a big vertical column, while it will be easy to make a big horizontal row. Luckily we usually read text horizontally.
 
-Landing pages are usually composed like a big rectangular painting, and they keep all the content on screen at once. In design terms, this is called keeping the content **above the fold**. It's a term inherited from newspaper design, but now refers to everything at the top of the page \(that you don't have to scroll to see\). This is traditionally the most valuable real-estate in a design, but many designers are challenging that rule by creating sites that [encourage scrolling as a act of discovery](http://iampaddy.com/lifebelow600/). 
+Landing pages are usually composed like a big rectangular painting, and they keep all the content on screen at once. In design terms, this is called keeping the content **above the fold**. It's a term inherited from newspaper design, but now refers to everything at the top of the page \(that you don't have to scroll to see\). This is traditionally the most valuable real-estate in a design, but many designers are challenging that rule by creating sites that [encourage scrolling as a act of discovery](http://iampaddy.com/lifebelow600/).
 
 If you want to create a tall design that users scroll through, you can resize your **Artboard** in Illustartor with the[ Artboard tool.](https://helpx.adobe.com/illustrator/using/using-multiple-artboards.html)
 
