@@ -5,7 +5,7 @@ If you haven't taken a lot of art and design courses, you might get some of the 
 * Aesthetics — The branch of philosophy describing beauty and perception 
 * Aesthetic — A set of principles defining beauty, according to a particular person or culture \(e.g. "steampunk"\)
 * Style — A particular appearance or character. \(e.g. "cartoonish"\) 
-* Genre — A class or category of artistic work. \(e.g. "noir"\)
+* Genre — A class or category of artistic work. \(e.g. "horror"\)
 * Mood — A distinctive emotional character \(e.g. "mysterious"\)
 
 These words are sometimes used interchangeably to describe to overall appearance of a piece of art or design, but you understand how each one relates to a given work.
@@ -14,15 +14,11 @@ Web design shares many visual styles and motifs with graphic design and related 
 
 When creating your designs, it's good to consider what visual cues make sense with your content. For example a website for a homemade furniture company might have a rustic appearance with images of wood grain and blocky typography—but that style of website would feel totally out of place if applied to a virtual reality startup.
 
-While there are individual considerations for any site, there are also overarching trends and agreements about "what looks good" in modern web design. These trends change over time; for example, over the past ten years websites and apps have transitions from realistic [skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism) to [flat design.](http://www.creativebloq.com/graphic-design/what-flat-design-3132112) I highly recommend reading up on those terms if you're not familiar with them.
-
-
+While there are individual considerations for any site, there are also overarching trends and agreements about "what looks good" in modern web design. These trends change over time; for example, over the past ten years websites and apps have transitioned from realistic [skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism) to [flat design.](http://www.creativebloq.com/graphic-design/what-flat-design-3132112) I highly recommend reading up on those terms if you're not familiar with them.
 
 ![](/assets/lesson-3/ios-evolution.jpg)
 
-
-
-**TLDR: **Skeuomorphism is a design aesthetic that mimics the appearance of real materials and textures, which became popular with the rise of touch screens when people were really excited about gesture-based UI, but as the screen sizes of mobile devices grew more varied, designers learned that it was easier to use simple vector artwork that could easily stretch and adapt to different sizes, which coincidently made designs simpler and more minimal in appearance and helped users understand increasingly complex interfaces; but despite that, there are still instances where it's exciting and logical to use skeuomorphic design to imitate real materials, you just have to be careful not make your design look dated and retro. 
+**TLDR: **Skeuomorphism is a design aesthetic that mimics the appearance of real materials and textures, which became popular with the rise of touch screens when people were really excited about gesture-based UI, but as the screen sizes of mobile devices grew more varied, designers learned that it was easier to use simple vector artwork that could easily stretch and adapt to different sizes, which coincidently made designs simpler and more minimal in appearance and helped users understand increasingly complex interfaces; but despite that, there are still instances where it's exciting and logical to use skeuomorphic design to imitate real materials, you just have to be careful not make your design look dated and retro.
 
 The following Lynda course focuses on the aesthetics of contemporary web design. We'll discuss a lot of these concepts throughout the course, and during peer reviews, but if you think that you don't have a good "design sense" or want to see how to create designs with a contemporary aesthetic, these videos will be very useful.
 
