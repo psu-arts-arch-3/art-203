@@ -28,18 +28,13 @@ The landing page should include a variety of text, arranged to create an interes
 
 ### Illustrator Setup
 
-1. Create a new Illustrator project using the "Web" template \(1280px x 1024px\). 
-2. Create a rectangle using the Rectangle tool \(M\) and adjust it so that it fills the artboard exactly. 
-3. Select the rectangle with the Selection tool \(V\)
-4. While it's selected, choose Object &gt;&gt;&gt; Path &gt;&gt;&gt; Split into Grid
-5. In the pop-up window, create 1 row and 12 columns; this will split your rectangle into 12 sections.
-6. While all the shapes are still selected, choose View &gt;&gt;&gt; Guides &gt;&gt;&gt; Make Guides. 
-   1. * If you accidentally deselected them, select all with ⌘+A \(Mac\) or CTRL+A \(Windows\). 
-7. Your shapes should have been transformed into thin cyan lines! These are guides. 
-   1. * Use guides to help keep your design based within a grid system.
-      * Under View &gt;&gt;&gt; Guides, you can toggle guides on and off, or lock/unlock them.
-      * The keyboard shortcut for toggling guides is ⌘+; \(CTRL+; for Windows\).
-      * When guides are locked, you can't select them. Keep them locked for this assignment. 
+Download this [template file](https://psu.box.com/s/ykklw5grg85wlu05vahf7b8l2xxtnc3q) to use for your mockup.
+
+The Illustrator template includes **Guides** that you can use to align shapes and text to a 12 column grid. The guides appear as thin cyan lines. They won't appear in your finished artwork, and you can adjust their behavior as follows:
+
+* Under View &gt;&gt;&gt; Guides, you can toggle guides on and off, or lock/unlock them.
+* The keyboard shortcut for toggling guides is ⌘+; \(CTRL+; for Windows\).
+* When guides are locked, you can't select them. Keep them locked for this assignment. 
 
 ### Adding Text
 
@@ -56,7 +51,7 @@ To bring up a full color picker, double click on the color swatch at the bottom 
 
 Illustrator can access any fonts on your computer, but when we create the final website for this assignment, we will will need to supply any custom fonts besides the core [web-safe fonts](https://www.w3schools.com/cssref/css_websafe_fonts.asp). In order to make that process as easy as possible....
 
-#### Only use custom fonts from [Google Fonts](https://fonts.google.com).
+# _Only use fonts from _[_Google Fonts_](https://fonts.google.com)_._
 
 **How to download Google Fonts:** Click the + button to select one or more fonts. Then click the black bar to view your fonts, and click the download button. Double-click the downloaded font files to install them.
 
@@ -72,9 +67,9 @@ The HTML template we're going to use for the assignment handles this by arrangin
 
 **Remember: **You're designing on a grid of columns, but each column is contained within a row. Which means it will be tricky to make a big vertical column, while it will be easy to make a big horizontal row. Luckily we usually read text horizontally.
 
-Landing pages are usually composed like a big rectangular painting, and they keep all the content on screen at once. In design terms, this is called keeping the content **above the fold**. It's a term inherited from newspaper design, but now refers to everything at the top of the page \(that you don't have to scroll to see\). This is traditionally the most valuable real-estate in a design, but many designers are challenging that rule by creating sites that [encourage scrolling as a act of discovery](http://iampaddy.com/lifebelow600/). But as a quick welcome page to your web space, these landing pages should probably not  be super long. So try to keep everything above the fold.
+Landing pages are usually composed like a big rectangular painting, and they keep all the content on screen at once. In design terms, this is called keeping the content **above the fold**. It's a term inherited from newspaper design, but now refers to everything at the top of the page \(that you don't have to scroll to see\). This is traditionally the most valuable real-estate in a design, but many designers are challenging that rule by creating sites that [encourage scrolling as a act of discovery](http://iampaddy.com/lifebelow600/). 
 
-**Note: **If you really want to create a tall design that users scroll through, you can resize your artboard in Illustartor with the Artboard tool. 
+If you want to create a tall design that users scroll through, you can resize your **Artboard** in Illustartor with the[ Artboard tool.](https://helpx.adobe.com/illustrator/using/using-multiple-artboards.html)
 
 ![](/unit-1/lesson-2/fold-demo.png)
 
