@@ -8,7 +8,9 @@ This workflow allows designers and developers to specialize in their areas, and 
 
 Hyper Text Markup Language \(HTML\) isn't really programing—in the same way that languages like Java or C are—because HTML doesn't deal with logic and interaction in any complex sense. But like those programming languages, it's important to remember that HTML is text—_only text._ Which means that every webpage you visit \(including this one\) is a pretty visual display created by text.
 
-While this course focuses on the overall design of web content, we will be doing one assignment involving a bit of HTML, and even applications like Wordpress allow you to edit some raw HTML, so it's very useful to learn the basics. If you're totally new to HTML and CSS, I recommend the fabulous [Interneting is Hard](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#) for further learning.
+While this course focuses on the overall design of web content, we will be doing one assignment involving a bit of HTML, and even applications like Wordpress allow you to edit some raw HTML, so it's very useful to learn the basics. If you're totally new to HTML and CSS, here is a great tutorial:
+
+#### [Interneting is Hard](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#) — a beginner's guide to HTML
 
 ### Syntax
 
@@ -37,7 +39,7 @@ Here's a very basic template for an HTML file, including a couple standard decla
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Page Title</title>
+        <title>Some Title</title>
     </head>
     <body>
         <p> Some content </p>
@@ -87,7 +89,7 @@ The **alt text** and **image title** are not necessary, but can be included to p
 
 #### HTML5
 
-The fifth worldwide update to HTML \(launched in 2014\) introduced a number of new elements designed to help organize page content. These all function the same as a `<div>` but they have more unique names so anyone reading your code can more easily figure out what you're up to. These sections are ubiquitous, and will help you think about organizing content even if you're not coding from scratch. 
+The fifth worldwide update to HTML \(launched in 2014\) introduced a number of new elements designed to help organize page content. These all function the same as a `<div>` but they have more unique names so anyone reading your code can more easily figure out what you're up to. These sections are ubiquitous, and will help you think about organizing content even if you're not coding from scratch.
 
 `<header>` The top section of a webpage.
 
