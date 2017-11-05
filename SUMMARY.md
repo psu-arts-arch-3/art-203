@@ -7,7 +7,7 @@
   * [Communication](course-orientation/communication.md)
   * [Online Ecosystem](course-orientation/online-ecosystem.md)
   * [Submitting Assignments](course-orientation/submitting-assignments.md)
-  * [Adobe ](course-orientation/adobe-suite.md)Creative Cloud
+  * [Adobe Creative Cloud ](course-orientation/adobe-suite.md)
   * [Lynda ](course-orientation/lynda.md)
   * [Policies](course-orientation/policies.md)
   * [Getting Help](course-orientation/getting-help.md)
