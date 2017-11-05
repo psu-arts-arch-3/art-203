@@ -26,7 +26,7 @@ Some navigation menus also show children pages in a submenu when you hover over 
 
 ![](/assets/lesson-5/nightmare-submenu-400.gif)
 
-This chaotic **flyout **submenu has some glitchy behavior, but the sheer number of pages is overwhelming and certainly doesn't make it easy for Pennsylvania residents to file their taxes.
+This hilariously bad **flyout **submenu has some glitchy behavior, but the sheer number of pages is overwhelming and certainly doesn't make it easy for Pennsylvania residents to file their taxes.
 
 ### Navigation Menus
 
@@ -37,9 +37,7 @@ Some quick thoughts on navigation menus, which we haven't talked about much yet,
 * Most sites arrange navigation links in a horizontal row at the top of the page, but you will also see sites stack the links in a vertical column, usually located on the left side of the screen.
 * Vertical nav menus make it easier to add more links in the future
 * Most people scan websites from top to bottom, and are less likely to look at side navigation menus.
-* Here's an interesting article from
-  [Smashing Magazine](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
-  on the debate, that argues for horizontal menus but still identifies some effective uses of vertical menus.
+* Here's an interesting article from [Smashing Magazine](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#) on the debate, that argues for horizontal menus but still identifies some effective uses of vertical menus.
 
 ![](/assets/lesson-5/menu-comparison.jpg)
 
@@ -59,10 +57,7 @@ Some quick thoughts on navigation menus, which we haven't talked about much yet,
 
 * Unless a site only has a few top level pages, the nav menu will need to adapt to fit on smaller screens.
 * The typical solution is to use an icon \(three horizontal lines a.k.a. a "hamburger"\) to show/hide the nav menu.
-* Here are some
-  [alternative methods](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
-  for mobile nav menus, and some reasons to
-  [consider hamburger alternatives](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
+* Here are some [alternative methods](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#) for mobile nav menus, and some reasons to [consider hamburger alternatives](https://www.gitbook.com/book/psu-arts-arch/dart-203/edit#)
   .
 
 ![](/assets/lesson-5/giphy-downsized.gif)
