@@ -25,7 +25,7 @@ Use the Artboard window to create additional artboards.
 
 ![](/assets/lesson-5/artboard-mockups.png)
 
-Add all of the various elements for each design. If you draw your sketches by hand you can scan them and insert them as images. 
+Add all of the various elements for each design. If you draw your sketches by hand you can scan them and insert them as images.
 
 To export all of your artboards as a single PDF:
 
@@ -37,7 +37,7 @@ To export all of your artboards as a single PDF:
 
 Submit all of the items listed above for three separate design ideas. Organize and label your files clearly!
 
-Either put all your materials in a single PDF as shown above, or sort them into three folders that you zip before uploading.
+Either put all your materials in a single PDF, or sort them into three folders that you zip before uploading.
 
 \[INSERT SUBMISISON LINK\]
 
