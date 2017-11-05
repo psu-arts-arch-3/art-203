@@ -8,9 +8,9 @@ You may have already created some original graphics for your narrative site whil
 
 ### Requirements
 
-* Design a vector icon or illustration in Adobe Illustrator
-* Include vector graphic in your website
-* Set a graphic as a favicon for your site in Muse
+* Design a vector icon or illustration in Adobe Illustrator.
+* Include the vector graphic in your website.
+* Set a graphic as a favicon for your site in Muse.
 
 You can use the same image for inclusion in your site and the favicon, or you can make two different vector images if your idea for a favicon doesn't make sense to include in the actual content of your site.
 
@@ -20,13 +20,13 @@ A [favicon](https://en.wikipedia.org/wiki/Favicon) is the small graphic displaye
 
 Favicons were originally designed to be shown in the bookmarks menu of Internet Explorer in 1999, showing a users' "favorite" sites. Originally favicons had to be 16px x 16px images located in a site's root folder, and they had to be called "favicon.ico" using an obscure file format.
 
-Today most favicons are 32px x 32px PNG images, and the don't have to be stored in the root folder. Many sites also include larger "Touch-icons" for use in certain contexts on mobile devices.
+Today most favicons are 32px x 32px PNG images, and they don't have to be stored in the root folder. Many sites also include larger "Touch-icons" for use in certain contexts on mobile devices.
 
 Muse makes it very easy to set a favicon for your site, but if you ever want to set up a favicon in another development platform, here is a [thorough guide for all your icon needs.](https://css-tricks.com/favicon-quiz/)
 
 ![](/assets/lesson-4/top-favicons.jpg)
 
-This image shows the favicons for the top 300,000 websites, with their size determined by their relative page-views. You can browse also see an [interactive version of the visualization](https://nmap.org/favicon/), which really shows the popularity of red and blue. Why do you think that is?
+This image shows the favicons of the top 300,000 websites, with their size determined by their relative page-views. You can browse also see an [interactive version of the visualization](https://nmap.org/favicon/), which really shows the popularity of red and blue. Why do you think that is?
 
 ### Workflow
 
@@ -35,7 +35,7 @@ While your finished favicon should be 32px x 32px, it will be much easier to des
 1. Create a new document that is 320px x 320px \(or larger, as long as it's square\). 
 2. Design your icon
 3. Select your entire icon and choose Object &gt;&gt;&gt; Expand 
-   * This ensures that any strokes or text won't change when your resize it; if you want to keep the original artwork for future use, then just duplicate your artboard.
+   * This ensures that any strokes or text won't change when your resize it; if you want to keep the original artwork for future use, then just duplicate your artboard. 
    * This isn't strictly necessary since the artwork will get rasterized when we save it as a PNG, but this way you can export it as an SVG too.
 4. Open the Asset Export window
 5. Select your entire icon and drag it into the Asset Export window.
@@ -63,9 +63,9 @@ For this exercise, you might make a traditional logo, but you could also make a 
 
 When designing your artwork, consider where you want to put the image in your website in addition to the favicon. If you export the image as an SVG you can display it at any size, but a PNG will look pixelated if you create it at 320px wide but set it to occupy a 1000px wide space in Muse.
 
-### Submission 
+### Submission
 
-Submit the following to Canvas: 
+Submit the following to Canvas:
 
 * Exported PNG image of your vector artwork; must be full-size, **i.e. larger than 32px x 32px**
 * Screenshot showing your favicon in a web browser \(use Muse's "preview in browser" feature\)
