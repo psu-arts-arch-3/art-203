@@ -1,4 +1,6 @@
-Use this template to write your design summary. We will use this format for additional assignments throughout the course. Save your Design Summary as a .docx or .pdf file. 
+Use this template to write a design summary about your final Landing Page. We will use this format for additional assignments throughout the course. Save your Design Summary as a .docx or .pdf file.
+
+
 
 **Summary for: **Lesson 2 Assignment
 
