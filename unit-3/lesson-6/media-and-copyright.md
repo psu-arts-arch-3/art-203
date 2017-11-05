@@ -56,7 +56,7 @@ If you use media from any of these sites, **you must include appropriate credit*
 
 Some licenses specify that you must credit the author, some may allow blanket use without any credit \(called "Creative Commons Zero" or public domain\). You might include a few lines of credits in your site footer, or include a link on your About page.
 
-\*\*\* **Creating your own graphics or using original photography will always be rewarded during grading. \*\*\***
+**Creating your own graphics or using original photography will always be rewarded during grading.**
 
 Be original and share alike.
 
