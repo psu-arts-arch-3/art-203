@@ -1,4 +1,4 @@
-Due to the variety of projects and filetypes involved in web design, we will submit work in a few different ways:
+Due to the variety of projects and filetypes involved in web design, we will submit work to a few different locations:
 
 **Open Studio: **class-wide galleries of images for each assignment. Students will leave comments here during peer reviews for exercises, assignments, and blog posts.
 
@@ -19,11 +19,9 @@ When an assignment is due, you will find a button on the course page will have a
 
 Below please find a description of each tab located in the open studio:
 
-**Assignments: **This page allows you to see each assignment, grouped by unit and lesson. Once you click on an assignment, you will find a description and submission link. All images can be uploaded as a either jpg, png, or gif.
+**Recent Activity: **Self-explanatory.
 
-**Open Studio: **This tab allows you to see your classmates’ submissions. Please note: You can narrow down the amount submissions shown by selecting the select size in the drop down menu. You can also narrow down your search by lesson.
+**Project Management: **This page allows you to see each assignment, grouped by unit and lesson. Once you click on an assignment, you will find a description and submission link. All images can be uploaded as a either jpg, png, or gif.
 
-**Critique: **This is the area you will use for critiquing your peers.
-
-**My Studio: **This is the area where you can see all of your work. You can sort by image, video, files, and links
+**View Studio Projects: **This tab allows you to see your classmates’ submissions. Please note: You can narrow the amount submissions shown by selecting the select size in the drop down menu. You can also narrow down your search by lesson. Click on a submission to view the full post, and read or leave comments. 
 
