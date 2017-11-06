@@ -1,6 +1,6 @@
-## Communication {#page-title}
+## Communication 
 
-### Overview {#db7874dcf12b8ae256f2493d79484731}
+### Overview 
 
 In a face-to-face class, most of your communication needs are met in the classroom: hearing announcements, asking questions and receiving answers, engaging in small group discussions, and so on. In a fully online course, all communication is electronic and not necessarily immediate. Online communication involves aspects of complying with University policy, configuring Canvas to support your preferences, using the right communication tool for the task at hand, and treating others with the same respect you would show if you were speaking with them face-to-face.
 
@@ -17,25 +17,24 @@ Accordingly, this section of the orientation should help you do the following:
   Canvas
    communication tools
 
-### University Policies {#346b81a32e7007eccadf60252bb599f0}
+### University Policies 
 
 * University policy dictates that the instructor cannot discuss academic information with students via e-mail EXCEPT when messages are sent to and from your PSU e-mail account.
 * If you write from another account \(Gmail, etc.\), you will be asked to use your PSU e-mail or the Canvas messaging system \(Conversations\). This is the only way to be sure the message comes from a PSU student.
 
-### Configure yourCanvasSettings and Notification Preferences {#490b2834e65737c1fce95e468cc8b8bf}
+### Configure yourCanvas Settings and Notification Preferences 
 
 * **Note: **your configuration choices are global, not course-specific; whatever method/frequency you select will apply to ALL courses in which you are enrolled.
 * In the Ways to Contact panel of your Canvas account settings, supply your Penn State e-mail address; you may add other e-mail or messaging addresses as well
 * You may also register a number of popular Web services for which you have accounts to streamline your communication
 * In your Notifications, make your choices for each Activity Category; for example, you will not receive calendar updates outside of Canvas UNLESS you turn that notification option on
 
-### Announcements {#6f207f8b5dfe1eebac63467930df5189}
-
+### Announcements 
 * Announcements are what you would expect: timely alerts, reminders, and other notices from your instructor regarding important information for students enrolled in the course
 * **Important**: you will not receive a course announcement outside of Canvas UNLESS you turn that notification option on \(we advise setting it for immediate notification\)
 * Depending on how your instructor has configured announcements, you may or may not be able to reply to them
 
-### Conversations {#ce1b1e8ce920100d134d0212d3a8f53f}
+### Conversations 
 
 Conversations are the Canvas equivalent to e-mail. You may also hear them referred to as "messages" or the "messaging system" or simply the "inbox." The most direct form of communication with the instructor or TA will be via Conversations. You are encouraged to use Conversations to address any and all questions or concerns that you may have.
 
@@ -47,12 +46,12 @@ Conversations are the Canvas equivalent to e-mail. You may also hear them referr
   Canvas you should request this in your message.
 * Gradebook comments addressed to you will appear in your Inbox.
 
-### Discussions {#77230e94b5cd88d51a872031531bfecd}
+### Discussions 
 
 * Discussions are very similar to other discussion forum tools you likely have used
 * **Note**: If you wish to receive discussion updates outside of Canvas, you will need to check the box to subscribe to that discussion. You may want to subscribe to all of the course discussions at once.
 
-### Communicating Online \(Netiquette\) {#d8544ba1b053e41368fa915864c6ea1c}
+### Communicating Online (Netiquette)
 
 Communicating online is an everyday activity for most of us; so much so that the tone and form of our communications oftentimes becomes highly informal and abbreviated. A breezy, informal communication style is fine with our friends or family \(people who know us and likely understand our perspectives\) but can become problematic when we’re trying to communicate with formal acquaintances \(i.e., class instructors\) or in situations \(such as in online course discussions\) where we might be trying to convey or discuss complex ideas with relative strangers.  
   
@@ -74,7 +73,7 @@ Here are some suggestions for contributing to online discussions:
   * **Cite your References. **Acknowledge the source of your information and provide links to online material that might help expand or illustrate your points.
   * **Contribute enthusiastically **and diligently to online conversations but don’t monopolize or hijack them. Since reading other’s comments or articles can be very time consuming, try to be succinct and brief.
 
-### Communication Tutorials and Documentation {#f43b6183f30d3df392f5551d68273425}
+### Communication Tutorials and Documentation 
 
 For video demonstrations and tutorial documents related to the above-mentionedCanvastools, please see this URL:
 
