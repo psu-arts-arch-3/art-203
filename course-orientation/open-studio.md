@@ -6,7 +6,7 @@ Art 203 Course Orientation is very important. During orientation, you will take 
 
 
 
-### **During Orientation, You Will:** {#346b81a32e7007eccadf60252bb599f0}
+### **During Orientation, You Will:** 
 
 * Get to know your instructor
 * Review the syllabus closely for course requirements, due dates, policies, required materials etc. 
@@ -16,7 +16,7 @@ Art 203 Course Orientation is very important. During orientation, you will take 
 * Come to understand the unique characteristics of online learning
 * Demonstrate your readiness to begin the course by completing a graded Orientation Quiz   .  \(Note that this quiz is untimed, open-book, with unlimited attempts.\)
 
-### Steps to Completion {#490b2834e65737c1fce95e468cc8b8bf}
+### Steps to Completion 
 
 In order to complete the course Orientation
 
